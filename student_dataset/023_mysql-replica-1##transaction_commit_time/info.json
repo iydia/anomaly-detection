@@ -1,0 +1,12 @@
+{
+  "case_id": 23,
+  "case_name": "023_mysql-replica-1##transaction_commit_time",
+  "seq_len": 920,
+  "train_seq_len": 460,
+  "test_seq_len": 460,
+  "intervals": 345,
+  "training set anomaly ratio": 0.21521739130434783,
+  "test set anomaly ratio": 0.13043478260869565,
+  "metric_type": "LatencySecond",
+  "metric_name": "mysql-replica-1##transaction_commit_time"
+}

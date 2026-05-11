@@ -1,0 +1,12 @@
+{
+  "case_id": 77,
+  "case_name": "077_security-scanner##records_inserted_per_second",
+  "seq_len": 820,
+  "train_seq_len": 410,
+  "test_seq_len": 410,
+  "intervals": 864,
+  "training set anomaly ratio": 0.0951219512195122,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "QPS",
+  "metric_name": "security-scanner##records_inserted_per_second"
+}

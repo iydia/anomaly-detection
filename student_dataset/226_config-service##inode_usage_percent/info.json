@@ -1,0 +1,12 @@
+{
+  "case_id": 226,
+  "case_name": "226_config-service##inode_usage_percent",
+  "seq_len": 256,
+  "train_seq_len": 128,
+  "test_seq_len": 128,
+  "intervals": 345,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.109375,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "config-service##inode_usage_percent"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 156,
+  "case_name": "156_api-proxy##container_starts_per_second",
+  "seq_len": 861,
+  "train_seq_len": 430,
+  "test_seq_len": 431,
+  "intervals": 3600,
+  "training set anomaly ratio": 0.10930232558139535,
+  "test set anomaly ratio": 0.02320185614849188,
+  "metric_type": "QPS",
+  "metric_name": "api-proxy##container_starts_per_second"
+}

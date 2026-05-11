@@ -1,0 +1,12 @@
+{
+  "case_id": 538,
+  "case_name": "538_postgres-read-1##network_bandwidth_utilization",
+  "seq_len": 980,
+  "train_seq_len": 490,
+  "test_seq_len": 490,
+  "intervals": 600,
+  "training set anomaly ratio": 0.05714285714285714,
+  "test set anomaly ratio": 0.030612244897959183,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "postgres-read-1##network_bandwidth_utilization"
+}

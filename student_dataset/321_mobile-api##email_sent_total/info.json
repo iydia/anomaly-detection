@@ -1,0 +1,12 @@
+{
+  "case_id": 321,
+  "case_name": "321_mobile-api##email_sent_total",
+  "seq_len": 528,
+  "train_seq_len": 264,
+  "test_seq_len": 264,
+  "intervals": 864,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "Count",
+  "metric_name": "mobile-api##email_sent_total"
+}

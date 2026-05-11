@@ -1,0 +1,12 @@
+{
+  "case_id": 487,
+  "case_name": "487_gateway-service##dns_lookup_time",
+  "seq_len": 302,
+  "train_seq_len": 151,
+  "test_seq_len": 151,
+  "intervals": 600,
+  "training set anomaly ratio": 0.1986754966887417,
+  "test set anomaly ratio": 0.6026490066225165,
+  "metric_type": "LatencySecond",
+  "metric_name": "gateway-service##dns_lookup_time"
+}

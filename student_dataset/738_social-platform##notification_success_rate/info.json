@@ -1,0 +1,12 @@
+{
+  "case_id": 738,
+  "case_name": "738_social-platform##notification_success_rate",
+  "seq_len": 512,
+  "train_seq_len": 256,
+  "test_seq_len": 256,
+  "intervals": 600,
+  "training set anomaly ratio": 0.09375,
+  "test set anomaly ratio": 0.1875,
+  "metric_type": "SuccessRate",
+  "metric_name": "social-platform##notification_success_rate"
+}

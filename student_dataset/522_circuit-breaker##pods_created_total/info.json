@@ -1,0 +1,12 @@
+{
+  "case_id": 522,
+  "case_name": "522_circuit-breaker##pods_created_total",
+  "seq_len": 1024,
+  "train_seq_len": 512,
+  "test_seq_len": 512,
+  "intervals": 600,
+  "training set anomaly ratio": 0.068359375,
+  "test set anomaly ratio": 0.150390625,
+  "metric_type": "Count",
+  "metric_name": "circuit-breaker##pods_created_total"
+}

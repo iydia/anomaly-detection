@@ -1,0 +1,12 @@
+{
+  "case_id": 428,
+  "case_name": "428_payment-processor##sql_execution_time",
+  "seq_len": 560,
+  "train_seq_len": 280,
+  "test_seq_len": 280,
+  "intervals": 864,
+  "training set anomaly ratio": 0.14642857142857144,
+  "test set anomaly ratio": 0.06428571428571428,
+  "metric_type": "LatencySecond",
+  "metric_name": "payment-processor##sql_execution_time"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 771,
+  "case_name": "771_circuit-breaker##network_timeout_errors_total",
+  "seq_len": 398,
+  "train_seq_len": 199,
+  "test_seq_len": 199,
+  "intervals": 300,
+  "training set anomaly ratio": 0.19597989949748743,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "ErrorCount",
+  "metric_name": "circuit-breaker##network_timeout_errors_total"
+}

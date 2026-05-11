@@ -1,0 +1,12 @@
+{
+  "case_id": 170,
+  "case_name": "170_redis-session##disk_read_latency",
+  "seq_len": 935,
+  "train_seq_len": 468,
+  "test_seq_len": 467,
+  "intervals": 864,
+  "training set anomaly ratio": 0.0811965811965812,
+  "test set anomaly ratio": 0.014989293361884369,
+  "metric_type": "LatencySecond",
+  "metric_name": "redis-session##disk_read_latency"
+}

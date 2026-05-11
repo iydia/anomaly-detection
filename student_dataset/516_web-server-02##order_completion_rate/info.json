@@ -1,0 +1,12 @@
+{
+  "case_id": 516,
+  "case_name": "516_web-server-02##order_completion_rate",
+  "seq_len": 619,
+  "train_seq_len": 310,
+  "test_seq_len": 309,
+  "intervals": 300,
+  "training set anomaly ratio": 0.012903225806451613,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "SuccessRate",
+  "metric_name": "web-server-02##order_completion_rate"
+}

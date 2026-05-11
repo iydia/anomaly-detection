@@ -1,0 +1,12 @@
+{
+  "case_id": 767,
+  "case_name": "767_consul-agent-1##network_timeout_errors_total",
+  "seq_len": 929,
+  "train_seq_len": 464,
+  "test_seq_len": 465,
+  "intervals": 345,
+  "training set anomaly ratio": 0.0021551724137931034,
+  "test set anomaly ratio": 0.01935483870967742,
+  "metric_type": "ErrorCount",
+  "metric_name": "consul-agent-1##network_timeout_errors_total"
+}

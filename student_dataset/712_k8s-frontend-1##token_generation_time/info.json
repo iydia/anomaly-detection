@@ -1,0 +1,12 @@
+{
+  "case_id": 712,
+  "case_name": "712_k8s-frontend-1##token_generation_time",
+  "seq_len": 841,
+  "train_seq_len": 420,
+  "test_seq_len": 421,
+  "intervals": 600,
+  "training set anomaly ratio": 0.06428571428571428,
+  "test set anomaly ratio": 0.1876484560570071,
+  "metric_type": "LatencySecond",
+  "metric_name": "k8s-frontend-1##token_generation_time"
+}

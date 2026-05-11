@@ -1,0 +1,12 @@
+{
+  "case_id": 936,
+  "case_name": "936_cache-server-01##service_health_score",
+  "seq_len": 662,
+  "train_seq_len": 331,
+  "test_seq_len": 331,
+  "intervals": 600,
+  "training set anomaly ratio": 0.3957703927492447,
+  "test set anomaly ratio": 0.030211480362537766,
+  "metric_type": "SuccessRate",
+  "metric_name": "cache-server-01##service_health_score"
+}

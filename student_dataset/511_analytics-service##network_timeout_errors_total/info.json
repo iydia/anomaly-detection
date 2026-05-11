@@ -1,0 +1,12 @@
+{
+  "case_id": 511,
+  "case_name": "511_analytics-service##network_timeout_errors_total",
+  "seq_len": 590,
+  "train_seq_len": 295,
+  "test_seq_len": 295,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.07796610169491526,
+  "test set anomaly ratio": 0.3152542372881356,
+  "metric_type": "ErrorCount",
+  "metric_name": "analytics-service##network_timeout_errors_total"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 5,
+  "case_name": "005_nginx-proxy-1##api_response_time",
+  "seq_len": 1024,
+  "train_seq_len": 512,
+  "test_seq_len": 512,
+  "intervals": 345,
+  "training set anomaly ratio": 0.01171875,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "LatencySecond",
+  "metric_name": "nginx-proxy-1##api_response_time"
+}

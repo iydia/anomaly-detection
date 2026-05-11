@@ -1,0 +1,12 @@
+{
+  "case_id": 506,
+  "case_name": "506_logging-service##connection_timeout_errors_total",
+  "seq_len": 945,
+  "train_seq_len": 472,
+  "test_seq_len": 473,
+  "intervals": 300,
+  "training set anomaly ratio": 0.15254237288135594,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "ErrorCount",
+  "metric_name": "logging-service##connection_timeout_errors_total"
+}

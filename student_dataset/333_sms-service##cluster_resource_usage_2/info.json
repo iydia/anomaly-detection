@@ -1,0 +1,12 @@
+{
+  "case_id": 333,
+  "case_name": "333_sms-service##cluster_resource_usage_2",
+  "seq_len": 1024,
+  "train_seq_len": 512,
+  "test_seq_len": 512,
+  "intervals": 864,
+  "training set anomaly ratio": 0.0703125,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "sms-service##cluster_resource_usage_2"
+}

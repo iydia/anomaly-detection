@@ -1,0 +1,12 @@
+{
+  "case_id": 229,
+  "case_name": "229_mysql-primary##notifications_sent_total",
+  "seq_len": 716,
+  "train_seq_len": 358,
+  "test_seq_len": 358,
+  "intervals": 345,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.019553072625698324,
+  "metric_type": "Count",
+  "metric_name": "mysql-primary##notifications_sent_total"
+}

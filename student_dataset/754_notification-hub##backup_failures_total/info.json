@@ -1,0 +1,12 @@
+{
+  "case_id": 754,
+  "case_name": "754_notification-hub##backup_failures_total",
+  "seq_len": 1024,
+  "train_seq_len": 512,
+  "test_seq_len": 512,
+  "intervals": 345,
+  "training set anomaly ratio": 0.123046875,
+  "test set anomaly ratio": 0.181640625,
+  "metric_type": "ErrorCount",
+  "metric_name": "notification-hub##backup_failures_total"
+}

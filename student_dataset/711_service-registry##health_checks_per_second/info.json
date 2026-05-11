@@ -1,0 +1,12 @@
+{
+  "case_id": 711,
+  "case_name": "711_service-registry##health_checks_per_second",
+  "seq_len": 475,
+  "train_seq_len": 238,
+  "test_seq_len": 237,
+  "intervals": 3600,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.24472573839662448,
+  "metric_type": "QPS",
+  "metric_name": "service-registry##health_checks_per_second"
+}

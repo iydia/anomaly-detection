@@ -1,0 +1,12 @@
+{
+  "case_id": 495,
+  "case_name": "495_iot-platform##orders_created_total",
+  "seq_len": 291,
+  "train_seq_len": 146,
+  "test_seq_len": 145,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.3103448275862069,
+  "metric_type": "Count",
+  "metric_name": "iot-platform##orders_created_total"
+}

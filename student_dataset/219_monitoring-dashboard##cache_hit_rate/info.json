@@ -1,0 +1,12 @@
+{
+  "case_id": 219,
+  "case_name": "219_monitoring-dashboard##cache_hit_rate",
+  "seq_len": 849,
+  "train_seq_len": 424,
+  "test_seq_len": 425,
+  "intervals": 345,
+  "training set anomaly ratio": 0.12735849056603774,
+  "test set anomaly ratio": 0.07529411764705882,
+  "metric_type": "SuccessRate",
+  "metric_name": "monitoring-dashboard##cache_hit_rate"
+}

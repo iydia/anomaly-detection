@@ -1,0 +1,12 @@
+{
+  "case_id": 726,
+  "case_name": "726_product-service##transaction_commit_time",
+  "seq_len": 798,
+  "train_seq_len": 399,
+  "test_seq_len": 399,
+  "intervals": 345,
+  "training set anomaly ratio": 0.07017543859649122,
+  "test set anomaly ratio": 0.22807017543859648,
+  "metric_type": "LatencySecond",
+  "metric_name": "product-service##transaction_commit_time"
+}

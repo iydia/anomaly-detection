@@ -1,0 +1,12 @@
+{
+  "case_id": 149,
+  "case_name": "149_recommendation-service##search_queries_per_second",
+  "seq_len": 512,
+  "train_seq_len": 256,
+  "test_seq_len": 256,
+  "intervals": 864,
+  "training set anomaly ratio": 0.046875,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "QPS",
+  "metric_name": "recommendation-service##search_queries_per_second"
+}

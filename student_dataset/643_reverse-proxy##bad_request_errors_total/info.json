@@ -1,0 +1,12 @@
+{
+  "case_id": 643,
+  "case_name": "643_reverse-proxy##bad_request_errors_total",
+  "seq_len": 939,
+  "train_seq_len": 470,
+  "test_seq_len": 469,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.006382978723404255,
+  "test set anomaly ratio": 0.0021321961620469083,
+  "metric_type": "ErrorCount",
+  "metric_name": "reverse-proxy##bad_request_errors_total"
+}

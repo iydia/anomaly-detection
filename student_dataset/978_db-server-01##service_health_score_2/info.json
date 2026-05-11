@@ -1,0 +1,12 @@
+{
+  "case_id": 978,
+  "case_name": "978_db-server-01##service_health_score_2",
+  "seq_len": 558,
+  "train_seq_len": 279,
+  "test_seq_len": 279,
+  "intervals": 864,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.0035842293906810036,
+  "metric_type": "SuccessRate",
+  "metric_name": "db-server-01##service_health_score_2"
+}

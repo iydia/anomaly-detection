@@ -1,0 +1,12 @@
+{
+  "case_id": 171,
+  "case_name": "171_spark-cluster##page_renders_per_second",
+  "seq_len": 523,
+  "train_seq_len": 262,
+  "test_seq_len": 261,
+  "intervals": 600,
+  "training set anomaly ratio": 0.05725190839694656,
+  "test set anomaly ratio": 0.12643678160919541,
+  "metric_type": "QPS",
+  "metric_name": "spark-cluster##page_renders_per_second"
+}

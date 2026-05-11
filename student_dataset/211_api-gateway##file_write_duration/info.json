@@ -1,0 +1,12 @@
+{
+  "case_id": 211,
+  "case_name": "211_api-gateway##file_write_duration",
+  "seq_len": 847,
+  "train_seq_len": 424,
+  "test_seq_len": 423,
+  "intervals": 300,
+  "training set anomaly ratio": 0.21933962264150944,
+  "test set anomaly ratio": 0.08983451536643026,
+  "metric_type": "LatencySecond",
+  "metric_name": "api-gateway##file_write_duration"
+}

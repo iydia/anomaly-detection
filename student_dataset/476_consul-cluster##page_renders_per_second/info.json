@@ -1,0 +1,12 @@
+{
+  "case_id": 476,
+  "case_name": "476_consul-cluster##page_renders_per_second",
+  "seq_len": 741,
+  "train_seq_len": 370,
+  "test_seq_len": 371,
+  "intervals": 60,
+  "training set anomaly ratio": 0.04594594594594595,
+  "test set anomaly ratio": 0.12398921832884097,
+  "metric_type": "QPS",
+  "metric_name": "consul-cluster##page_renders_per_second"
+}

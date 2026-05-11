@@ -1,0 +1,12 @@
+{
+  "case_id": 858,
+  "case_name": "858_redis-cache-1##files_processed_per_second",
+  "seq_len": 982,
+  "train_seq_len": 491,
+  "test_seq_len": 491,
+  "intervals": 60,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.12627291242362526,
+  "metric_type": "QPS",
+  "metric_name": "redis-cache-1##files_processed_per_second"
+}

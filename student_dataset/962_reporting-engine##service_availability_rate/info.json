@@ -1,0 +1,12 @@
+{
+  "case_id": 962,
+  "case_name": "962_reporting-engine##service_availability_rate",
+  "seq_len": 379,
+  "train_seq_len": 190,
+  "test_seq_len": 189,
+  "intervals": 864,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.010582010582010581,
+  "metric_type": "SuccessRate",
+  "metric_name": "reporting-engine##service_availability_rate"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 503,
+  "case_name": "503_payment-gateway##db_query_latency",
+  "seq_len": 998,
+  "train_seq_len": 499,
+  "test_seq_len": 499,
+  "intervals": 345,
+  "training set anomaly ratio": 0.07615230460921844,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "LatencySecond",
+  "metric_name": "payment-gateway##db_query_latency"
+}

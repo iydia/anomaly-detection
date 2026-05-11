@@ -1,0 +1,12 @@
+{
+  "case_id": 296,
+  "case_name": "296_discovery-service##email_delivery_success_rate",
+  "seq_len": 899,
+  "train_seq_len": 450,
+  "test_seq_len": 449,
+  "intervals": 345,
+  "training set anomaly ratio": 0.0044444444444444444,
+  "test set anomaly ratio": 0.13140311804008908,
+  "metric_type": "SuccessRate",
+  "metric_name": "discovery-service##email_delivery_success_rate"
+}

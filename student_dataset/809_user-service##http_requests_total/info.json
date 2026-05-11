@@ -1,0 +1,12 @@
+{
+  "case_id": 809,
+  "case_name": "809_user-service##http_requests_total",
+  "seq_len": 928,
+  "train_seq_len": 464,
+  "test_seq_len": 464,
+  "intervals": 3600,
+  "training set anomaly ratio": 0.04956896551724138,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "Count",
+  "metric_name": "user-service##http_requests_total"
+}

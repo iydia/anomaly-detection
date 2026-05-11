@@ -1,0 +1,12 @@
+{
+  "case_id": 109,
+  "case_name": "109_data-pipeline##sms_delivery_success_rate",
+  "seq_len": 517,
+  "train_seq_len": 258,
+  "test_seq_len": 259,
+  "intervals": 864,
+  "training set anomaly ratio": 0.04263565891472868,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "SuccessRate",
+  "metric_name": "data-pipeline##sms_delivery_success_rate"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 162,
+  "case_name": "162_elasticsearch-node1##sms_delivered_total",
+  "seq_len": 320,
+  "train_seq_len": 160,
+  "test_seq_len": 160,
+  "intervals": 300,
+  "training set anomaly ratio": 0.0375,
+  "test set anomaly ratio": 0.04375,
+  "metric_type": "Count",
+  "metric_name": "elasticsearch-node1##sms_delivered_total"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 656,
+  "case_name": "656_notification-service##queue_capacity_usage",
+  "seq_len": 772,
+  "train_seq_len": 386,
+  "test_seq_len": 386,
+  "intervals": 600,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.31088082901554404,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "notification-service##queue_capacity_usage"
+}

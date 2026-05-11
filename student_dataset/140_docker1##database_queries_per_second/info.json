@@ -1,0 +1,12 @@
+{
+  "case_id": 140,
+  "case_name": "140_docker1##database_queries_per_second",
+  "seq_len": 595,
+  "train_seq_len": 298,
+  "test_seq_len": 297,
+  "intervals": 345,
+  "training set anomaly ratio": 0.030201342281879196,
+  "test set anomaly ratio": 0.02356902356902357,
+  "metric_type": "QPS",
+  "metric_name": "docker1##database_queries_per_second"
+}

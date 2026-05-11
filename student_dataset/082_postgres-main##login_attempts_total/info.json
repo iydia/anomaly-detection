@@ -1,0 +1,12 @@
+{
+  "case_id": 82,
+  "case_name": "082_postgres-main##login_attempts_total",
+  "seq_len": 584,
+  "train_seq_len": 292,
+  "test_seq_len": 292,
+  "intervals": 864,
+  "training set anomaly ratio": 0.05136986301369863,
+  "test set anomaly ratio": 0.1404109589041096,
+  "metric_type": "Count",
+  "metric_name": "postgres-main##login_attempts_total"
+}

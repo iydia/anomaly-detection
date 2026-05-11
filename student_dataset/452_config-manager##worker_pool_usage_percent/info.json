@@ -1,0 +1,12 @@
+{
+  "case_id": 452,
+  "case_name": "452_config-manager##worker_pool_usage_percent",
+  "seq_len": 669,
+  "train_seq_len": 334,
+  "test_seq_len": 335,
+  "intervals": 864,
+  "training set anomaly ratio": 0.05688622754491018,
+  "test set anomaly ratio": 0.19402985074626866,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "config-manager##worker_pool_usage_percent"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 404,
+  "case_name": "404_social-platform##transaction_commit_time",
+  "seq_len": 500,
+  "train_seq_len": 250,
+  "test_seq_len": 250,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.224,
+  "test set anomaly ratio": 0.196,
+  "metric_type": "LatencySecond",
+  "metric_name": "social-platform##transaction_commit_time"
+}

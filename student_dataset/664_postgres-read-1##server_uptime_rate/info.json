@@ -1,0 +1,12 @@
+{
+  "case_id": 664,
+  "case_name": "664_postgres-read-1##server_uptime_rate",
+  "seq_len": 634,
+  "train_seq_len": 317,
+  "test_seq_len": 317,
+  "intervals": 60,
+  "training set anomaly ratio": 0.056782334384858045,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "SuccessRate",
+  "metric_name": "postgres-read-1##server_uptime_rate"
+}

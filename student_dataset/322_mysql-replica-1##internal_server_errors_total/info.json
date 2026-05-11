@@ -1,0 +1,12 @@
+{
+  "case_id": 322,
+  "case_name": "322_mysql-replica-1##internal_server_errors_total",
+  "seq_len": 699,
+  "train_seq_len": 350,
+  "test_seq_len": 349,
+  "intervals": 345,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.12034383954154727,
+  "metric_type": "ErrorCount",
+  "metric_name": "mysql-replica-1##internal_server_errors_total"
+}

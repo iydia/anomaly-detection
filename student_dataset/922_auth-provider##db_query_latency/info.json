@@ -1,0 +1,12 @@
+{
+  "case_id": 922,
+  "case_name": "922_auth-provider##db_query_latency",
+  "seq_len": 684,
+  "train_seq_len": 342,
+  "test_seq_len": 342,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.3128654970760234,
+  "test set anomaly ratio": 0.04678362573099415,
+  "metric_type": "LatencySecond",
+  "metric_name": "auth-provider##db_query_latency"
+}

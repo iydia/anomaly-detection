@@ -1,0 +1,12 @@
+{
+  "case_id": 473,
+  "case_name": "473_app-server-02##swap_usage_percent",
+  "seq_len": 567,
+  "train_seq_len": 284,
+  "test_seq_len": 283,
+  "intervals": 345,
+  "training set anomaly ratio": 0.2535211267605634,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "app-server-02##swap_usage_percent"
+}

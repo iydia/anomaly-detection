@@ -1,0 +1,12 @@
+{
+  "case_id": 385,
+  "case_name": "385_analytics-service##http_response_latency",
+  "seq_len": 656,
+  "train_seq_len": 328,
+  "test_seq_len": 328,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.20121951219512196,
+  "test set anomaly ratio": 0.1798780487804878,
+  "metric_type": "LatencySecond",
+  "metric_name": "analytics-service##http_response_latency"
+}

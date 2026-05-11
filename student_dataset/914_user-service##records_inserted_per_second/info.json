@@ -1,0 +1,12 @@
+{
+  "case_id": 914,
+  "case_name": "914_user-service##records_inserted_per_second",
+  "seq_len": 462,
+  "train_seq_len": 231,
+  "test_seq_len": 231,
+  "intervals": 864,
+  "training set anomaly ratio": 0.24675324675324675,
+  "test set anomaly ratio": 0.12987012987012986,
+  "metric_type": "QPS",
+  "metric_name": "user-service##records_inserted_per_second"
+}

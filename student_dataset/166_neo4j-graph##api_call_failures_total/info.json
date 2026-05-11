@@ -1,0 +1,12 @@
+{
+  "case_id": 166,
+  "case_name": "166_neo4j-graph##api_call_failures_total",
+  "seq_len": 689,
+  "train_seq_len": 344,
+  "test_seq_len": 345,
+  "intervals": 345,
+  "training set anomaly ratio": 0.11337209302325581,
+  "test set anomaly ratio": 0.09565217391304348,
+  "metric_type": "ErrorCount",
+  "metric_name": "neo4j-graph##api_call_failures_total"
+}

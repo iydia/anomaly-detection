@@ -1,0 +1,12 @@
+{
+  "case_id": 531,
+  "case_name": "531_rate-limiter##cache_memory_usage_percent",
+  "seq_len": 550,
+  "train_seq_len": 275,
+  "test_seq_len": 275,
+  "intervals": 345,
+  "training set anomaly ratio": 0.15272727272727274,
+  "test set anomaly ratio": 0.15272727272727274,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "rate-limiter##cache_memory_usage_percent"
+}

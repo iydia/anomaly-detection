@@ -1,0 +1,12 @@
+{
+  "case_id": 773,
+  "case_name": "773_mongodb-cluster##api_call_failures_total",
+  "seq_len": 336,
+  "train_seq_len": 168,
+  "test_seq_len": 168,
+  "intervals": 864,
+  "training set anomaly ratio": 0.5773809523809523,
+  "test set anomaly ratio": 0.375,
+  "metric_type": "ErrorCount",
+  "metric_name": "mongodb-cluster##api_call_failures_total"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 376,
+  "case_name": "376_monitoring-server##database_queries_per_second",
+  "seq_len": 617,
+  "train_seq_len": 308,
+  "test_seq_len": 309,
+  "intervals": 300,
+  "training set anomaly ratio": 0.2532467532467532,
+  "test set anomaly ratio": 0.019417475728155338,
+  "metric_type": "QPS",
+  "metric_name": "monitoring-server##database_queries_per_second"
+}

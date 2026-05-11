@@ -1,0 +1,12 @@
+{
+  "case_id": 381,
+  "case_name": "381_data-pipeline##http_success_rate",
+  "seq_len": 1003,
+  "train_seq_len": 502,
+  "test_seq_len": 501,
+  "intervals": 300,
+  "training set anomaly ratio": 0.08764940239043825,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "SuccessRate",
+  "metric_name": "data-pipeline##http_success_rate"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 837,
+  "case_name": "837_inventory-service##orders_created_total",
+  "seq_len": 256,
+  "train_seq_len": 128,
+  "test_seq_len": 128,
+  "intervals": 300,
+  "training set anomaly ratio": 0.078125,
+  "test set anomaly ratio": 0.078125,
+  "metric_type": "Count",
+  "metric_name": "inventory-service##orders_created_total"
+}

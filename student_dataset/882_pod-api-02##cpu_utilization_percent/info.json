@@ -1,0 +1,12 @@
+{
+  "case_id": 882,
+  "case_name": "882_pod-api-02##cpu_utilization_percent",
+  "seq_len": 458,
+  "train_seq_len": 229,
+  "test_seq_len": 229,
+  "intervals": 3600,
+  "training set anomaly ratio": 0.039301310043668124,
+  "test set anomaly ratio": 0.2794759825327511,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "pod-api-02##cpu_utilization_percent"
+}

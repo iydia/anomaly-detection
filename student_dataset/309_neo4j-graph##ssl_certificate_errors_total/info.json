@@ -1,0 +1,12 @@
+{
+  "case_id": 309,
+  "case_name": "309_neo4j-graph##ssl_certificate_errors_total",
+  "seq_len": 1002,
+  "train_seq_len": 501,
+  "test_seq_len": 501,
+  "intervals": 3600,
+  "training set anomaly ratio": 0.007984031936127744,
+  "test set anomaly ratio": 0.001996007984031936,
+  "metric_type": "ErrorCount",
+  "metric_name": "neo4j-graph##ssl_certificate_errors_total"
+}

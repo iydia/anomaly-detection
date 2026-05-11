@@ -1,0 +1,12 @@
+{
+  "case_id": 286,
+  "case_name": "286_payment-processor##network_round_trip_time",
+  "seq_len": 631,
+  "train_seq_len": 316,
+  "test_seq_len": 315,
+  "intervals": 600,
+  "training set anomaly ratio": 0.08860759493670886,
+  "test set anomaly ratio": 0.006349206349206349,
+  "metric_type": "LatencySecond",
+  "metric_name": "payment-processor##network_round_trip_time"
+}

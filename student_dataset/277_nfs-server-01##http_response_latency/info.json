@@ -1,0 +1,12 @@
+{
+  "case_id": 277,
+  "case_name": "277_nfs-server-01##http_response_latency",
+  "seq_len": 891,
+  "train_seq_len": 446,
+  "test_seq_len": 445,
+  "intervals": 300,
+  "training set anomaly ratio": 0.013452914798206279,
+  "test set anomaly ratio": 0.011235955056179775,
+  "metric_type": "LatencySecond",
+  "metric_name": "nfs-server-01##http_response_latency"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 257,
+  "case_name": "257_analytics-dashboard##disk_read_latency",
+  "seq_len": 924,
+  "train_seq_len": 462,
+  "test_seq_len": 462,
+  "intervals": 600,
+  "training set anomaly ratio": 0.09956709956709957,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "LatencySecond",
+  "metric_name": "analytics-dashboard##disk_read_latency"
+}

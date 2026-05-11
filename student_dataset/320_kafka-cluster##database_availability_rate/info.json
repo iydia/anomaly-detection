@@ -1,0 +1,12 @@
+{
+  "case_id": 320,
+  "case_name": "320_kafka-cluster##database_availability_rate",
+  "seq_len": 1024,
+  "train_seq_len": 512,
+  "test_seq_len": 512,
+  "intervals": 60,
+  "training set anomaly ratio": 0.017578125,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "SuccessRate",
+  "metric_name": "kafka-cluster##database_availability_rate"
+}

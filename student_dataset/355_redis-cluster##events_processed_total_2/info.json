@@ -1,0 +1,12 @@
+{
+  "case_id": 355,
+  "case_name": "355_redis-cluster##events_processed_total_2",
+  "seq_len": 513,
+  "train_seq_len": 256,
+  "test_seq_len": 257,
+  "intervals": 864,
+  "training set anomaly ratio": 0.19921875,
+  "test set anomaly ratio": 0.1245136186770428,
+  "metric_type": "Count",
+  "metric_name": "redis-cluster##events_processed_total_2"
+}

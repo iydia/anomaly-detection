@@ -1,0 +1,12 @@
+{
+  "case_id": 155,
+  "case_name": "155_discovery-service##events_processed_total",
+  "seq_len": 781,
+  "train_seq_len": 390,
+  "test_seq_len": 391,
+  "intervals": 300,
+  "training set anomaly ratio": 0.1282051282051282,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "Count",
+  "metric_name": "discovery-service##events_processed_total"
+}

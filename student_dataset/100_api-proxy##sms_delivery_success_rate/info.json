@@ -1,0 +1,12 @@
+{
+  "case_id": 100,
+  "case_name": "100_api-proxy##sms_delivery_success_rate",
+  "seq_len": 264,
+  "train_seq_len": 132,
+  "test_seq_len": 132,
+  "intervals": 345,
+  "training set anomaly ratio": 0.13636363636363635,
+  "test set anomaly ratio": 0.07575757575757576,
+  "metric_type": "SuccessRate",
+  "metric_name": "api-proxy##sms_delivery_success_rate"
+}

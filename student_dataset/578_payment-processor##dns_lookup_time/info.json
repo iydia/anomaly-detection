@@ -1,0 +1,12 @@
+{
+  "case_id": 578,
+  "case_name": "578_payment-processor##dns_lookup_time",
+  "seq_len": 828,
+  "train_seq_len": 414,
+  "test_seq_len": 414,
+  "intervals": 3600,
+  "training set anomaly ratio": 0.18357487922705315,
+  "test set anomaly ratio": 0.0024154589371980675,
+  "metric_type": "LatencySecond",
+  "metric_name": "payment-processor##dns_lookup_time"
+}

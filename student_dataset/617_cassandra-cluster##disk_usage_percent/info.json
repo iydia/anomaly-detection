@@ -1,0 +1,12 @@
+{
+  "case_id": 617,
+  "case_name": "617_cassandra-cluster##disk_usage_percent",
+  "seq_len": 1024,
+  "train_seq_len": 512,
+  "test_seq_len": 512,
+  "intervals": 864,
+  "training set anomaly ratio": 0.076171875,
+  "test set anomaly ratio": 0.015625,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "cassandra-cluster##disk_usage_percent"
+}

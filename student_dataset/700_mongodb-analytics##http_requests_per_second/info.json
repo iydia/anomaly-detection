@@ -1,0 +1,12 @@
+{
+  "case_id": 700,
+  "case_name": "700_mongodb-analytics##http_requests_per_second",
+  "seq_len": 285,
+  "train_seq_len": 142,
+  "test_seq_len": 143,
+  "intervals": 300,
+  "training set anomaly ratio": 0.3028169014084507,
+  "test set anomaly ratio": 0.06293706293706294,
+  "metric_type": "QPS",
+  "metric_name": "mongodb-analytics##http_requests_per_second"
+}

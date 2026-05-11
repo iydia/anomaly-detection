@@ -1,0 +1,12 @@
+{
+  "case_id": 234,
+  "case_name": "234_monitoring-agent##user_registrations_total",
+  "seq_len": 440,
+  "train_seq_len": 220,
+  "test_seq_len": 220,
+  "intervals": 600,
+  "training set anomaly ratio": 0.07272727272727272,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "Count",
+  "metric_name": "monitoring-agent##user_registrations_total"
+}

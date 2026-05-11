@@ -1,0 +1,12 @@
+{
+  "case_id": 644,
+  "case_name": "644_consul-cluster##payment_gateway_errors_total",
+  "seq_len": 575,
+  "train_seq_len": 288,
+  "test_seq_len": 287,
+  "intervals": 60,
+  "training set anomaly ratio": 0.1597222222222222,
+  "test set anomaly ratio": 0.21951219512195122,
+  "metric_type": "ErrorCount",
+  "metric_name": "consul-cluster##payment_gateway_errors_total"
+}

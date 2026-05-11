@@ -1,0 +1,12 @@
+{
+  "case_id": 348,
+  "case_name": "348_iot-platform##database_errors_total",
+  "seq_len": 759,
+  "train_seq_len": 380,
+  "test_seq_len": 379,
+  "intervals": 3600,
+  "training set anomaly ratio": 0.14210526315789473,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "ErrorCount",
+  "metric_name": "iot-platform##database_errors_total"
+}

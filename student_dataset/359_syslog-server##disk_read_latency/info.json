@@ -1,0 +1,12 @@
+{
+  "case_id": 359,
+  "case_name": "359_syslog-server##disk_read_latency",
+  "seq_len": 347,
+  "train_seq_len": 174,
+  "test_seq_len": 173,
+  "intervals": 300,
+  "training set anomaly ratio": 0.3333333333333333,
+  "test set anomaly ratio": 0.28901734104046245,
+  "metric_type": "LatencySecond",
+  "metric_name": "syslog-server##disk_read_latency"
+}

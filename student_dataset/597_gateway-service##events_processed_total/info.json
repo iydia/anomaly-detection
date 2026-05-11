@@ -1,0 +1,12 @@
+{
+  "case_id": 597,
+  "case_name": "597_gateway-service##events_processed_total",
+  "seq_len": 928,
+  "train_seq_len": 464,
+  "test_seq_len": 464,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.05603448275862069,
+  "test set anomaly ratio": 0.09913793103448276,
+  "metric_type": "Count",
+  "metric_name": "gateway-service##events_processed_total"
+}

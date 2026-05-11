@@ -1,0 +1,12 @@
+{
+  "case_id": 639,
+  "case_name": "639_grafana-dashboard##payment_success_rate",
+  "seq_len": 400,
+  "train_seq_len": 200,
+  "test_seq_len": 200,
+  "intervals": 300,
+  "training set anomaly ratio": 0.02,
+  "test set anomaly ratio": 0.085,
+  "metric_type": "SuccessRate",
+  "metric_name": "grafana-dashboard##payment_success_rate"
+}

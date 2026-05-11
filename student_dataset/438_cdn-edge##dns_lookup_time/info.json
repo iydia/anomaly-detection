@@ -1,0 +1,12 @@
+{
+  "case_id": 438,
+  "case_name": "438_cdn-edge##dns_lookup_time",
+  "seq_len": 453,
+  "train_seq_len": 226,
+  "test_seq_len": 227,
+  "intervals": 60,
+  "training set anomaly ratio": 0.19469026548672566,
+  "test set anomaly ratio": 0.07488986784140969,
+  "metric_type": "LatencySecond",
+  "metric_name": "cdn-edge##dns_lookup_time"
+}

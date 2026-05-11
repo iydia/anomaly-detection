@@ -1,0 +1,12 @@
+{
+  "case_id": 904,
+  "case_name": "904_mysql-primary##message_delivery_failures_total",
+  "seq_len": 547,
+  "train_seq_len": 274,
+  "test_seq_len": 273,
+  "intervals": 600,
+  "training set anomaly ratio": 0.058394160583941604,
+  "test set anomaly ratio": 0.003663003663003663,
+  "metric_type": "ErrorCount",
+  "metric_name": "mysql-primary##message_delivery_failures_total"
+}

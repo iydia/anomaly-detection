@@ -1,0 +1,12 @@
+{
+  "case_id": 860,
+  "case_name": "860_mysql-primary##message_delivery_rate",
+  "seq_len": 785,
+  "train_seq_len": 392,
+  "test_seq_len": 393,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.18622448979591838,
+  "test set anomaly ratio": 0.010178117048346057,
+  "metric_type": "SuccessRate",
+  "metric_name": "mysql-primary##message_delivery_rate"
+}

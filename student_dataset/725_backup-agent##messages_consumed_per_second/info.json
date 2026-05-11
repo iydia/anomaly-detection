@@ -1,0 +1,12 @@
+{
+  "case_id": 725,
+  "case_name": "725_backup-agent##messages_consumed_per_second",
+  "seq_len": 256,
+  "train_seq_len": 128,
+  "test_seq_len": 128,
+  "intervals": 345,
+  "training set anomaly ratio": 0.046875,
+  "test set anomaly ratio": 0.4140625,
+  "metric_type": "QPS",
+  "metric_name": "backup-agent##messages_consumed_per_second"
+}

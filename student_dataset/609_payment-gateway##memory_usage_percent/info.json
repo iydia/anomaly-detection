@@ -1,0 +1,12 @@
+{
+  "case_id": 609,
+  "case_name": "609_payment-gateway##memory_usage_percent",
+  "seq_len": 501,
+  "train_seq_len": 250,
+  "test_seq_len": 251,
+  "intervals": 345,
+  "training set anomaly ratio": 0.196,
+  "test set anomaly ratio": 0.01593625498007968,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "payment-gateway##memory_usage_percent"
+}

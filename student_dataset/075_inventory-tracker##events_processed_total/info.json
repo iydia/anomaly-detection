@@ -1,0 +1,12 @@
+{
+  "case_id": 75,
+  "case_name": "075_inventory-tracker##events_processed_total",
+  "seq_len": 478,
+  "train_seq_len": 239,
+  "test_seq_len": 239,
+  "intervals": 864,
+  "training set anomaly ratio": 0.016736401673640166,
+  "test set anomaly ratio": 0.26778242677824265,
+  "metric_type": "Count",
+  "metric_name": "inventory-tracker##events_processed_total"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 221,
+  "case_name": "221_dhcp-server##api_call_failures_total",
+  "seq_len": 289,
+  "train_seq_len": 144,
+  "test_seq_len": 145,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.020689655172413793,
+  "metric_type": "ErrorCount",
+  "metric_name": "dhcp-server##api_call_failures_total"
+}

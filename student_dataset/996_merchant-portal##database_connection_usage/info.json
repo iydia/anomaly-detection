@@ -1,0 +1,12 @@
+{
+  "case_id": 996,
+  "case_name": "996_merchant-portal##database_connection_usage",
+  "seq_len": 506,
+  "train_seq_len": 253,
+  "test_seq_len": 253,
+  "intervals": 300,
+  "training set anomaly ratio": 0.37549407114624506,
+  "test set anomaly ratio": 0.19367588932806323,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "merchant-portal##database_connection_usage"
+}

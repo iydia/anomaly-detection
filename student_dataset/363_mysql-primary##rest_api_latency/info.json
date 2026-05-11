@@ -1,0 +1,12 @@
+{
+  "case_id": 363,
+  "case_name": "363_mysql-primary##rest_api_latency",
+  "seq_len": 495,
+  "train_seq_len": 248,
+  "test_seq_len": 247,
+  "intervals": 600,
+  "training set anomaly ratio": 0.125,
+  "test set anomaly ratio": 0.16194331983805668,
+  "metric_type": "LatencySecond",
+  "metric_name": "mysql-primary##rest_api_latency"
+}

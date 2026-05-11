@@ -1,0 +1,12 @@
+{
+  "case_id": 641,
+  "case_name": "641_ntp-server##page_views_total",
+  "seq_len": 338,
+  "train_seq_len": 169,
+  "test_seq_len": 169,
+  "intervals": 300,
+  "training set anomaly ratio": 0.40236686390532544,
+  "test set anomaly ratio": 0.1242603550295858,
+  "metric_type": "Count",
+  "metric_name": "ntp-server##page_views_total"
+}

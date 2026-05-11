@@ -1,0 +1,12 @@
+{
+  "case_id": 545,
+  "case_name": "545_backup-agent##http_requests_per_second",
+  "seq_len": 1005,
+  "train_seq_len": 502,
+  "test_seq_len": 503,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.033797216699801194,
+  "metric_type": "QPS",
+  "metric_name": "backup-agent##http_requests_per_second"
+}

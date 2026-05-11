@@ -1,0 +1,12 @@
+{
+  "case_id": 358,
+  "case_name": "358_user-mgmt##database_connection_usage",
+  "seq_len": 704,
+  "train_seq_len": 352,
+  "test_seq_len": 352,
+  "intervals": 60,
+  "training set anomaly ratio": 0.10511363636363637,
+  "test set anomaly ratio": 0.045454545454545456,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "user-mgmt##database_connection_usage"
+}

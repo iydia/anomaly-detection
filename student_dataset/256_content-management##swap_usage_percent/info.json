@@ -1,0 +1,12 @@
+{
+  "case_id": 256,
+  "case_name": "256_content-management##swap_usage_percent",
+  "seq_len": 906,
+  "train_seq_len": 453,
+  "test_seq_len": 453,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.011037527593818985,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "content-management##swap_usage_percent"
+}

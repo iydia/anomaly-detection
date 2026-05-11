@@ -1,0 +1,12 @@
+{
+  "case_id": 501,
+  "case_name": "501_mongodb-logs##events_processed_per_second",
+  "seq_len": 952,
+  "train_seq_len": 476,
+  "test_seq_len": 476,
+  "intervals": 345,
+  "training set anomaly ratio": 0.1134453781512605,
+  "test set anomaly ratio": 0.03361344537815126,
+  "metric_type": "QPS",
+  "metric_name": "mongodb-logs##events_processed_per_second"
+}

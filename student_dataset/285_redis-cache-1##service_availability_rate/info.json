@@ -1,0 +1,12 @@
+{
+  "case_id": 285,
+  "case_name": "285_redis-cache-1##service_availability_rate",
+  "seq_len": 490,
+  "train_seq_len": 245,
+  "test_seq_len": 245,
+  "intervals": 3600,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.02040816326530612,
+  "metric_type": "SuccessRate",
+  "metric_name": "redis-cache-1##service_availability_rate"
+}

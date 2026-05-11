@@ -1,0 +1,12 @@
+{
+  "case_id": 436,
+  "case_name": "436_dns-resolver##containers_started_total",
+  "seq_len": 640,
+  "train_seq_len": 320,
+  "test_seq_len": 320,
+  "intervals": 600,
+  "training set anomaly ratio": 0.146875,
+  "test set anomaly ratio": 0.153125,
+  "metric_type": "Count",
+  "metric_name": "dns-resolver##containers_started_total"
+}

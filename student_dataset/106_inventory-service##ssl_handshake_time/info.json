@@ -1,0 +1,12 @@
+{
+  "case_id": 106,
+  "case_name": "106_inventory-service##ssl_handshake_time",
+  "seq_len": 283,
+  "train_seq_len": 142,
+  "test_seq_len": 141,
+  "intervals": 864,
+  "training set anomaly ratio": 0.33098591549295775,
+  "test set anomaly ratio": 0.36879432624113473,
+  "metric_type": "LatencySecond",
+  "metric_name": "inventory-service##ssl_handshake_time"
+}

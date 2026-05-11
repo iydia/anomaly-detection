@@ -1,0 +1,12 @@
+{
+  "case_id": 243,
+  "case_name": "243_rate-limiter##message_delivery_rate",
+  "seq_len": 298,
+  "train_seq_len": 149,
+  "test_seq_len": 149,
+  "intervals": 345,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.10738255033557047,
+  "metric_type": "SuccessRate",
+  "metric_name": "rate-limiter##message_delivery_rate"
+}

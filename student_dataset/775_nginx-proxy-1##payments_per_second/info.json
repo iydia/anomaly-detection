@@ -1,0 +1,12 @@
+{
+  "case_id": 775,
+  "case_name": "775_nginx-proxy-1##payments_per_second",
+  "seq_len": 1024,
+  "train_seq_len": 512,
+  "test_seq_len": 512,
+  "intervals": 300,
+  "training set anomaly ratio": 0.12890625,
+  "test set anomaly ratio": 0.013671875,
+  "metric_type": "QPS",
+  "metric_name": "nginx-proxy-1##payments_per_second"
+}

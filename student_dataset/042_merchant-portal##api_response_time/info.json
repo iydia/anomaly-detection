@@ -1,0 +1,12 @@
+{
+  "case_id": 42,
+  "case_name": "042_merchant-portal##api_response_time",
+  "seq_len": 513,
+  "train_seq_len": 256,
+  "test_seq_len": 257,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.23046875,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "LatencySecond",
+  "metric_name": "merchant-portal##api_response_time"
+}

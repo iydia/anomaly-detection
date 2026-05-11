@@ -1,0 +1,12 @@
+{
+  "case_id": 512,
+  "case_name": "512_service-registry##connection_timeout_errors_total",
+  "seq_len": 458,
+  "train_seq_len": 229,
+  "test_seq_len": 229,
+  "intervals": 60,
+  "training set anomaly ratio": 0.05240174672489083,
+  "test set anomaly ratio": 0.11790393013100436,
+  "metric_type": "ErrorCount",
+  "metric_name": "service-registry##connection_timeout_errors_total"
+}

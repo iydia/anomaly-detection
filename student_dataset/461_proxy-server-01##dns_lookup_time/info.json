@@ -1,0 +1,12 @@
+{
+  "case_id": 461,
+  "case_name": "461_proxy-server-01##dns_lookup_time",
+  "seq_len": 512,
+  "train_seq_len": 256,
+  "test_seq_len": 256,
+  "intervals": 600,
+  "training set anomaly ratio": 0.03125,
+  "test set anomaly ratio": 0.046875,
+  "metric_type": "LatencySecond",
+  "metric_name": "proxy-server-01##dns_lookup_time"
+}

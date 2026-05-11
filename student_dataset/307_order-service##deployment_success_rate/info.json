@@ -1,0 +1,12 @@
+{
+  "case_id": 307,
+  "case_name": "307_order-service##deployment_success_rate",
+  "seq_len": 975,
+  "train_seq_len": 488,
+  "test_seq_len": 487,
+  "intervals": 3600,
+  "training set anomaly ratio": 0.045081967213114756,
+  "test set anomaly ratio": 0.07597535934291581,
+  "metric_type": "SuccessRate",
+  "metric_name": "order-service##deployment_success_rate"
+}

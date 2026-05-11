@@ -1,0 +1,12 @@
+{
+  "case_id": 706,
+  "case_name": "706_event-processor##login_attempts_per_second",
+  "seq_len": 392,
+  "train_seq_len": 196,
+  "test_seq_len": 196,
+  "intervals": 600,
+  "training set anomaly ratio": 0.04591836734693878,
+  "test set anomaly ratio": 0.12755102040816327,
+  "metric_type": "QPS",
+  "metric_name": "event-processor##login_attempts_per_second"
+}

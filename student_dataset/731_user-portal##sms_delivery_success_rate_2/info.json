@@ -1,0 +1,12 @@
+{
+  "case_id": 731,
+  "case_name": "731_user-portal##sms_delivery_success_rate_2",
+  "seq_len": 377,
+  "train_seq_len": 188,
+  "test_seq_len": 189,
+  "intervals": 300,
+  "training set anomaly ratio": 0.18085106382978725,
+  "test set anomaly ratio": 0.37037037037037035,
+  "metric_type": "SuccessRate",
+  "metric_name": "user-portal##sms_delivery_success_rate_2"
+}

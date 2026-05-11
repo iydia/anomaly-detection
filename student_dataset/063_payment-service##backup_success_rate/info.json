@@ -1,0 +1,12 @@
+{
+  "case_id": 63,
+  "case_name": "063_payment-service##backup_success_rate",
+  "seq_len": 768,
+  "train_seq_len": 384,
+  "test_seq_len": 384,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.015625,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "SuccessRate",
+  "metric_name": "payment-service##backup_success_rate"
+}

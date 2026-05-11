@@ -1,0 +1,12 @@
+{
+  "case_id": 252,
+  "case_name": "252_analytics-dashboard##deployment_success_rate",
+  "seq_len": 602,
+  "train_seq_len": 301,
+  "test_seq_len": 301,
+  "intervals": 345,
+  "training set anomaly ratio": 0.18272425249169436,
+  "test set anomaly ratio": 0.013289036544850499,
+  "metric_type": "SuccessRate",
+  "metric_name": "analytics-dashboard##deployment_success_rate"
+}

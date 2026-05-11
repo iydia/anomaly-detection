@@ -1,0 +1,12 @@
+{
+  "case_id": 853,
+  "case_name": "853_product-service##third_party_api_errors_total",
+  "seq_len": 795,
+  "train_seq_len": 398,
+  "test_seq_len": 397,
+  "intervals": 600,
+  "training set anomaly ratio": 0.03015075376884422,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "ErrorCount",
+  "metric_name": "product-service##third_party_api_errors_total"
+}

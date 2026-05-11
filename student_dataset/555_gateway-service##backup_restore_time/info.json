@@ -1,0 +1,12 @@
+{
+  "case_id": 555,
+  "case_name": "555_gateway-service##backup_restore_time",
+  "seq_len": 674,
+  "train_seq_len": 337,
+  "test_seq_len": 337,
+  "intervals": 600,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.05637982195845697,
+  "metric_type": "LatencySecond",
+  "metric_name": "gateway-service##backup_restore_time"
+}

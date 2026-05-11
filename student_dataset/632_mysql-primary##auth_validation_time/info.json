@@ -1,0 +1,12 @@
+{
+  "case_id": 632,
+  "case_name": "632_mysql-primary##auth_validation_time",
+  "seq_len": 877,
+  "train_seq_len": 438,
+  "test_seq_len": 439,
+  "intervals": 864,
+  "training set anomaly ratio": 0.0639269406392694,
+  "test set anomaly ratio": 0.12300683371298406,
+  "metric_type": "LatencySecond",
+  "metric_name": "mysql-primary##auth_validation_time"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 268,
+  "case_name": "268_dev-cluster##cache_hit_rate",
+  "seq_len": 610,
+  "train_seq_len": 305,
+  "test_seq_len": 305,
+  "intervals": 345,
+  "training set anomaly ratio": 0.19344262295081968,
+  "test set anomaly ratio": 0.06885245901639345,
+  "metric_type": "SuccessRate",
+  "metric_name": "dev-cluster##cache_hit_rate"
+}

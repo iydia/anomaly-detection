@@ -1,0 +1,12 @@
+{
+  "case_id": 811,
+  "case_name": "811_content-management##bad_request_errors_total",
+  "seq_len": 968,
+  "train_seq_len": 484,
+  "test_seq_len": 484,
+  "intervals": 600,
+  "training set anomaly ratio": 0.008264462809917356,
+  "test set anomaly ratio": 0.1115702479338843,
+  "metric_type": "ErrorCount",
+  "metric_name": "content-management##bad_request_errors_total"
+}

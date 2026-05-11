@@ -1,0 +1,12 @@
+{
+  "case_id": 114,
+  "case_name": "114_docker3##database_connections_total",
+  "seq_len": 600,
+  "train_seq_len": 300,
+  "test_seq_len": 300,
+  "intervals": 60,
+  "training set anomaly ratio": 0.16,
+  "test set anomaly ratio": 0.15,
+  "metric_type": "Count",
+  "metric_name": "docker3##database_connections_total"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 271,
+  "case_name": "271_reverse-proxy##server_uptime_rate",
+  "seq_len": 736,
+  "train_seq_len": 368,
+  "test_seq_len": 368,
+  "intervals": 345,
+  "training set anomaly ratio": 0.02717391304347826,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "SuccessRate",
+  "metric_name": "reverse-proxy##server_uptime_rate"
+}

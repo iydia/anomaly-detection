@@ -1,0 +1,12 @@
+{
+  "case_id": 207,
+  "case_name": "207_workflow-engine##validation_errors_total",
+  "seq_len": 924,
+  "train_seq_len": 462,
+  "test_seq_len": 462,
+  "intervals": 600,
+  "training set anomaly ratio": 0.008658008658008658,
+  "test set anomaly ratio": 0.045454545454545456,
+  "metric_type": "ErrorCount",
+  "metric_name": "workflow-engine##validation_errors_total"
+}

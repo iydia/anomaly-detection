@@ -1,0 +1,12 @@
+{
+  "case_id": 749,
+  "case_name": "749_prod-cluster##auth_validation_time",
+  "seq_len": 406,
+  "train_seq_len": 203,
+  "test_seq_len": 203,
+  "intervals": 600,
+  "training set anomaly ratio": 0.1921182266009852,
+  "test set anomaly ratio": 0.4433497536945813,
+  "metric_type": "LatencySecond",
+  "metric_name": "prod-cluster##auth_validation_time"
+}

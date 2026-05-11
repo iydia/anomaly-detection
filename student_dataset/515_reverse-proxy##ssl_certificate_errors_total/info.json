@@ -1,0 +1,12 @@
+{
+  "case_id": 515,
+  "case_name": "515_reverse-proxy##ssl_certificate_errors_total",
+  "seq_len": 798,
+  "train_seq_len": 399,
+  "test_seq_len": 399,
+  "intervals": 600,
+  "training set anomaly ratio": 0.16040100250626566,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "ErrorCount",
+  "metric_name": "reverse-proxy##ssl_certificate_errors_total"
+}

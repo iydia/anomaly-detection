@@ -1,0 +1,12 @@
+{
+  "case_id": 607,
+  "case_name": "607_cache-server-01##cache_access_time",
+  "seq_len": 661,
+  "train_seq_len": 330,
+  "test_seq_len": 331,
+  "intervals": 300,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.07250755287009064,
+  "metric_type": "LatencySecond",
+  "metric_name": "cache-server-01##cache_access_time"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 995,
+  "case_name": "995_analytics-dashboard##order_completion_rate",
+  "seq_len": 320,
+  "train_seq_len": 160,
+  "test_seq_len": 160,
+  "intervals": 600,
+  "training set anomaly ratio": 0.2625,
+  "test set anomaly ratio": 0.0125,
+  "metric_type": "SuccessRate",
+  "metric_name": "analytics-dashboard##order_completion_rate"
+}

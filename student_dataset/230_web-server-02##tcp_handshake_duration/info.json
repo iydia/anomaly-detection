@@ -1,0 +1,12 @@
+{
+  "case_id": 230,
+  "case_name": "230_web-server-02##tcp_handshake_duration",
+  "seq_len": 534,
+  "train_seq_len": 267,
+  "test_seq_len": 267,
+  "intervals": 864,
+  "training set anomaly ratio": 0.1947565543071161,
+  "test set anomaly ratio": 0.09737827715355805,
+  "metric_type": "LatencySecond",
+  "metric_name": "web-server-02##tcp_handshake_duration"
+}

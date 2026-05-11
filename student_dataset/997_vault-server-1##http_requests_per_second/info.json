@@ -1,0 +1,12 @@
+{
+  "case_id": 997,
+  "case_name": "997_vault-server-1##http_requests_per_second",
+  "seq_len": 1024,
+  "train_seq_len": 512,
+  "test_seq_len": 512,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.2109375,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "QPS",
+  "metric_name": "vault-server-1##http_requests_per_second"
+}

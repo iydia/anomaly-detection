@@ -1,0 +1,12 @@
+{
+  "case_id": 955,
+  "case_name": "955_reporting-engine##tcp_handshake_duration",
+  "seq_len": 927,
+  "train_seq_len": 464,
+  "test_seq_len": 463,
+  "intervals": 3600,
+  "training set anomaly ratio": 0.028017241379310345,
+  "test set anomaly ratio": 0.0021598272138228943,
+  "metric_type": "LatencySecond",
+  "metric_name": "reporting-engine##tcp_handshake_duration"
+}

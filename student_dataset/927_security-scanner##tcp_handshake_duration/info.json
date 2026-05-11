@@ -1,0 +1,12 @@
+{
+  "case_id": 927,
+  "case_name": "927_security-scanner##tcp_handshake_duration",
+  "seq_len": 800,
+  "train_seq_len": 400,
+  "test_seq_len": 400,
+  "intervals": 345,
+  "training set anomaly ratio": 0.0875,
+  "test set anomaly ratio": 0.0475,
+  "metric_type": "LatencySecond",
+  "metric_name": "security-scanner##tcp_handshake_duration"
+}

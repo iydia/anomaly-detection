@@ -1,0 +1,12 @@
+{
+  "case_id": 635,
+  "case_name": "635_discovery-service##disk_full_errors_total",
+  "seq_len": 1019,
+  "train_seq_len": 510,
+  "test_seq_len": 509,
+  "intervals": 864,
+  "training set anomaly ratio": 0.027450980392156862,
+  "test set anomaly ratio": 0.003929273084479371,
+  "metric_type": "ErrorCount",
+  "metric_name": "discovery-service##disk_full_errors_total"
+}

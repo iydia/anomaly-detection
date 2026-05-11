@@ -1,0 +1,12 @@
+{
+  "case_id": 117,
+  "case_name": "117_consul-agent-1##grpc_call_duration",
+  "seq_len": 614,
+  "train_seq_len": 307,
+  "test_seq_len": 307,
+  "intervals": 3600,
+  "training set anomaly ratio": 0.31921824104234525,
+  "test set anomaly ratio": 0.06840390879478828,
+  "metric_type": "LatencySecond",
+  "metric_name": "consul-agent-1##grpc_call_duration"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 505,
+  "case_name": "505_kafka-broker-1##records_inserted_per_second",
+  "seq_len": 499,
+  "train_seq_len": 250,
+  "test_seq_len": 249,
+  "intervals": 300,
+  "training set anomaly ratio": 0.108,
+  "test set anomaly ratio": 0.0642570281124498,
+  "metric_type": "QPS",
+  "metric_name": "kafka-broker-1##records_inserted_per_second"
+}

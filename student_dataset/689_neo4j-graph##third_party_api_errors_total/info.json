@@ -1,0 +1,12 @@
+{
+  "case_id": 689,
+  "case_name": "689_neo4j-graph##third_party_api_errors_total",
+  "seq_len": 988,
+  "train_seq_len": 494,
+  "test_seq_len": 494,
+  "intervals": 600,
+  "training set anomaly ratio": 0.10121457489878542,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "ErrorCount",
+  "metric_name": "neo4j-graph##third_party_api_errors_total"
+}

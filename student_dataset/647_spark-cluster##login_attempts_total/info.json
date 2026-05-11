@@ -1,0 +1,12 @@
+{
+  "case_id": 647,
+  "case_name": "647_spark-cluster##login_attempts_total",
+  "seq_len": 500,
+  "train_seq_len": 250,
+  "test_seq_len": 250,
+  "intervals": 60,
+  "training set anomaly ratio": 0.216,
+  "test set anomaly ratio": 0.116,
+  "metric_type": "Count",
+  "metric_name": "spark-cluster##login_attempts_total"
+}

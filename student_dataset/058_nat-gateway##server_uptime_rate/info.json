@@ -1,0 +1,12 @@
+{
+  "case_id": 58,
+  "case_name": "058_nat-gateway##server_uptime_rate",
+  "seq_len": 591,
+  "train_seq_len": 296,
+  "test_seq_len": 295,
+  "intervals": 3600,
+  "training set anomaly ratio": 0.26013513513513514,
+  "test set anomaly ratio": 0.023728813559322035,
+  "metric_type": "SuccessRate",
+  "metric_name": "nat-gateway##server_uptime_rate"
+}

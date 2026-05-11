@@ -1,0 +1,12 @@
+{
+  "case_id": 883,
+  "case_name": "883_postgres-main##login_attempts_per_second",
+  "seq_len": 382,
+  "train_seq_len": 191,
+  "test_seq_len": 191,
+  "intervals": 300,
+  "training set anomaly ratio": 0.16753926701570682,
+  "test set anomaly ratio": 0.1256544502617801,
+  "metric_type": "QPS",
+  "metric_name": "postgres-main##login_attempts_per_second"
+}

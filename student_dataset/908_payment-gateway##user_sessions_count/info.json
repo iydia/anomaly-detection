@@ -1,0 +1,12 @@
+{
+  "case_id": 908,
+  "case_name": "908_payment-gateway##user_sessions_count",
+  "seq_len": 461,
+  "train_seq_len": 230,
+  "test_seq_len": 231,
+  "intervals": 300,
+  "training set anomaly ratio": 0.39565217391304347,
+  "test set anomaly ratio": 0.008658008658008658,
+  "metric_type": "Count",
+  "metric_name": "payment-gateway##user_sessions_count"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 302,
+  "case_name": "302_cache-manager##backup_failures_total",
+  "seq_len": 589,
+  "train_seq_len": 294,
+  "test_seq_len": 295,
+  "intervals": 864,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.11864406779661017,
+  "metric_type": "ErrorCount",
+  "metric_name": "cache-manager##backup_failures_total"
+}

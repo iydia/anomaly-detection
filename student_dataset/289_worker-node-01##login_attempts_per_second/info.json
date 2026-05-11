@@ -1,0 +1,12 @@
+{
+  "case_id": 289,
+  "case_name": "289_worker-node-01##login_attempts_per_second",
+  "seq_len": 751,
+  "train_seq_len": 376,
+  "test_seq_len": 375,
+  "intervals": 3600,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.021333333333333333,
+  "metric_type": "QPS",
+  "metric_name": "worker-node-01##login_attempts_per_second"
+}

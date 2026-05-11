@@ -1,0 +1,12 @@
+{
+  "case_id": 799,
+  "case_name": "799_mongodb-cluster##user_login_success_rate",
+  "seq_len": 994,
+  "train_seq_len": 497,
+  "test_seq_len": 497,
+  "intervals": 300,
+  "training set anomaly ratio": 0.026156941649899398,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "SuccessRate",
+  "metric_name": "mongodb-cluster##user_login_success_rate"
+}

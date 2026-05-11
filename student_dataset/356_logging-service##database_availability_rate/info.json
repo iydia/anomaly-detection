@@ -1,0 +1,12 @@
+{
+  "case_id": 356,
+  "case_name": "356_logging-service##database_availability_rate",
+  "seq_len": 576,
+  "train_seq_len": 288,
+  "test_seq_len": 288,
+  "intervals": 60,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.017361111111111112,
+  "metric_type": "SuccessRate",
+  "metric_name": "logging-service##database_availability_rate"
+}

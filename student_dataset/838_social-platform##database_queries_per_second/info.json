@@ -1,0 +1,12 @@
+{
+  "case_id": 838,
+  "case_name": "838_social-platform##database_queries_per_second",
+  "seq_len": 271,
+  "train_seq_len": 136,
+  "test_seq_len": 135,
+  "intervals": 60,
+  "training set anomaly ratio": 0.5661764705882353,
+  "test set anomaly ratio": 0.2962962962962963,
+  "metric_type": "QPS",
+  "metric_name": "social-platform##database_queries_per_second"
+}

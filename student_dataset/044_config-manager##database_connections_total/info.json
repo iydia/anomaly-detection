@@ -1,0 +1,12 @@
+{
+  "case_id": 44,
+  "case_name": "044_config-manager##database_connections_total",
+  "seq_len": 833,
+  "train_seq_len": 416,
+  "test_seq_len": 417,
+  "intervals": 864,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.009592326139088728,
+  "metric_type": "Count",
+  "metric_name": "config-manager##database_connections_total"
+}

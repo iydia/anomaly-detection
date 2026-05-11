@@ -1,0 +1,12 @@
+{
+  "case_id": 973,
+  "case_name": "973_reverse-proxy##service_health_score",
+  "seq_len": 755,
+  "train_seq_len": 378,
+  "test_seq_len": 377,
+  "intervals": 60,
+  "training set anomaly ratio": 0.04497354497354497,
+  "test set anomaly ratio": 0.10875331564986737,
+  "metric_type": "SuccessRate",
+  "metric_name": "reverse-proxy##service_health_score"
+}

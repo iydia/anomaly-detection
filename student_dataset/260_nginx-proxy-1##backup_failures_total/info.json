@@ -1,0 +1,12 @@
+{
+  "case_id": 260,
+  "case_name": "260_nginx-proxy-1##backup_failures_total",
+  "seq_len": 695,
+  "train_seq_len": 348,
+  "test_seq_len": 347,
+  "intervals": 300,
+  "training set anomaly ratio": 0.09770114942528736,
+  "test set anomaly ratio": 0.025936599423631124,
+  "metric_type": "ErrorCount",
+  "metric_name": "nginx-proxy-1##backup_failures_total"
+}

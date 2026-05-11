@@ -1,0 +1,12 @@
+{
+  "case_id": 329,
+  "case_name": "329_master-node-01##cache_hit_rate",
+  "seq_len": 740,
+  "train_seq_len": 370,
+  "test_seq_len": 370,
+  "intervals": 300,
+  "training set anomaly ratio": 0.04864864864864865,
+  "test set anomaly ratio": 0.02702702702702703,
+  "metric_type": "SuccessRate",
+  "metric_name": "master-node-01##cache_hit_rate"
+}

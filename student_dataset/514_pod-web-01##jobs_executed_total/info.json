@@ -1,0 +1,12 @@
+{
+  "case_id": 514,
+  "case_name": "514_pod-web-01##jobs_executed_total",
+  "seq_len": 332,
+  "train_seq_len": 166,
+  "test_seq_len": 166,
+  "intervals": 864,
+  "training set anomaly ratio": 0.10240963855421686,
+  "test set anomaly ratio": 0.05421686746987952,
+  "metric_type": "Count",
+  "metric_name": "pod-web-01##jobs_executed_total"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 338,
+  "case_name": "338_product-service##payment_gateway_errors_total",
+  "seq_len": 640,
+  "train_seq_len": 320,
+  "test_seq_len": 320,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.065625,
+  "test set anomaly ratio": 0.0375,
+  "metric_type": "ErrorCount",
+  "metric_name": "product-service##payment_gateway_errors_total"
+}

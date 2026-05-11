@@ -1,0 +1,12 @@
+{
+  "case_id": 64,
+  "case_name": "064_ssl-terminator##backup_failures_total",
+  "seq_len": 814,
+  "train_seq_len": 407,
+  "test_seq_len": 407,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.004914004914004914,
+  "test set anomaly ratio": 0.019656019656019656,
+  "metric_type": "ErrorCount",
+  "metric_name": "ssl-terminator##backup_failures_total"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 894,
+  "case_name": "894_sms-service##auth_validation_time",
+  "seq_len": 512,
+  "train_seq_len": 256,
+  "test_seq_len": 256,
+  "intervals": 864,
+  "training set anomaly ratio": 0.140625,
+  "test set anomaly ratio": 0.3515625,
+  "metric_type": "LatencySecond",
+  "metric_name": "sms-service##auth_validation_time"
+}

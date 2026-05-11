@@ -1,0 +1,12 @@
+{
+  "case_id": 630,
+  "case_name": "630_dev-cluster##video_encoding_time",
+  "seq_len": 510,
+  "train_seq_len": 255,
+  "test_seq_len": 255,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.027450980392156862,
+  "test set anomaly ratio": 0.047058823529411764,
+  "metric_type": "LatencySecond",
+  "metric_name": "dev-cluster##video_encoding_time"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 81,
+  "case_name": "081_merchant-portal##api_calls_count",
+  "seq_len": 810,
+  "train_seq_len": 405,
+  "test_seq_len": 405,
+  "intervals": 3600,
+  "training set anomaly ratio": 0.019753086419753086,
+  "test set anomaly ratio": 0.1506172839506173,
+  "metric_type": "Count",
+  "metric_name": "merchant-portal##api_calls_count"
+}

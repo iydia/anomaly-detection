@@ -1,0 +1,12 @@
+{
+  "case_id": 129,
+  "case_name": "129_e-commerce-frontend##user_registrations_total",
+  "seq_len": 896,
+  "train_seq_len": 448,
+  "test_seq_len": 448,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.07366071428571429,
+  "test set anomaly ratio": 0.024553571428571428,
+  "metric_type": "Count",
+  "metric_name": "e-commerce-frontend##user_registrations_total"
+}

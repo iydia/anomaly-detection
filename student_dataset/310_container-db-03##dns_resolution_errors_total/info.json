@@ -1,0 +1,12 @@
+{
+  "case_id": 310,
+  "case_name": "310_container-db-03##dns_resolution_errors_total",
+  "seq_len": 351,
+  "train_seq_len": 176,
+  "test_seq_len": 175,
+  "intervals": 864,
+  "training set anomaly ratio": 0.22727272727272727,
+  "test set anomaly ratio": 0.05142857142857143,
+  "metric_type": "ErrorCount",
+  "metric_name": "container-db-03##dns_resolution_errors_total"
+}

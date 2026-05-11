@@ -1,0 +1,12 @@
+{
+  "case_id": 465,
+  "case_name": "465_email-service##node_ready_rate",
+  "seq_len": 661,
+  "train_seq_len": 330,
+  "test_seq_len": 331,
+  "intervals": 345,
+  "training set anomaly ratio": 0.07878787878787878,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "SuccessRate",
+  "metric_name": "email-service##node_ready_rate"
+}

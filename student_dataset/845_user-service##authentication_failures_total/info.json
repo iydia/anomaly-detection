@@ -1,0 +1,12 @@
+{
+  "case_id": 845,
+  "case_name": "845_user-service##authentication_failures_total",
+  "seq_len": 427,
+  "train_seq_len": 214,
+  "test_seq_len": 213,
+  "intervals": 864,
+  "training set anomaly ratio": 0.08411214953271028,
+  "test set anomaly ratio": 0.046948356807511735,
+  "metric_type": "ErrorCount",
+  "metric_name": "user-service##authentication_failures_total"
+}

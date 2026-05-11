@@ -1,0 +1,12 @@
+{
+  "case_id": 857,
+  "case_name": "857_recommendation-service##internal_server_errors_total",
+  "seq_len": 382,
+  "train_seq_len": 191,
+  "test_seq_len": 191,
+  "intervals": 3600,
+  "training set anomaly ratio": 0.39790575916230364,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "ErrorCount",
+  "metric_name": "recommendation-service##internal_server_errors_total"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 388,
+  "case_name": "388_cache-server-01##sms_delivery_success_rate",
+  "seq_len": 407,
+  "train_seq_len": 204,
+  "test_seq_len": 203,
+  "intervals": 864,
+  "training set anomaly ratio": 0.11274509803921569,
+  "test set anomaly ratio": 0.30049261083743845,
+  "metric_type": "SuccessRate",
+  "metric_name": "cache-server-01##sms_delivery_success_rate"
+}

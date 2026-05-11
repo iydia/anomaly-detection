@@ -1,0 +1,12 @@
+{
+  "case_id": 90,
+  "case_name": "090_postgres-read-1##orders_created_total",
+  "seq_len": 806,
+  "train_seq_len": 403,
+  "test_seq_len": 403,
+  "intervals": 3600,
+  "training set anomaly ratio": 0.017369727047146403,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "Count",
+  "metric_name": "postgres-read-1##orders_created_total"
+}

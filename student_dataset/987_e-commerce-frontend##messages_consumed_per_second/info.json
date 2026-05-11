@@ -1,0 +1,12 @@
+{
+  "case_id": 987,
+  "case_name": "987_e-commerce-frontend##messages_consumed_per_second",
+  "seq_len": 712,
+  "train_seq_len": 356,
+  "test_seq_len": 356,
+  "intervals": 600,
+  "training set anomaly ratio": 0.025280898876404494,
+  "test set anomaly ratio": 0.019662921348314606,
+  "metric_type": "QPS",
+  "metric_name": "e-commerce-frontend##messages_consumed_per_second"
+}

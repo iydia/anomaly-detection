@@ -1,0 +1,12 @@
+{
+  "case_id": 399,
+  "case_name": "399_load-balancer##cluster_resource_usage",
+  "seq_len": 933,
+  "train_seq_len": 466,
+  "test_seq_len": 467,
+  "intervals": 600,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.1777301927194861,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "load-balancer##cluster_resource_usage"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 318,
+  "case_name": "318_product-service##messages_consumed_per_second",
+  "seq_len": 390,
+  "train_seq_len": 195,
+  "test_seq_len": 195,
+  "intervals": 300,
+  "training set anomaly ratio": 0.11794871794871795,
+  "test set anomaly ratio": 0.15384615384615385,
+  "metric_type": "QPS",
+  "metric_name": "product-service##messages_consumed_per_second"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 13,
+  "case_name": "013_order-processing##http_requests_total",
+  "seq_len": 739,
+  "train_seq_len": 370,
+  "test_seq_len": 369,
+  "intervals": 60,
+  "training set anomaly ratio": 0.12162162162162163,
+  "test set anomaly ratio": 0.0027100271002710027,
+  "metric_type": "Count",
+  "metric_name": "order-processing##http_requests_total"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 817,
+  "case_name": "817_ntp-server##payments_per_second",
+  "seq_len": 782,
+  "train_seq_len": 391,
+  "test_seq_len": 391,
+  "intervals": 60,
+  "training set anomaly ratio": 0.09462915601023018,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "QPS",
+  "metric_name": "ntp-server##payments_per_second"
+}

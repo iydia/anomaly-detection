@@ -1,0 +1,12 @@
+{
+  "case_id": 608,
+  "case_name": "608_cdn-edge##image_uploads_per_second",
+  "seq_len": 953,
+  "train_seq_len": 476,
+  "test_seq_len": 477,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.15126050420168066,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "QPS",
+  "metric_name": "cdn-edge##image_uploads_per_second"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 36,
+  "case_name": "036_cassandra-timeseries##api_calls_count",
+  "seq_len": 988,
+  "train_seq_len": 494,
+  "test_seq_len": 494,
+  "intervals": 300,
+  "training set anomaly ratio": 0.21052631578947367,
+  "test set anomaly ratio": 0.04251012145748988,
+  "metric_type": "Count",
+  "metric_name": "cassandra-timeseries##api_calls_count"
+}

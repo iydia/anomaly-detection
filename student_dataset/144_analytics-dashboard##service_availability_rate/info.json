@@ -1,0 +1,12 @@
+{
+  "case_id": 144,
+  "case_name": "144_analytics-dashboard##service_availability_rate",
+  "seq_len": 853,
+  "train_seq_len": 426,
+  "test_seq_len": 427,
+  "intervals": 3600,
+  "training set anomaly ratio": 0.18779342723004694,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "SuccessRate",
+  "metric_name": "analytics-dashboard##service_availability_rate"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 120,
+  "case_name": "120_recommendation-service##auth_validation_time",
+  "seq_len": 486,
+  "train_seq_len": 243,
+  "test_seq_len": 243,
+  "intervals": 345,
+  "training set anomaly ratio": 0.3497942386831276,
+  "test set anomaly ratio": 0.2551440329218107,
+  "metric_type": "LatencySecond",
+  "metric_name": "recommendation-service##auth_validation_time"
+}

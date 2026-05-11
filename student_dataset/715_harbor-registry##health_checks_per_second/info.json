@@ -1,0 +1,12 @@
+{
+  "case_id": 715,
+  "case_name": "715_harbor-registry##health_checks_per_second",
+  "seq_len": 903,
+  "train_seq_len": 452,
+  "test_seq_len": 451,
+  "intervals": 864,
+  "training set anomaly ratio": 0.0420353982300885,
+  "test set anomaly ratio": 0.11086474501108648,
+  "metric_type": "QPS",
+  "metric_name": "harbor-registry##health_checks_per_second"
+}

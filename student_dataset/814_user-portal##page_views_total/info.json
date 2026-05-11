@@ -1,0 +1,12 @@
+{
+  "case_id": 814,
+  "case_name": "814_user-portal##page_views_total",
+  "seq_len": 477,
+  "train_seq_len": 238,
+  "test_seq_len": 239,
+  "intervals": 345,
+  "training set anomaly ratio": 0.4789915966386555,
+  "test set anomaly ratio": 0.016736401673640166,
+  "metric_type": "Count",
+  "metric_name": "user-portal##page_views_total"
+}

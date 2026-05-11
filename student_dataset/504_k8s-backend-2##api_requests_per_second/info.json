@@ -1,0 +1,12 @@
+{
+  "case_id": 504,
+  "case_name": "504_k8s-backend-2##api_requests_per_second",
+  "seq_len": 919,
+  "train_seq_len": 460,
+  "test_seq_len": 459,
+  "intervals": 60,
+  "training set anomaly ratio": 0.1826086956521739,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "QPS",
+  "metric_name": "k8s-backend-2##api_requests_per_second"
+}

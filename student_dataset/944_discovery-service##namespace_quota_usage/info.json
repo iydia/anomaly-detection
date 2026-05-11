@@ -1,0 +1,12 @@
+{
+  "case_id": 944,
+  "case_name": "944_discovery-service##namespace_quota_usage",
+  "seq_len": 397,
+  "train_seq_len": 198,
+  "test_seq_len": 199,
+  "intervals": 600,
+  "training set anomaly ratio": 0.2727272727272727,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "discovery-service##namespace_quota_usage"
+}

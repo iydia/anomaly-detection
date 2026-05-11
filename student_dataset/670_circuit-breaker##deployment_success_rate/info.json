@@ -1,0 +1,12 @@
+{
+  "case_id": 670,
+  "case_name": "670_circuit-breaker##deployment_success_rate",
+  "seq_len": 1024,
+  "train_seq_len": 512,
+  "test_seq_len": 512,
+  "intervals": 600,
+  "training set anomaly ratio": 0.1171875,
+  "test set anomaly ratio": 0.0078125,
+  "metric_type": "SuccessRate",
+  "metric_name": "circuit-breaker##deployment_success_rate"
+}

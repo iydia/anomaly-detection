@@ -1,0 +1,12 @@
+{
+  "case_id": 567,
+  "case_name": "567_cassandra-timeseries##jobs_executed_total",
+  "seq_len": 857,
+  "train_seq_len": 428,
+  "test_seq_len": 429,
+  "intervals": 600,
+  "training set anomaly ratio": 0.028037383177570093,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "Count",
+  "metric_name": "cassandra-timeseries##jobs_executed_total"
+}

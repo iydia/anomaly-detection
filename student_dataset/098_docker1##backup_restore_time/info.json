@@ -1,0 +1,12 @@
+{
+  "case_id": 98,
+  "case_name": "098_docker1##backup_restore_time",
+  "seq_len": 256,
+  "train_seq_len": 128,
+  "test_seq_len": 128,
+  "intervals": 345,
+  "training set anomaly ratio": 0.3671875,
+  "test set anomaly ratio": 0.0546875,
+  "metric_type": "LatencySecond",
+  "metric_name": "docker1##backup_restore_time"
+}

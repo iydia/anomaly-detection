@@ -1,0 +1,12 @@
+{
+  "case_id": 48,
+  "case_name": "048_spark-cluster##backup_failures_total",
+  "seq_len": 340,
+  "train_seq_len": 170,
+  "test_seq_len": 170,
+  "intervals": 864,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.10588235294117647,
+  "metric_type": "ErrorCount",
+  "metric_name": "spark-cluster##backup_failures_total"
+}

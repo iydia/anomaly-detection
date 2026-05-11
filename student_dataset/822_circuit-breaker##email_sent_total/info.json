@@ -1,0 +1,12 @@
+{
+  "case_id": 822,
+  "case_name": "822_circuit-breaker##email_sent_total",
+  "seq_len": 720,
+  "train_seq_len": 360,
+  "test_seq_len": 360,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.14166666666666666,
+  "metric_type": "Count",
+  "metric_name": "circuit-breaker##email_sent_total"
+}

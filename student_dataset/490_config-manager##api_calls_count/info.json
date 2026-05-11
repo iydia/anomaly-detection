@@ -1,0 +1,12 @@
+{
+  "case_id": 490,
+  "case_name": "490_config-manager##api_calls_count",
+  "seq_len": 310,
+  "train_seq_len": 155,
+  "test_seq_len": 155,
+  "intervals": 300,
+  "training set anomaly ratio": 0.03225806451612903,
+  "test set anomaly ratio": 0.03225806451612903,
+  "metric_type": "Count",
+  "metric_name": "config-manager##api_calls_count"
+}

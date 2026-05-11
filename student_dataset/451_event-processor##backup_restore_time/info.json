@@ -1,0 +1,12 @@
+{
+  "case_id": 451,
+  "case_name": "451_event-processor##backup_restore_time",
+  "seq_len": 444,
+  "train_seq_len": 222,
+  "test_seq_len": 222,
+  "intervals": 345,
+  "training set anomaly ratio": 0.19369369369369369,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "LatencySecond",
+  "metric_name": "event-processor##backup_restore_time"
+}

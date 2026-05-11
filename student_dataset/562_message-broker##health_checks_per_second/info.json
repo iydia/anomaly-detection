@@ -1,0 +1,12 @@
+{
+  "case_id": 562,
+  "case_name": "562_message-broker##health_checks_per_second",
+  "seq_len": 347,
+  "train_seq_len": 174,
+  "test_seq_len": 173,
+  "intervals": 300,
+  "training set anomaly ratio": 0.5057471264367817,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "QPS",
+  "metric_name": "message-broker##health_checks_per_second"
+}

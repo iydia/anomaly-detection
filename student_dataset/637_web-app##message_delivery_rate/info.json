@@ -1,0 +1,12 @@
+{
+  "case_id": 637,
+  "case_name": "637_web-app##message_delivery_rate",
+  "seq_len": 501,
+  "train_seq_len": 250,
+  "test_seq_len": 251,
+  "intervals": 600,
+  "training set anomaly ratio": 0.1,
+  "test set anomaly ratio": 0.01195219123505976,
+  "metric_type": "SuccessRate",
+  "metric_name": "web-app##message_delivery_rate"
+}

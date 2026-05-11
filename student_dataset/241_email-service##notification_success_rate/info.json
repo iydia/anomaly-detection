@@ -1,0 +1,12 @@
+{
+  "case_id": 241,
+  "case_name": "241_email-service##notification_success_rate",
+  "seq_len": 896,
+  "train_seq_len": 448,
+  "test_seq_len": 448,
+  "intervals": 300,
+  "training set anomaly ratio": 0.09375,
+  "test set anomaly ratio": 0.15848214285714285,
+  "metric_type": "SuccessRate",
+  "metric_name": "email-service##notification_success_rate"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 463,
+  "case_name": "463_cdn-node-01##third_party_api_errors_total_2",
+  "seq_len": 656,
+  "train_seq_len": 328,
+  "test_seq_len": 328,
+  "intervals": 60,
+  "training set anomaly ratio": 0.04573170731707317,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "ErrorCount",
+  "metric_name": "cdn-node-01##third_party_api_errors_total_2"
+}

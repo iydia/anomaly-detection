@@ -1,0 +1,12 @@
+{
+  "case_id": 695,
+  "case_name": "695_monitoring-server##login_attempts_total",
+  "seq_len": 525,
+  "train_seq_len": 262,
+  "test_seq_len": 263,
+  "intervals": 600,
+  "training set anomaly ratio": 0.04198473282442748,
+  "test set anomaly ratio": 0.17490494296577946,
+  "metric_type": "Count",
+  "metric_name": "monitoring-server##login_attempts_total"
+}

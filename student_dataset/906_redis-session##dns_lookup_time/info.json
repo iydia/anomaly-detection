@@ -1,0 +1,12 @@
+{
+  "case_id": 906,
+  "case_name": "906_redis-session##dns_lookup_time",
+  "seq_len": 305,
+  "train_seq_len": 152,
+  "test_seq_len": 153,
+  "intervals": 3600,
+  "training set anomaly ratio": 0.05263157894736842,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "LatencySecond",
+  "metric_name": "redis-session##dns_lookup_time"
+}

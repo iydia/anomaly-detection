@@ -1,0 +1,12 @@
+{
+  "case_id": 346,
+  "case_name": "346_gateway-service##container_cpu_usage_percent",
+  "seq_len": 1024,
+  "train_seq_len": 512,
+  "test_seq_len": 512,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.013671875,
+  "test set anomaly ratio": 0.015625,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "gateway-service##container_cpu_usage_percent"
+}

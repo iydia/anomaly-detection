@@ -1,0 +1,12 @@
+{
+  "case_id": 781,
+  "case_name": "781_consul-cluster##tcp_handshake_duration",
+  "seq_len": 359,
+  "train_seq_len": 180,
+  "test_seq_len": 179,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.01675977653631285,
+  "metric_type": "LatencySecond",
+  "metric_name": "consul-cluster##tcp_handshake_duration"
+}

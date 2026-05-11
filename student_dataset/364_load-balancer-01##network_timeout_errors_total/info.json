@@ -1,0 +1,12 @@
+{
+  "case_id": 364,
+  "case_name": "364_load-balancer-01##network_timeout_errors_total",
+  "seq_len": 864,
+  "train_seq_len": 432,
+  "test_seq_len": 432,
+  "intervals": 600,
+  "training set anomaly ratio": 0.03935185185185185,
+  "test set anomaly ratio": 0.034722222222222224,
+  "metric_type": "ErrorCount",
+  "metric_name": "load-balancer-01##network_timeout_errors_total"
+}

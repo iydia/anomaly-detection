@@ -1,0 +1,12 @@
+{
+  "case_id": 570,
+  "case_name": "570_test-cluster##memory_usage_percent",
+  "seq_len": 983,
+  "train_seq_len": 492,
+  "test_seq_len": 491,
+  "intervals": 600,
+  "training set anomaly ratio": 0.06504065040650407,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "test-cluster##memory_usage_percent"
+}

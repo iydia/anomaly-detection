@@ -1,0 +1,12 @@
+{
+  "case_id": 638,
+  "case_name": "638_prod-cluster##cluster_availability_rate",
+  "seq_len": 707,
+  "train_seq_len": 354,
+  "test_seq_len": 353,
+  "intervals": 3600,
+  "training set anomaly ratio": 0.07062146892655367,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "SuccessRate",
+  "metric_name": "prod-cluster##cluster_availability_rate"
+}

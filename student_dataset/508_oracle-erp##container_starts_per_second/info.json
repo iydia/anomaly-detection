@@ -1,0 +1,12 @@
+{
+  "case_id": 508,
+  "case_name": "508_oracle-erp##container_starts_per_second",
+  "seq_len": 757,
+  "train_seq_len": 378,
+  "test_seq_len": 379,
+  "intervals": 3600,
+  "training set anomaly ratio": 0.1111111111111111,
+  "test set anomaly ratio": 0.12401055408970976,
+  "metric_type": "QPS",
+  "metric_name": "oracle-erp##container_starts_per_second"
+}

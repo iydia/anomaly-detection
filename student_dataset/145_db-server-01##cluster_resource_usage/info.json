@@ -1,0 +1,12 @@
+{
+  "case_id": 145,
+  "case_name": "145_db-server-01##cluster_resource_usage",
+  "seq_len": 947,
+  "train_seq_len": 474,
+  "test_seq_len": 473,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.05063291139240506,
+  "test set anomaly ratio": 0.11205073995771671,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "db-server-01##cluster_resource_usage"
+}

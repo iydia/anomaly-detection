@@ -1,0 +1,12 @@
+{
+  "case_id": 628,
+  "case_name": "628_search-service##business_logic_errors_total",
+  "seq_len": 667,
+  "train_seq_len": 334,
+  "test_seq_len": 333,
+  "intervals": 3600,
+  "training set anomaly ratio": 0.03592814371257485,
+  "test set anomaly ratio": 0.06006006006006006,
+  "metric_type": "ErrorCount",
+  "metric_name": "search-service##business_logic_errors_total"
+}

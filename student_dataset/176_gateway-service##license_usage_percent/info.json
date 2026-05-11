@@ -1,0 +1,12 @@
+{
+  "case_id": 176,
+  "case_name": "176_gateway-service##license_usage_percent",
+  "seq_len": 831,
+  "train_seq_len": 416,
+  "test_seq_len": 415,
+  "intervals": 3600,
+  "training set anomaly ratio": 0.03125,
+  "test set anomaly ratio": 0.1493975903614458,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "gateway-service##license_usage_percent"
+}

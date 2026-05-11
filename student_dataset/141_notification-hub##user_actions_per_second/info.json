@@ -1,0 +1,12 @@
+{
+  "case_id": 141,
+  "case_name": "141_notification-hub##user_actions_per_second",
+  "seq_len": 512,
+  "train_seq_len": 256,
+  "test_seq_len": 256,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.4140625,
+  "test set anomaly ratio": 0.25390625,
+  "metric_type": "QPS",
+  "metric_name": "notification-hub##user_actions_per_second"
+}

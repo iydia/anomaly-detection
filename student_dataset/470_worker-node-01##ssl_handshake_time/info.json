@@ -1,0 +1,12 @@
+{
+  "case_id": 470,
+  "case_name": "470_worker-node-01##ssl_handshake_time",
+  "seq_len": 446,
+  "train_seq_len": 223,
+  "test_seq_len": 223,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.08520179372197309,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "LatencySecond",
+  "metric_name": "worker-node-01##ssl_handshake_time"
+}

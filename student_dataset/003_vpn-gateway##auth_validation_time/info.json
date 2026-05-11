@@ -1,0 +1,12 @@
+{
+  "case_id": 3,
+  "case_name": "003_vpn-gateway##auth_validation_time",
+  "seq_len": 1020,
+  "train_seq_len": 510,
+  "test_seq_len": 510,
+  "intervals": 600,
+  "training set anomaly ratio": 0.0058823529411764705,
+  "test set anomaly ratio": 0.058823529411764705,
+  "metric_type": "LatencySecond",
+  "metric_name": "vpn-gateway##auth_validation_time"
+}

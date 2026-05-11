@@ -1,0 +1,12 @@
+{
+  "case_id": 326,
+  "case_name": "326_redis-cache-1##events_processed_total",
+  "seq_len": 512,
+  "train_seq_len": 256,
+  "test_seq_len": 256,
+  "intervals": 864,
+  "training set anomaly ratio": 0.35546875,
+  "test set anomaly ratio": 0.2734375,
+  "metric_type": "Count",
+  "metric_name": "redis-cache-1##events_processed_total"
+}

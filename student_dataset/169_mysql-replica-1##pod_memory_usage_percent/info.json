@@ -1,0 +1,12 @@
+{
+  "case_id": 169,
+  "case_name": "169_mysql-replica-1##pod_memory_usage_percent",
+  "seq_len": 861,
+  "train_seq_len": 430,
+  "test_seq_len": 431,
+  "intervals": 300,
+  "training set anomaly ratio": 0.0069767441860465115,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "mysql-replica-1##pod_memory_usage_percent"
+}

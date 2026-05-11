@@ -1,0 +1,12 @@
+{
+  "case_id": 668,
+  "case_name": "668_event-processor##disk_read_latency",
+  "seq_len": 711,
+  "train_seq_len": 356,
+  "test_seq_len": 355,
+  "intervals": 345,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.27323943661971833,
+  "metric_type": "LatencySecond",
+  "metric_name": "event-processor##disk_read_latency"
+}

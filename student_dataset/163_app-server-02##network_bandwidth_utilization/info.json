@@ -1,0 +1,12 @@
+{
+  "case_id": 163,
+  "case_name": "163_app-server-02##network_bandwidth_utilization",
+  "seq_len": 459,
+  "train_seq_len": 230,
+  "test_seq_len": 229,
+  "intervals": 300,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.09170305676855896,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "app-server-02##network_bandwidth_utilization"
+}

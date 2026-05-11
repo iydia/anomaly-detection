@@ -1,0 +1,12 @@
+{
+  "case_id": 15,
+  "case_name": "015_email-service##cluster_resource_usage",
+  "seq_len": 408,
+  "train_seq_len": 204,
+  "test_seq_len": 204,
+  "intervals": 60,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.31862745098039214,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "email-service##cluster_resource_usage"
+}

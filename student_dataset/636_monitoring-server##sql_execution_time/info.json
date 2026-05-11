@@ -1,0 +1,12 @@
+{
+  "case_id": 636,
+  "case_name": "636_monitoring-server##sql_execution_time",
+  "seq_len": 369,
+  "train_seq_len": 184,
+  "test_seq_len": 185,
+  "intervals": 864,
+  "training set anomaly ratio": 0.03804347826086957,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "LatencySecond",
+  "metric_name": "monitoring-server##sql_execution_time"
+}

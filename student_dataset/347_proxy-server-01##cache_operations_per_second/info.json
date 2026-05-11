@@ -1,0 +1,12 @@
+{
+  "case_id": 347,
+  "case_name": "347_proxy-server-01##cache_operations_per_second",
+  "seq_len": 274,
+  "train_seq_len": 137,
+  "test_seq_len": 137,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.043795620437956206,
+  "test set anomaly ratio": 0.1386861313868613,
+  "metric_type": "QPS",
+  "metric_name": "proxy-server-01##cache_operations_per_second"
+}

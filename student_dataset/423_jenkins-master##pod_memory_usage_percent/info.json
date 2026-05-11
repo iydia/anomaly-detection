@@ -1,0 +1,12 @@
+{
+  "case_id": 423,
+  "case_name": "423_jenkins-master##pod_memory_usage_percent",
+  "seq_len": 1024,
+  "train_seq_len": 512,
+  "test_seq_len": 512,
+  "intervals": 300,
+  "training set anomaly ratio": 0.02734375,
+  "test set anomaly ratio": 0.013671875,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "jenkins-master##pod_memory_usage_percent"
+}

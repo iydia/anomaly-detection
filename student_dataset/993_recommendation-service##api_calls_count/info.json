@@ -1,0 +1,12 @@
+{
+  "case_id": 993,
+  "case_name": "993_recommendation-service##api_calls_count",
+  "seq_len": 531,
+  "train_seq_len": 266,
+  "test_seq_len": 265,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.10902255639097744,
+  "test set anomaly ratio": 0.03018867924528302,
+  "metric_type": "Count",
+  "metric_name": "recommendation-service##api_calls_count"
+}

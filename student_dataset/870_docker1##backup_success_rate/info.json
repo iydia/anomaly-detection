@@ -1,0 +1,12 @@
+{
+  "case_id": 870,
+  "case_name": "870_docker1##backup_success_rate",
+  "seq_len": 556,
+  "train_seq_len": 278,
+  "test_seq_len": 278,
+  "intervals": 60,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.17266187050359713,
+  "metric_type": "SuccessRate",
+  "metric_name": "docker1##backup_success_rate"
+}

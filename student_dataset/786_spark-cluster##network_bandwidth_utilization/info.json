@@ -1,0 +1,12 @@
+{
+  "case_id": 786,
+  "case_name": "786_spark-cluster##network_bandwidth_utilization",
+  "seq_len": 674,
+  "train_seq_len": 337,
+  "test_seq_len": 337,
+  "intervals": 60,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.0771513353115727,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "spark-cluster##network_bandwidth_utilization"
+}

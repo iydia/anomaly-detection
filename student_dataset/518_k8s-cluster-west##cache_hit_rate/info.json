@@ -1,0 +1,12 @@
+{
+  "case_id": 518,
+  "case_name": "518_k8s-cluster-west##cache_hit_rate",
+  "seq_len": 1011,
+  "train_seq_len": 506,
+  "test_seq_len": 505,
+  "intervals": 300,
+  "training set anomaly ratio": 0.12845849802371542,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "SuccessRate",
+  "metric_name": "k8s-cluster-west##cache_hit_rate"
+}

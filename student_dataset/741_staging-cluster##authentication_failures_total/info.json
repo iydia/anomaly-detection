@@ -1,0 +1,12 @@
+{
+  "case_id": 741,
+  "case_name": "741_staging-cluster##authentication_failures_total",
+  "seq_len": 787,
+  "train_seq_len": 394,
+  "test_seq_len": 393,
+  "intervals": 3600,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.10687022900763359,
+  "metric_type": "ErrorCount",
+  "metric_name": "staging-cluster##authentication_failures_total"
+}

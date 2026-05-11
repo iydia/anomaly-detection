@@ -1,0 +1,12 @@
+{
+  "case_id": 84,
+  "case_name": "084_social-platform##cluster_availability_rate",
+  "seq_len": 817,
+  "train_seq_len": 408,
+  "test_seq_len": 409,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.03676470588235294,
+  "test set anomaly ratio": 0.1295843520782396,
+  "metric_type": "SuccessRate",
+  "metric_name": "social-platform##cluster_availability_rate"
+}

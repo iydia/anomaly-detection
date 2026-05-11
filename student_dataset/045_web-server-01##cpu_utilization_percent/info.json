@@ -1,0 +1,12 @@
+{
+  "case_id": 45,
+  "case_name": "045_web-server-01##cpu_utilization_percent",
+  "seq_len": 664,
+  "train_seq_len": 332,
+  "test_seq_len": 332,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.015060240963855422,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "web-server-01##cpu_utilization_percent"
+}

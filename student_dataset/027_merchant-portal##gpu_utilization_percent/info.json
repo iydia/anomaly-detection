@@ -1,0 +1,12 @@
+{
+  "case_id": 27,
+  "case_name": "027_merchant-portal##gpu_utilization_percent",
+  "seq_len": 269,
+  "train_seq_len": 134,
+  "test_seq_len": 135,
+  "intervals": 345,
+  "training set anomaly ratio": 0.03731343283582089,
+  "test set anomaly ratio": 0.14074074074074075,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "merchant-portal##gpu_utilization_percent"
+}

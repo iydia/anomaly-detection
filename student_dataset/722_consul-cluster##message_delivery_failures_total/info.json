@@ -1,0 +1,12 @@
+{
+  "case_id": 722,
+  "case_name": "722_consul-cluster##message_delivery_failures_total",
+  "seq_len": 930,
+  "train_seq_len": 465,
+  "test_seq_len": 465,
+  "intervals": 300,
+  "training set anomaly ratio": 0.010752688172043012,
+  "test set anomaly ratio": 0.13548387096774195,
+  "metric_type": "ErrorCount",
+  "metric_name": "consul-cluster##message_delivery_failures_total"
+}

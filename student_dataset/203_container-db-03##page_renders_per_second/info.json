@@ -1,0 +1,12 @@
+{
+  "case_id": 203,
+  "case_name": "203_container-db-03##page_renders_per_second",
+  "seq_len": 974,
+  "train_seq_len": 487,
+  "test_seq_len": 487,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.22381930184804927,
+  "test set anomaly ratio": 0.13552361396303902,
+  "metric_type": "QPS",
+  "metric_name": "container-db-03##page_renders_per_second"
+}

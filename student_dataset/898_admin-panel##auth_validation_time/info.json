@@ -1,0 +1,12 @@
+{
+  "case_id": 898,
+  "case_name": "898_admin-panel##auth_validation_time",
+  "seq_len": 640,
+  "train_seq_len": 320,
+  "test_seq_len": 320,
+  "intervals": 60,
+  "training set anomaly ratio": 0.040625,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "LatencySecond",
+  "metric_name": "admin-panel##auth_validation_time"
+}

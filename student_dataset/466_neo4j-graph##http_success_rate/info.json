@@ -1,0 +1,12 @@
+{
+  "case_id": 466,
+  "case_name": "466_neo4j-graph##http_success_rate",
+  "seq_len": 825,
+  "train_seq_len": 412,
+  "test_seq_len": 413,
+  "intervals": 600,
+  "training set anomaly ratio": 0.009708737864077669,
+  "test set anomaly ratio": 0.13075060532687652,
+  "metric_type": "SuccessRate",
+  "metric_name": "neo4j-graph##http_success_rate"
+}

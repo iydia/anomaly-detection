@@ -1,0 +1,12 @@
+{
+  "case_id": 821,
+  "case_name": "821_redis-cluster##cache_operations_per_second",
+  "seq_len": 361,
+  "train_seq_len": 180,
+  "test_seq_len": 181,
+  "intervals": 300,
+  "training set anomaly ratio": 0.08333333333333333,
+  "test set anomaly ratio": 0.2596685082872928,
+  "metric_type": "QPS",
+  "metric_name": "redis-cluster##cache_operations_per_second"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 931,
+  "case_name": "931_notification-hub##api_call_failures_total_2",
+  "seq_len": 691,
+  "train_seq_len": 346,
+  "test_seq_len": 345,
+  "intervals": 600,
+  "training set anomaly ratio": 0.031791907514450865,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "ErrorCount",
+  "metric_name": "notification-hub##api_call_failures_total_2"
+}

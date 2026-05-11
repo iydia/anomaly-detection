@@ -1,0 +1,12 @@
+{
+  "case_id": 78,
+  "case_name": "078_hadoop-cluster##memory_usage_percent",
+  "seq_len": 560,
+  "train_seq_len": 280,
+  "test_seq_len": 280,
+  "intervals": 3600,
+  "training set anomaly ratio": 0.05714285714285714,
+  "test set anomaly ratio": 0.13214285714285715,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "hadoop-cluster##memory_usage_percent"
+}

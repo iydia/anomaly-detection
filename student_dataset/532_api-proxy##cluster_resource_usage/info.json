@@ -1,0 +1,12 @@
+{
+  "case_id": 532,
+  "case_name": "532_api-proxy##cluster_resource_usage",
+  "seq_len": 284,
+  "train_seq_len": 142,
+  "test_seq_len": 142,
+  "intervals": 60,
+  "training set anomaly ratio": 0.31690140845070425,
+  "test set anomaly ratio": 0.014084507042253521,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "api-proxy##cluster_resource_usage"
+}

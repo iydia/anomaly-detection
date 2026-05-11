@@ -1,0 +1,12 @@
+{
+  "case_id": 150,
+  "case_name": "150_config-service##database_errors_total",
+  "seq_len": 507,
+  "train_seq_len": 254,
+  "test_seq_len": 253,
+  "intervals": 60,
+  "training set anomaly ratio": 0.38976377952755903,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "ErrorCount",
+  "metric_name": "config-service##database_errors_total"
+}

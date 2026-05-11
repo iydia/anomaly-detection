@@ -1,0 +1,12 @@
+{
+  "case_id": 912,
+  "case_name": "912_circuit-breaker##validation_errors_total",
+  "seq_len": 383,
+  "train_seq_len": 192,
+  "test_seq_len": 191,
+  "intervals": 345,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.3036649214659686,
+  "metric_type": "ErrorCount",
+  "metric_name": "circuit-breaker##validation_errors_total"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 17,
+  "case_name": "017_load-balancer-01##search_queries_per_second",
+  "seq_len": 503,
+  "train_seq_len": 252,
+  "test_seq_len": 251,
+  "intervals": 345,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.21115537848605578,
+  "metric_type": "QPS",
+  "metric_name": "load-balancer-01##search_queries_per_second"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 952,
+  "case_name": "952_db-server-01##transaction_commit_time",
+  "seq_len": 766,
+  "train_seq_len": 383,
+  "test_seq_len": 383,
+  "intervals": 345,
+  "training set anomaly ratio": 0.08877284595300261,
+  "test set anomaly ratio": 0.02610966057441253,
+  "metric_type": "LatencySecond",
+  "metric_name": "db-server-01##transaction_commit_time"
+}

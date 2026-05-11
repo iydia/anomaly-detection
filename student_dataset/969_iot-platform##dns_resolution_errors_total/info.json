@@ -1,0 +1,12 @@
+{
+  "case_id": 969,
+  "case_name": "969_iot-platform##dns_resolution_errors_total",
+  "seq_len": 920,
+  "train_seq_len": 460,
+  "test_seq_len": 460,
+  "intervals": 300,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.08478260869565217,
+  "metric_type": "ErrorCount",
+  "metric_name": "iot-platform##dns_resolution_errors_total"
+}

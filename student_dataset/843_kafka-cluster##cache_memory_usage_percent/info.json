@@ -1,0 +1,12 @@
+{
+  "case_id": 843,
+  "case_name": "843_kafka-cluster##cache_memory_usage_percent",
+  "seq_len": 730,
+  "train_seq_len": 365,
+  "test_seq_len": 365,
+  "intervals": 345,
+  "training set anomaly ratio": 0.14246575342465753,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "kafka-cluster##cache_memory_usage_percent"
+}

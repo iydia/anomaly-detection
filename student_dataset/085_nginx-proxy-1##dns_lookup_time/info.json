@@ -1,0 +1,12 @@
+{
+  "case_id": 85,
+  "case_name": "085_nginx-proxy-1##dns_lookup_time",
+  "seq_len": 338,
+  "train_seq_len": 169,
+  "test_seq_len": 169,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.28402366863905326,
+  "test set anomaly ratio": 0.04142011834319527,
+  "metric_type": "LatencySecond",
+  "metric_name": "nginx-proxy-1##dns_lookup_time"
+}

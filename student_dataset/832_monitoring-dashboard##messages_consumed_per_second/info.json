@@ -1,0 +1,12 @@
+{
+  "case_id": 832,
+  "case_name": "832_monitoring-dashboard##messages_consumed_per_second",
+  "seq_len": 257,
+  "train_seq_len": 128,
+  "test_seq_len": 129,
+  "intervals": 345,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.06976744186046512,
+  "metric_type": "QPS",
+  "metric_name": "monitoring-dashboard##messages_consumed_per_second"
+}

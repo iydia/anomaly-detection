@@ -1,0 +1,12 @@
+{
+  "case_id": 991,
+  "case_name": "991_consul-cluster##node_ready_rate",
+  "seq_len": 565,
+  "train_seq_len": 282,
+  "test_seq_len": 283,
+  "intervals": 60,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.17314487632508835,
+  "metric_type": "SuccessRate",
+  "metric_name": "consul-cluster##node_ready_rate"
+}

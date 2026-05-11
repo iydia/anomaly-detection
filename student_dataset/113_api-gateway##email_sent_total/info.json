@@ -1,0 +1,12 @@
+{
+  "case_id": 113,
+  "case_name": "113_api-gateway##email_sent_total",
+  "seq_len": 383,
+  "train_seq_len": 192,
+  "test_seq_len": 191,
+  "intervals": 864,
+  "training set anomaly ratio": 0.03125,
+  "test set anomaly ratio": 0.5549738219895288,
+  "metric_type": "Count",
+  "metric_name": "api-gateway##email_sent_total"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 61,
+  "case_name": "061_dns-resolver##http_5xx_errors_total",
+  "seq_len": 823,
+  "train_seq_len": 412,
+  "test_seq_len": 411,
+  "intervals": 60,
+  "training set anomaly ratio": 0.13592233009708737,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "ErrorCount",
+  "metric_name": "dns-resolver##http_5xx_errors_total"
+}

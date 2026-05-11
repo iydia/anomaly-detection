@@ -1,0 +1,12 @@
+{
+  "case_id": 895,
+  "case_name": "895_bastion-host##database_queries_per_second",
+  "seq_len": 335,
+  "train_seq_len": 168,
+  "test_seq_len": 167,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.2619047619047619,
+  "test set anomaly ratio": 0.029940119760479042,
+  "metric_type": "QPS",
+  "metric_name": "bastion-host##database_queries_per_second"
+}

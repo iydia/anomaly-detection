@@ -1,0 +1,12 @@
+{
+  "case_id": 559,
+  "case_name": "559_app-server-01##http_4xx_errors_total",
+  "seq_len": 689,
+  "train_seq_len": 344,
+  "test_seq_len": 345,
+  "intervals": 600,
+  "training set anomaly ratio": 0.055232558139534885,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "ErrorCount",
+  "metric_name": "app-server-01##http_4xx_errors_total"
+}

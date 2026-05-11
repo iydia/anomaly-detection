@@ -1,0 +1,12 @@
+{
+  "case_id": 131,
+  "case_name": "131_message-broker##notification_success_rate",
+  "seq_len": 714,
+  "train_seq_len": 357,
+  "test_seq_len": 357,
+  "intervals": 300,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.08683473389355742,
+  "metric_type": "SuccessRate",
+  "metric_name": "message-broker##notification_success_rate"
+}

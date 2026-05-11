@@ -1,0 +1,12 @@
+{
+  "case_id": 959,
+  "case_name": "959_clickhouse-events##api_calls_count",
+  "seq_len": 256,
+  "train_seq_len": 128,
+  "test_seq_len": 128,
+  "intervals": 60,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.0703125,
+  "metric_type": "Count",
+  "metric_name": "clickhouse-events##api_calls_count"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 464,
+  "case_name": "464_cdn-node-01##storage_capacity_usage",
+  "seq_len": 418,
+  "train_seq_len": 209,
+  "test_seq_len": 209,
+  "intervals": 60,
+  "training set anomaly ratio": 0.08133971291866028,
+  "test set anomaly ratio": 0.09090909090909091,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "cdn-node-01##storage_capacity_usage"
+}

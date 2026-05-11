@@ -1,0 +1,12 @@
+{
+  "case_id": 777,
+  "case_name": "777_vault-server-1##sql_execution_time",
+  "seq_len": 297,
+  "train_seq_len": 148,
+  "test_seq_len": 149,
+  "intervals": 60,
+  "training set anomaly ratio": 0.2905405405405405,
+  "test set anomaly ratio": 0.48322147651006714,
+  "metric_type": "LatencySecond",
+  "metric_name": "vault-server-1##sql_execution_time"
+}

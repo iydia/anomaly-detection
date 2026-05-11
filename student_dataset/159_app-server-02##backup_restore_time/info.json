@@ -1,0 +1,12 @@
+{
+  "case_id": 159,
+  "case_name": "159_app-server-02##backup_restore_time",
+  "seq_len": 428,
+  "train_seq_len": 214,
+  "test_seq_len": 214,
+  "intervals": 864,
+  "training set anomaly ratio": 0.018691588785046728,
+  "test set anomaly ratio": 0.04205607476635514,
+  "metric_type": "LatencySecond",
+  "metric_name": "app-server-02##backup_restore_time"
+}

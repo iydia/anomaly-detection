@@ -1,0 +1,12 @@
+{
+  "case_id": 259,
+  "case_name": "259_prod-cluster##node_ready_rate",
+  "seq_len": 502,
+  "train_seq_len": 251,
+  "test_seq_len": 251,
+  "intervals": 864,
+  "training set anomaly ratio": 0.2868525896414343,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "SuccessRate",
+  "metric_name": "prod-cluster##node_ready_rate"
+}

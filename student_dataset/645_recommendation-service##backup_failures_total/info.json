@@ -1,0 +1,12 @@
+{
+  "case_id": 645,
+  "case_name": "645_recommendation-service##backup_failures_total",
+  "seq_len": 717,
+  "train_seq_len": 358,
+  "test_seq_len": 359,
+  "intervals": 864,
+  "training set anomaly ratio": 0.0670391061452514,
+  "test set anomaly ratio": 0.12534818941504178,
+  "metric_type": "ErrorCount",
+  "metric_name": "recommendation-service##backup_failures_total"
+}

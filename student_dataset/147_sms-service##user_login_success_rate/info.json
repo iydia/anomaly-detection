@@ -1,0 +1,12 @@
+{
+  "case_id": 147,
+  "case_name": "147_sms-service##user_login_success_rate",
+  "seq_len": 985,
+  "train_seq_len": 492,
+  "test_seq_len": 493,
+  "intervals": 60,
+  "training set anomaly ratio": 0.06504065040650407,
+  "test set anomaly ratio": 0.014198782961460446,
+  "metric_type": "SuccessRate",
+  "metric_name": "sms-service##user_login_success_rate"
+}

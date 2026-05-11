@@ -1,0 +1,12 @@
+{
+  "case_id": 966,
+  "case_name": "966_k8s-backend-2##service_health_score",
+  "seq_len": 676,
+  "train_seq_len": 338,
+  "test_seq_len": 338,
+  "intervals": 60,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "SuccessRate",
+  "metric_name": "k8s-backend-2##service_health_score"
+}

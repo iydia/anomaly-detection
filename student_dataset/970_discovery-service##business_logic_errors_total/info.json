@@ -1,0 +1,12 @@
+{
+  "case_id": 970,
+  "case_name": "970_discovery-service##business_logic_errors_total",
+  "seq_len": 708,
+  "train_seq_len": 354,
+  "test_seq_len": 354,
+  "intervals": 300,
+  "training set anomaly ratio": 0.01977401129943503,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "ErrorCount",
+  "metric_name": "discovery-service##business_logic_errors_total"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 780,
+  "case_name": "780_ntp-server##containers_started_total",
+  "seq_len": 477,
+  "train_seq_len": 238,
+  "test_seq_len": 239,
+  "intervals": 345,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.03347280334728033,
+  "metric_type": "Count",
+  "metric_name": "ntp-server##containers_started_total"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 828,
+  "case_name": "828_reporting-engine##transactions_per_second",
+  "seq_len": 820,
+  "train_seq_len": 410,
+  "test_seq_len": 410,
+  "intervals": 600,
+  "training set anomaly ratio": 0.09268292682926829,
+  "test set anomaly ratio": 0.17560975609756097,
+  "metric_type": "QPS",
+  "metric_name": "reporting-engine##transactions_per_second"
+}

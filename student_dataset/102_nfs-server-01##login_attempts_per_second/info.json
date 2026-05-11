@@ -1,0 +1,12 @@
+{
+  "case_id": 102,
+  "case_name": "102_nfs-server-01##login_attempts_per_second",
+  "seq_len": 822,
+  "train_seq_len": 411,
+  "test_seq_len": 411,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.24817518248175183,
+  "metric_type": "QPS",
+  "metric_name": "nfs-server-01##login_attempts_per_second"
+}

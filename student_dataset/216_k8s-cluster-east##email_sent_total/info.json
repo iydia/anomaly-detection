@@ -1,0 +1,12 @@
+{
+  "case_id": 216,
+  "case_name": "216_k8s-cluster-east##email_sent_total",
+  "seq_len": 895,
+  "train_seq_len": 448,
+  "test_seq_len": 447,
+  "intervals": 864,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.058165548098434,
+  "metric_type": "Count",
+  "metric_name": "k8s-cluster-east##email_sent_total"
+}

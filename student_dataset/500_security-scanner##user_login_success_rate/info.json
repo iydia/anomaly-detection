@@ -1,0 +1,12 @@
+{
+  "case_id": 500,
+  "case_name": "500_security-scanner##user_login_success_rate",
+  "seq_len": 475,
+  "train_seq_len": 238,
+  "test_seq_len": 237,
+  "intervals": 345,
+  "training set anomaly ratio": 0.09663865546218488,
+  "test set anomaly ratio": 0.06751054852320675,
+  "metric_type": "SuccessRate",
+  "metric_name": "security-scanner##user_login_success_rate"
+}

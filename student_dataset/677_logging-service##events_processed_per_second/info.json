@@ -1,0 +1,12 @@
+{
+  "case_id": 677,
+  "case_name": "677_logging-service##events_processed_per_second",
+  "seq_len": 449,
+  "train_seq_len": 224,
+  "test_seq_len": 225,
+  "intervals": 864,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.09333333333333334,
+  "metric_type": "QPS",
+  "metric_name": "logging-service##events_processed_per_second"
+}

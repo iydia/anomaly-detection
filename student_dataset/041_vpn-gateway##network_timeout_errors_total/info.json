@@ -1,0 +1,12 @@
+{
+  "case_id": 41,
+  "case_name": "041_vpn-gateway##network_timeout_errors_total",
+  "seq_len": 1024,
+  "train_seq_len": 512,
+  "test_seq_len": 512,
+  "intervals": 345,
+  "training set anomaly ratio": 0.048828125,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "ErrorCount",
+  "metric_name": "vpn-gateway##network_timeout_errors_total"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 254,
+  "case_name": "254_prod-cluster##http_5xx_errors_total",
+  "seq_len": 951,
+  "train_seq_len": 476,
+  "test_seq_len": 475,
+  "intervals": 600,
+  "training set anomaly ratio": 0.0063025210084033615,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "ErrorCount",
+  "metric_name": "prod-cluster##http_5xx_errors_total"
+}

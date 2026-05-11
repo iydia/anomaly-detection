@@ -1,0 +1,12 @@
+{
+  "case_id": 408,
+  "case_name": "408_workflow-engine##events_processed_per_second",
+  "seq_len": 272,
+  "train_seq_len": 136,
+  "test_seq_len": 136,
+  "intervals": 345,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.3014705882352941,
+  "metric_type": "QPS",
+  "metric_name": "workflow-engine##events_processed_per_second"
+}

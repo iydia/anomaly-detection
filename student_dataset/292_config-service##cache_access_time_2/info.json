@@ -1,0 +1,12 @@
+{
+  "case_id": 292,
+  "case_name": "292_config-service##cache_access_time_2",
+  "seq_len": 358,
+  "train_seq_len": 179,
+  "test_seq_len": 179,
+  "intervals": 864,
+  "training set anomaly ratio": 0.11731843575418995,
+  "test set anomaly ratio": 0.553072625698324,
+  "metric_type": "LatencySecond",
+  "metric_name": "config-service##cache_access_time_2"
+}

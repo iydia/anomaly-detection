@@ -1,0 +1,12 @@
+{
+  "case_id": 956,
+  "case_name": "956_web-app##grpc_call_duration",
+  "seq_len": 993,
+  "train_seq_len": 496,
+  "test_seq_len": 497,
+  "intervals": 60,
+  "training set anomaly ratio": 0.08669354838709678,
+  "test set anomaly ratio": 0.08048289738430583,
+  "metric_type": "LatencySecond",
+  "metric_name": "web-app##grpc_call_duration"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 68,
+  "case_name": "068_e-commerce-frontend##pod_creations_per_second",
+  "seq_len": 644,
+  "train_seq_len": 322,
+  "test_seq_len": 322,
+  "intervals": 3600,
+  "training set anomaly ratio": 0.08074534161490683,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "QPS",
+  "metric_name": "e-commerce-frontend##pod_creations_per_second"
+}

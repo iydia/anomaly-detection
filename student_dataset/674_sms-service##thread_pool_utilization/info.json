@@ -1,0 +1,12 @@
+{
+  "case_id": 674,
+  "case_name": "674_sms-service##thread_pool_utilization",
+  "seq_len": 630,
+  "train_seq_len": 315,
+  "test_seq_len": 315,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.025396825396825397,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "sms-service##thread_pool_utilization"
+}

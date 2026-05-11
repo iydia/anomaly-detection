@@ -1,0 +1,12 @@
+{
+  "case_id": 688,
+  "case_name": "688_monitoring-agent##http_success_rate",
+  "seq_len": 440,
+  "train_seq_len": 220,
+  "test_seq_len": 220,
+  "intervals": 600,
+  "training set anomaly ratio": 0.03636363636363636,
+  "test set anomaly ratio": 0.2,
+  "metric_type": "SuccessRate",
+  "metric_name": "monitoring-agent##http_success_rate"
+}

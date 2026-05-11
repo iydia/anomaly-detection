@@ -1,0 +1,12 @@
+{
+  "case_id": 684,
+  "case_name": "684_proxy-server-01##auth_validation_time",
+  "seq_len": 663,
+  "train_seq_len": 332,
+  "test_seq_len": 331,
+  "intervals": 600,
+  "training set anomaly ratio": 0.15963855421686746,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "LatencySecond",
+  "metric_name": "proxy-server-01##auth_validation_time"
+}

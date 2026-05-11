@@ -1,0 +1,12 @@
+{
+  "case_id": 65,
+  "case_name": "065_e-commerce-frontend##grpc_call_duration",
+  "seq_len": 344,
+  "train_seq_len": 172,
+  "test_seq_len": 172,
+  "intervals": 345,
+  "training set anomaly ratio": 0.4883720930232558,
+  "test set anomaly ratio": 0.1511627906976744,
+  "metric_type": "LatencySecond",
+  "metric_name": "e-commerce-frontend##grpc_call_duration"
+}

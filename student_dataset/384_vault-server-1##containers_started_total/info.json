@@ -1,0 +1,12 @@
+{
+  "case_id": 384,
+  "case_name": "384_vault-server-1##containers_started_total",
+  "seq_len": 309,
+  "train_seq_len": 154,
+  "test_seq_len": 155,
+  "intervals": 600,
+  "training set anomaly ratio": 0.06493506493506493,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "Count",
+  "metric_name": "vault-server-1##containers_started_total"
+}

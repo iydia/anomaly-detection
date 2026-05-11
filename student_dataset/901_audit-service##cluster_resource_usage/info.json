@@ -1,0 +1,12 @@
+{
+  "case_id": 901,
+  "case_name": "901_audit-service##cluster_resource_usage",
+  "seq_len": 295,
+  "train_seq_len": 148,
+  "test_seq_len": 147,
+  "intervals": 864,
+  "training set anomaly ratio": 0.49324324324324326,
+  "test set anomaly ratio": 0.04081632653061224,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "audit-service##cluster_resource_usage"
+}

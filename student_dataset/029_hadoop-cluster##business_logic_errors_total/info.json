@@ -1,0 +1,12 @@
+{
+  "case_id": 29,
+  "case_name": "029_hadoop-cluster##business_logic_errors_total",
+  "seq_len": 362,
+  "train_seq_len": 181,
+  "test_seq_len": 181,
+  "intervals": 600,
+  "training set anomaly ratio": 0.5524861878453039,
+  "test set anomaly ratio": 0.24861878453038674,
+  "metric_type": "ErrorCount",
+  "metric_name": "hadoop-cluster##business_logic_errors_total"
+}

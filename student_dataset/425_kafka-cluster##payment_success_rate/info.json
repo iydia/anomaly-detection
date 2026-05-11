@@ -1,0 +1,12 @@
+{
+  "case_id": 425,
+  "case_name": "425_kafka-cluster##payment_success_rate",
+  "seq_len": 714,
+  "train_seq_len": 357,
+  "test_seq_len": 357,
+  "intervals": 60,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.022408963585434174,
+  "metric_type": "SuccessRate",
+  "metric_name": "kafka-cluster##payment_success_rate"
+}

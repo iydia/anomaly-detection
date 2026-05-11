@@ -1,0 +1,12 @@
+{
+  "case_id": 724,
+  "case_name": "724_cassandra-cluster##cache_memory_usage_percent",
+  "seq_len": 929,
+  "train_seq_len": 464,
+  "test_seq_len": 465,
+  "intervals": 345,
+  "training set anomaly ratio": 0.015086206896551725,
+  "test set anomaly ratio": 0.16129032258064516,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "cassandra-cluster##cache_memory_usage_percent"
+}

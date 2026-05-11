@@ -1,0 +1,12 @@
+{
+  "case_id": 354,
+  "case_name": "354_hadoop-cluster##cache_access_time",
+  "seq_len": 847,
+  "train_seq_len": 424,
+  "test_seq_len": 423,
+  "intervals": 60,
+  "training set anomaly ratio": 0.014150943396226415,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "LatencySecond",
+  "metric_name": "hadoop-cluster##cache_access_time"
+}

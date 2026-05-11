@@ -1,0 +1,12 @@
+{
+  "case_id": 193,
+  "case_name": "193_ntp-server##cache_hit_rate",
+  "seq_len": 508,
+  "train_seq_len": 254,
+  "test_seq_len": 254,
+  "intervals": 600,
+  "training set anomaly ratio": 0.2283464566929134,
+  "test set anomaly ratio": 0.2125984251968504,
+  "metric_type": "SuccessRate",
+  "metric_name": "ntp-server##cache_hit_rate"
+}

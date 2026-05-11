@@ -1,0 +1,12 @@
+{
+  "case_id": 94,
+  "case_name": "094_payment-gateway##backup_success_rate",
+  "seq_len": 297,
+  "train_seq_len": 148,
+  "test_seq_len": 149,
+  "intervals": 3600,
+  "training set anomaly ratio": 0.20945945945945946,
+  "test set anomaly ratio": 0.04697986577181208,
+  "metric_type": "SuccessRate",
+  "metric_name": "payment-gateway##backup_success_rate"
+}

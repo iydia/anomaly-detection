@@ -1,0 +1,12 @@
+{
+  "case_id": 863,
+  "case_name": "863_mysql-primary##database_queries_per_second",
+  "seq_len": 751,
+  "train_seq_len": 376,
+  "test_seq_len": 375,
+  "intervals": 60,
+  "training set anomaly ratio": 0.023936170212765957,
+  "test set anomaly ratio": 0.04,
+  "metric_type": "QPS",
+  "metric_name": "mysql-primary##database_queries_per_second"
+}

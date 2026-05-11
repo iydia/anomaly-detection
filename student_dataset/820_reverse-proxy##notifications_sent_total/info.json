@@ -1,0 +1,12 @@
+{
+  "case_id": 820,
+  "case_name": "820_reverse-proxy##notifications_sent_total",
+  "seq_len": 1006,
+  "train_seq_len": 503,
+  "test_seq_len": 503,
+  "intervals": 600,
+  "training set anomaly ratio": 0.05168986083499006,
+  "test set anomaly ratio": 0.06759443339960239,
+  "metric_type": "Count",
+  "metric_name": "reverse-proxy##notifications_sent_total"
+}

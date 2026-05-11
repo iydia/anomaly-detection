@@ -1,0 +1,12 @@
+{
+  "case_id": 549,
+  "case_name": "549_proxy-server-01##pod_creations_per_second",
+  "seq_len": 875,
+  "train_seq_len": 438,
+  "test_seq_len": 437,
+  "intervals": 864,
+  "training set anomaly ratio": 0.02054794520547945,
+  "test set anomaly ratio": 0.05491990846681922,
+  "metric_type": "QPS",
+  "metric_name": "proxy-server-01##pod_creations_per_second"
+}

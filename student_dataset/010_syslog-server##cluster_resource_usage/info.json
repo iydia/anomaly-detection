@@ -1,0 +1,12 @@
+{
+  "case_id": 10,
+  "case_name": "010_syslog-server##cluster_resource_usage",
+  "seq_len": 323,
+  "train_seq_len": 162,
+  "test_seq_len": 161,
+  "intervals": 345,
+  "training set anomaly ratio": 0.4691358024691358,
+  "test set anomaly ratio": 0.18012422360248448,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "syslog-server##cluster_resource_usage"
+}

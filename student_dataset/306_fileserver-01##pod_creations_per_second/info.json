@@ -1,0 +1,12 @@
+{
+  "case_id": 306,
+  "case_name": "306_fileserver-01##pod_creations_per_second",
+  "seq_len": 595,
+  "train_seq_len": 298,
+  "test_seq_len": 297,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.04040404040404041,
+  "metric_type": "QPS",
+  "metric_name": "fileserver-01##pod_creations_per_second"
+}

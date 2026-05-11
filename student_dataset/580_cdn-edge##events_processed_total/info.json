@@ -1,0 +1,12 @@
+{
+  "case_id": 580,
+  "case_name": "580_cdn-edge##events_processed_total",
+  "seq_len": 987,
+  "train_seq_len": 494,
+  "test_seq_len": 493,
+  "intervals": 864,
+  "training set anomaly ratio": 0.02631578947368421,
+  "test set anomaly ratio": 0.02434077079107505,
+  "metric_type": "Count",
+  "metric_name": "cdn-edge##events_processed_total"
+}

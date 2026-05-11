@@ -1,0 +1,12 @@
+{
+  "case_id": 602,
+  "case_name": "602_auth-service##api_success_rate",
+  "seq_len": 716,
+  "train_seq_len": 358,
+  "test_seq_len": 358,
+  "intervals": 600,
+  "training set anomaly ratio": 0.14804469273743018,
+  "test set anomaly ratio": 0.008379888268156424,
+  "metric_type": "SuccessRate",
+  "metric_name": "auth-service##api_success_rate"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 12,
+  "case_name": "012_vpn-gateway##endpoint_success_rate",
+  "seq_len": 1023,
+  "train_seq_len": 512,
+  "test_seq_len": 511,
+  "intervals": 300,
+  "training set anomaly ratio": 0.0078125,
+  "test set anomaly ratio": 0.08806262230919765,
+  "metric_type": "SuccessRate",
+  "metric_name": "vpn-gateway##endpoint_success_rate"
+}

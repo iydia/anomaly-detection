@@ -1,0 +1,12 @@
+{
+  "case_id": 819,
+  "case_name": "819_k8s-frontend-1##orders_created_total",
+  "seq_len": 831,
+  "train_seq_len": 416,
+  "test_seq_len": 415,
+  "intervals": 864,
+  "training set anomaly ratio": 0.01201923076923077,
+  "test set anomaly ratio": 0.033734939759036145,
+  "metric_type": "Count",
+  "metric_name": "k8s-frontend-1##orders_created_total"
+}

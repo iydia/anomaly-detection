@@ -1,0 +1,12 @@
+{
+  "case_id": 939,
+  "case_name": "939_app-server-02##payment_success_rate",
+  "seq_len": 256,
+  "train_seq_len": 128,
+  "test_seq_len": 128,
+  "intervals": 600,
+  "training set anomaly ratio": 0.0546875,
+  "test set anomaly ratio": 0.046875,
+  "metric_type": "SuccessRate",
+  "metric_name": "app-server-02##payment_success_rate"
+}

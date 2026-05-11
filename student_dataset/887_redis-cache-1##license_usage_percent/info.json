@@ -1,0 +1,12 @@
+{
+  "case_id": 887,
+  "case_name": "887_redis-cache-1##license_usage_percent",
+  "seq_len": 466,
+  "train_seq_len": 233,
+  "test_seq_len": 233,
+  "intervals": 60,
+  "training set anomaly ratio": 0.04291845493562232,
+  "test set anomaly ratio": 0.2875536480686695,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "redis-cache-1##license_usage_percent"
+}

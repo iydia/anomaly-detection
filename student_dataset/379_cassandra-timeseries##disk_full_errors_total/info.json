@@ -1,0 +1,12 @@
+{
+  "case_id": 379,
+  "case_name": "379_cassandra-timeseries##disk_full_errors_total",
+  "seq_len": 740,
+  "train_seq_len": 370,
+  "test_seq_len": 370,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.016216216216216217,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "ErrorCount",
+  "metric_name": "cassandra-timeseries##disk_full_errors_total"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 279,
+  "case_name": "279_docker1##registration_success_rate",
+  "seq_len": 517,
+  "train_seq_len": 258,
+  "test_seq_len": 259,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.050387596899224806,
+  "test set anomaly ratio": 0.1274131274131274,
+  "metric_type": "SuccessRate",
+  "metric_name": "docker1##registration_success_rate"
+}

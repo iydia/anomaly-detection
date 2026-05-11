@@ -1,0 +1,12 @@
+{
+  "case_id": 885,
+  "case_name": "885_order-service##message_delivery_rate",
+  "seq_len": 870,
+  "train_seq_len": 435,
+  "test_seq_len": 435,
+  "intervals": 864,
+  "training set anomaly ratio": 0.020689655172413793,
+  "test set anomaly ratio": 0.011494252873563218,
+  "metric_type": "SuccessRate",
+  "metric_name": "order-service##message_delivery_rate"
+}

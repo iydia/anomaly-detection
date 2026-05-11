@@ -1,0 +1,12 @@
+{
+  "case_id": 38,
+  "case_name": "038_worker-node-01##containers_started_total",
+  "seq_len": 417,
+  "train_seq_len": 208,
+  "test_seq_len": 209,
+  "intervals": 3600,
+  "training set anomaly ratio": 0.019230769230769232,
+  "test set anomaly ratio": 0.3062200956937799,
+  "metric_type": "Count",
+  "metric_name": "worker-node-01##containers_started_total"
+}

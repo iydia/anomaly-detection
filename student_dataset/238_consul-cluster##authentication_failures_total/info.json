@@ -1,0 +1,12 @@
+{
+  "case_id": 238,
+  "case_name": "238_consul-cluster##authentication_failures_total",
+  "seq_len": 980,
+  "train_seq_len": 490,
+  "test_seq_len": 490,
+  "intervals": 60,
+  "training set anomaly ratio": 0.05918367346938776,
+  "test set anomaly ratio": 0.036734693877551024,
+  "metric_type": "ErrorCount",
+  "metric_name": "consul-cluster##authentication_failures_total"
+}

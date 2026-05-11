@@ -1,0 +1,12 @@
+{
+  "case_id": 603,
+  "case_name": "603_email-service##database_availability_rate",
+  "seq_len": 394,
+  "train_seq_len": 197,
+  "test_seq_len": 197,
+  "intervals": 345,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.15736040609137056,
+  "metric_type": "SuccessRate",
+  "metric_name": "email-service##database_availability_rate"
+}

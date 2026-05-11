@@ -1,0 +1,12 @@
+{
+  "case_id": 380,
+  "case_name": "380_app-server-02##authentication_failures_total",
+  "seq_len": 496,
+  "train_seq_len": 248,
+  "test_seq_len": 248,
+  "intervals": 864,
+  "training set anomaly ratio": 0.024193548387096774,
+  "test set anomaly ratio": 0.42338709677419356,
+  "metric_type": "ErrorCount",
+  "metric_name": "app-server-02##authentication_failures_total"
+}

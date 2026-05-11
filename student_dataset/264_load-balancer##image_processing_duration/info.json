@@ -1,0 +1,12 @@
+{
+  "case_id": 264,
+  "case_name": "264_load-balancer##image_processing_duration",
+  "seq_len": 464,
+  "train_seq_len": 232,
+  "test_seq_len": 232,
+  "intervals": 864,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.15948275862068967,
+  "metric_type": "LatencySecond",
+  "metric_name": "load-balancer##image_processing_duration"
+}

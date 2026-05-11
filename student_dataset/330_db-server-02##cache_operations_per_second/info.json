@@ -1,0 +1,12 @@
+{
+  "case_id": 330,
+  "case_name": "330_db-server-02##cache_operations_per_second",
+  "seq_len": 512,
+  "train_seq_len": 256,
+  "test_seq_len": 256,
+  "intervals": 600,
+  "training set anomaly ratio": 0.15234375,
+  "test set anomaly ratio": 0.01171875,
+  "metric_type": "QPS",
+  "metric_name": "db-server-02##cache_operations_per_second"
+}

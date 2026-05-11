@@ -1,0 +1,12 @@
+{
+  "case_id": 453,
+  "case_name": "453_product-service##cluster_resource_usage",
+  "seq_len": 610,
+  "train_seq_len": 305,
+  "test_seq_len": 305,
+  "intervals": 864,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.08196721311475409,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "product-service##cluster_resource_usage"
+}

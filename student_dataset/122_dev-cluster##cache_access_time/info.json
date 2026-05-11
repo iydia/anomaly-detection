@@ -1,0 +1,12 @@
+{
+  "case_id": 122,
+  "case_name": "122_dev-cluster##cache_access_time",
+  "seq_len": 358,
+  "train_seq_len": 179,
+  "test_seq_len": 179,
+  "intervals": 345,
+  "training set anomaly ratio": 0.0446927374301676,
+  "test set anomaly ratio": 0.27932960893854747,
+  "metric_type": "LatencySecond",
+  "metric_name": "dev-cluster##cache_access_time"
+}

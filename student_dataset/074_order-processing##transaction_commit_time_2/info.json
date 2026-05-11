@@ -1,0 +1,12 @@
+{
+  "case_id": 74,
+  "case_name": "074_order-processing##transaction_commit_time_2",
+  "seq_len": 417,
+  "train_seq_len": 208,
+  "test_seq_len": 209,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.16826923076923078,
+  "test set anomaly ratio": 0.14832535885167464,
+  "metric_type": "LatencySecond",
+  "metric_name": "order-processing##transaction_commit_time_2"
+}

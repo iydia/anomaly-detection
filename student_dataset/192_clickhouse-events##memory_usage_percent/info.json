@@ -1,0 +1,12 @@
+{
+  "case_id": 192,
+  "case_name": "192_clickhouse-events##memory_usage_percent",
+  "seq_len": 797,
+  "train_seq_len": 398,
+  "test_seq_len": 399,
+  "intervals": 300,
+  "training set anomaly ratio": 0.020100502512562814,
+  "test set anomaly ratio": 0.05263157894736842,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "clickhouse-events##memory_usage_percent"
+}

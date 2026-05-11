@@ -1,0 +1,12 @@
+{
+  "case_id": 406,
+  "case_name": "406_elasticsearch-cluster##user_sessions_count",
+  "seq_len": 689,
+  "train_seq_len": 344,
+  "test_seq_len": 345,
+  "intervals": 864,
+  "training set anomaly ratio": 0.23255813953488372,
+  "test set anomaly ratio": 0.11594202898550725,
+  "metric_type": "Count",
+  "metric_name": "elasticsearch-cluster##user_sessions_count"
+}

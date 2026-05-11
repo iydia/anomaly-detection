@@ -1,0 +1,12 @@
+{
+  "case_id": 110,
+  "case_name": "110_reporting-engine##third_party_api_errors_total",
+  "seq_len": 486,
+  "train_seq_len": 243,
+  "test_seq_len": 243,
+  "intervals": 345,
+  "training set anomaly ratio": 0.12757201646090535,
+  "test set anomaly ratio": 0.1111111111111111,
+  "metric_type": "ErrorCount",
+  "metric_name": "reporting-engine##third_party_api_errors_total"
+}

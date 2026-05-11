@@ -1,0 +1,12 @@
+{
+  "case_id": 622,
+  "case_name": "622_dns-server-01##cache_hit_rate",
+  "seq_len": 632,
+  "train_seq_len": 316,
+  "test_seq_len": 316,
+  "intervals": 3600,
+  "training set anomaly ratio": 0.00949367088607595,
+  "test set anomaly ratio": 0.18670886075949367,
+  "metric_type": "SuccessRate",
+  "metric_name": "dns-server-01##cache_hit_rate"
+}

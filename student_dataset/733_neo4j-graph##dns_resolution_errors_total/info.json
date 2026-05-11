@@ -1,0 +1,12 @@
+{
+  "case_id": 733,
+  "case_name": "733_neo4j-graph##dns_resolution_errors_total",
+  "seq_len": 522,
+  "train_seq_len": 261,
+  "test_seq_len": 261,
+  "intervals": 600,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.17624521072796934,
+  "metric_type": "ErrorCount",
+  "metric_name": "neo4j-graph##dns_resolution_errors_total"
+}

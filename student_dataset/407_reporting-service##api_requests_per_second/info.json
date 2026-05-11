@@ -1,0 +1,12 @@
+{
+  "case_id": 407,
+  "case_name": "407_reporting-service##api_requests_per_second",
+  "seq_len": 307,
+  "train_seq_len": 154,
+  "test_seq_len": 153,
+  "intervals": 300,
+  "training set anomaly ratio": 0.045454545454545456,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "QPS",
+  "metric_name": "reporting-service##api_requests_per_second"
+}

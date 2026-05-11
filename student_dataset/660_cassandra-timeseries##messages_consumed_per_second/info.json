@@ -1,0 +1,12 @@
+{
+  "case_id": 660,
+  "case_name": "660_cassandra-timeseries##messages_consumed_per_second",
+  "seq_len": 893,
+  "train_seq_len": 446,
+  "test_seq_len": 447,
+  "intervals": 864,
+  "training set anomaly ratio": 0.10089686098654709,
+  "test set anomaly ratio": 0.049217002237136466,
+  "metric_type": "QPS",
+  "metric_name": "cassandra-timeseries##messages_consumed_per_second"
+}

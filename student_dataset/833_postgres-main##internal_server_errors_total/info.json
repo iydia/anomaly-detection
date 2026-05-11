@@ -1,0 +1,12 @@
+{
+  "case_id": 833,
+  "case_name": "833_postgres-main##internal_server_errors_total",
+  "seq_len": 774,
+  "train_seq_len": 387,
+  "test_seq_len": 387,
+  "intervals": 3600,
+  "training set anomaly ratio": 0.07235142118863049,
+  "test set anomaly ratio": 0.0103359173126615,
+  "metric_type": "ErrorCount",
+  "metric_name": "postgres-main##internal_server_errors_total"
+}

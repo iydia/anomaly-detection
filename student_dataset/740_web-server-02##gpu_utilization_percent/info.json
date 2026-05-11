@@ -1,0 +1,12 @@
+{
+  "case_id": 740,
+  "case_name": "740_web-server-02##gpu_utilization_percent",
+  "seq_len": 789,
+  "train_seq_len": 394,
+  "test_seq_len": 395,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "web-server-02##gpu_utilization_percent"
+}

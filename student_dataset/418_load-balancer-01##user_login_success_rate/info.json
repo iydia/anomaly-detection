@@ -1,0 +1,12 @@
+{
+  "case_id": 418,
+  "case_name": "418_load-balancer-01##user_login_success_rate",
+  "seq_len": 749,
+  "train_seq_len": 374,
+  "test_seq_len": 375,
+  "intervals": 345,
+  "training set anomaly ratio": 0.0053475935828877,
+  "test set anomaly ratio": 0.042666666666666665,
+  "metric_type": "SuccessRate",
+  "metric_name": "load-balancer-01##user_login_success_rate"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 572,
+  "case_name": "572_nat-gateway##page_views_total",
+  "seq_len": 907,
+  "train_seq_len": 454,
+  "test_seq_len": 453,
+  "intervals": 300,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.011037527593818985,
+  "metric_type": "Count",
+  "metric_name": "nat-gateway##page_views_total"
+}

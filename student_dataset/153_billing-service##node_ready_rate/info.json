@@ -1,0 +1,12 @@
+{
+  "case_id": 153,
+  "case_name": "153_billing-service##node_ready_rate",
+  "seq_len": 944,
+  "train_seq_len": 472,
+  "test_seq_len": 472,
+  "intervals": 600,
+  "training set anomaly ratio": 0.1673728813559322,
+  "test set anomaly ratio": 0.1059322033898305,
+  "metric_type": "SuccessRate",
+  "metric_name": "billing-service##node_ready_rate"
+}

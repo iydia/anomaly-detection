@@ -1,0 +1,12 @@
+{
+  "case_id": 983,
+  "case_name": "983_elasticsearch-cluster##queue_capacity_usage",
+  "seq_len": 468,
+  "train_seq_len": 234,
+  "test_seq_len": 234,
+  "intervals": 345,
+  "training set anomaly ratio": 0.0641025641025641,
+  "test set anomaly ratio": 0.4188034188034188,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "elasticsearch-cluster##queue_capacity_usage"
+}

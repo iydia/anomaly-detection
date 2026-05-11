@@ -1,0 +1,12 @@
+{
+  "case_id": 779,
+  "case_name": "779_harbor-registry##database_connection_usage",
+  "seq_len": 915,
+  "train_seq_len": 458,
+  "test_seq_len": 457,
+  "intervals": 60,
+  "training set anomaly ratio": 0.07641921397379912,
+  "test set anomaly ratio": 0.0087527352297593,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "harbor-registry##database_connection_usage"
+}

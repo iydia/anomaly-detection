@@ -1,0 +1,12 @@
+{
+  "case_id": 303,
+  "case_name": "303_content-management##thread_pool_utilization",
+  "seq_len": 757,
+  "train_seq_len": 378,
+  "test_seq_len": 379,
+  "intervals": 864,
+  "training set anomaly ratio": 0.042328042328042326,
+  "test set anomaly ratio": 0.036939313984168866,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "content-management##thread_pool_utilization"
+}

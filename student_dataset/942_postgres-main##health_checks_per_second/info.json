@@ -1,0 +1,12 @@
+{
+  "case_id": 942,
+  "case_name": "942_postgres-main##health_checks_per_second",
+  "seq_len": 344,
+  "train_seq_len": 172,
+  "test_seq_len": 172,
+  "intervals": 60,
+  "training set anomaly ratio": 0.12790697674418605,
+  "test set anomaly ratio": 0.13953488372093023,
+  "metric_type": "QPS",
+  "metric_name": "postgres-main##health_checks_per_second"
+}

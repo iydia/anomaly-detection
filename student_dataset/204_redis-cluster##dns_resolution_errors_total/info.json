@@ -1,0 +1,12 @@
+{
+  "case_id": 204,
+  "case_name": "204_redis-cluster##dns_resolution_errors_total",
+  "seq_len": 1012,
+  "train_seq_len": 506,
+  "test_seq_len": 506,
+  "intervals": 600,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.12055335968379446,
+  "metric_type": "ErrorCount",
+  "metric_name": "redis-cluster##dns_resolution_errors_total"
+}

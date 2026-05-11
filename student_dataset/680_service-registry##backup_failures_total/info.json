@@ -1,0 +1,12 @@
+{
+  "case_id": 680,
+  "case_name": "680_service-registry##backup_failures_total",
+  "seq_len": 896,
+  "train_seq_len": 448,
+  "test_seq_len": 448,
+  "intervals": 345,
+  "training set anomaly ratio": 0.05357142857142857,
+  "test set anomaly ratio": 0.10491071428571429,
+  "metric_type": "ErrorCount",
+  "metric_name": "service-registry##backup_failures_total"
+}

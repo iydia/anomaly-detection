@@ -1,0 +1,12 @@
+{
+  "case_id": 290,
+  "case_name": "290_user-mgmt##user_registrations_total",
+  "seq_len": 1011,
+  "train_seq_len": 506,
+  "test_seq_len": 505,
+  "intervals": 3600,
+  "training set anomaly ratio": 0.019762845849802372,
+  "test set anomaly ratio": 0.21188118811881188,
+  "metric_type": "Count",
+  "metric_name": "user-mgmt##user_registrations_total"
+}

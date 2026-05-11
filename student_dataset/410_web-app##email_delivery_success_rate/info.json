@@ -1,0 +1,12 @@
+{
+  "case_id": 410,
+  "case_name": "410_web-app##email_delivery_success_rate",
+  "seq_len": 629,
+  "train_seq_len": 314,
+  "test_seq_len": 315,
+  "intervals": 864,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.0031746031746031746,
+  "metric_type": "SuccessRate",
+  "metric_name": "web-app##email_delivery_success_rate"
+}

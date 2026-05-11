@@ -1,0 +1,12 @@
+{
+  "case_id": 998,
+  "case_name": "998_monitoring-dashboard##http_requests_total",
+  "seq_len": 900,
+  "train_seq_len": 450,
+  "test_seq_len": 450,
+  "intervals": 864,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.09777777777777778,
+  "metric_type": "Count",
+  "metric_name": "monitoring-dashboard##http_requests_total"
+}

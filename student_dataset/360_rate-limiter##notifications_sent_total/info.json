@@ -1,0 +1,12 @@
+{
+  "case_id": 360,
+  "case_name": "360_rate-limiter##notifications_sent_total",
+  "seq_len": 520,
+  "train_seq_len": 260,
+  "test_seq_len": 260,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.007692307692307693,
+  "metric_type": "Count",
+  "metric_name": "rate-limiter##notifications_sent_total"
+}

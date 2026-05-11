@@ -1,0 +1,12 @@
+{
+  "case_id": 305,
+  "case_name": "305_cache-manager##dns_resolution_errors_total",
+  "seq_len": 654,
+  "train_seq_len": 327,
+  "test_seq_len": 327,
+  "intervals": 864,
+  "training set anomaly ratio": 0.03058103975535168,
+  "test set anomaly ratio": 0.045871559633027525,
+  "metric_type": "ErrorCount",
+  "metric_name": "cache-manager##dns_resolution_errors_total"
+}

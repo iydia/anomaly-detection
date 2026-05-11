@@ -1,0 +1,12 @@
+{
+  "case_id": 877,
+  "case_name": "877_notification-service##orders_created_total",
+  "seq_len": 409,
+  "train_seq_len": 204,
+  "test_seq_len": 205,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.08823529411764706,
+  "test set anomaly ratio": 0.04878048780487805,
+  "metric_type": "Count",
+  "metric_name": "notification-service##orders_created_total"
+}

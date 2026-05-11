@@ -1,0 +1,12 @@
+{
+  "case_id": 938,
+  "case_name": "938_redis-cluster##license_usage_percent",
+  "seq_len": 257,
+  "train_seq_len": 128,
+  "test_seq_len": 129,
+  "intervals": 60,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.007751937984496124,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "redis-cluster##license_usage_percent"
+}

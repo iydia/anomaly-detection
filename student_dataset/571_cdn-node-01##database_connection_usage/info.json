@@ -1,0 +1,12 @@
+{
+  "case_id": 571,
+  "case_name": "571_cdn-node-01##database_connection_usage",
+  "seq_len": 554,
+  "train_seq_len": 277,
+  "test_seq_len": 277,
+  "intervals": 600,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.11552346570397112,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "cdn-node-01##database_connection_usage"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 663,
+  "case_name": "663_admin-panel##server_uptime_rate",
+  "seq_len": 1005,
+  "train_seq_len": 502,
+  "test_seq_len": 503,
+  "intervals": 300,
+  "training set anomaly ratio": 0.17729083665338646,
+  "test set anomaly ratio": 0.11928429423459244,
+  "metric_type": "SuccessRate",
+  "metric_name": "admin-panel##server_uptime_rate"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 419,
+  "case_name": "419_iot-platform##connection_timeout_errors_total",
+  "seq_len": 321,
+  "train_seq_len": 160,
+  "test_seq_len": 161,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.25625,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "ErrorCount",
+  "metric_name": "iot-platform##connection_timeout_errors_total"
+}

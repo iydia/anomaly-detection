@@ -1,0 +1,12 @@
+{
+  "case_id": 255,
+  "case_name": "255_user-portal##events_processed_total",
+  "seq_len": 599,
+  "train_seq_len": 300,
+  "test_seq_len": 299,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.046822742474916385,
+  "metric_type": "Count",
+  "metric_name": "user-portal##events_processed_total"
+}

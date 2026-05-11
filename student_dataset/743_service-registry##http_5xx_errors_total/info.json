@@ -1,0 +1,12 @@
+{
+  "case_id": 743,
+  "case_name": "743_service-registry##http_5xx_errors_total",
+  "seq_len": 1007,
+  "train_seq_len": 504,
+  "test_seq_len": 503,
+  "intervals": 864,
+  "training set anomaly ratio": 0.18452380952380953,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "ErrorCount",
+  "metric_name": "service-registry##http_5xx_errors_total"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 442,
+  "case_name": "442_api-proxy##transactions_per_second",
+  "seq_len": 977,
+  "train_seq_len": 488,
+  "test_seq_len": 489,
+  "intervals": 3600,
+  "training set anomaly ratio": 0.06352459016393443,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "QPS",
+  "metric_name": "api-proxy##transactions_per_second"
+}

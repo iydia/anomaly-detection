@@ -1,0 +1,12 @@
+{
+  "case_id": 99,
+  "case_name": "099_kafka-cluster##connection_pool_usage_percent",
+  "seq_len": 593,
+  "train_seq_len": 296,
+  "test_seq_len": 297,
+  "intervals": 600,
+  "training set anomaly ratio": 0.06756756756756757,
+  "test set anomaly ratio": 0.020202020202020204,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "kafka-cluster##connection_pool_usage_percent"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 535,
+  "case_name": "535_reporting-engine##inode_usage_percent",
+  "seq_len": 944,
+  "train_seq_len": 472,
+  "test_seq_len": 472,
+  "intervals": 3600,
+  "training set anomaly ratio": 0.06991525423728813,
+  "test set anomaly ratio": 0.09745762711864407,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "reporting-engine##inode_usage_percent"
+}

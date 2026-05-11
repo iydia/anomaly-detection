@@ -1,0 +1,12 @@
+{
+  "case_id": 824,
+  "case_name": "824_search-service##memory_usage_percent",
+  "seq_len": 641,
+  "train_seq_len": 320,
+  "test_seq_len": 321,
+  "intervals": 345,
+  "training set anomaly ratio": 0.0375,
+  "test set anomaly ratio": 0.16510903426791276,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "search-service##memory_usage_percent"
+}

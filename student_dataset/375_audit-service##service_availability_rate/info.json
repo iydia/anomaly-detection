@@ -1,0 +1,12 @@
+{
+  "case_id": 375,
+  "case_name": "375_audit-service##service_availability_rate",
+  "seq_len": 1009,
+  "train_seq_len": 504,
+  "test_seq_len": 505,
+  "intervals": 60,
+  "training set anomaly ratio": 0.14087301587301587,
+  "test set anomaly ratio": 0.039603960396039604,
+  "metric_type": "SuccessRate",
+  "metric_name": "audit-service##service_availability_rate"
+}

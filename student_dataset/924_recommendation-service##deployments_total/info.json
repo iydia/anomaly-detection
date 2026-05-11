@@ -1,0 +1,12 @@
+{
+  "case_id": 924,
+  "case_name": "924_recommendation-service##deployments_total",
+  "seq_len": 598,
+  "train_seq_len": 299,
+  "test_seq_len": 299,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.043478260869565216,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "Count",
+  "metric_name": "recommendation-service##deployments_total"
+}

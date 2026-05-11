@@ -1,0 +1,12 @@
+{
+  "case_id": 935,
+  "case_name": "935_dev-cluster##network_timeout_errors_total",
+  "seq_len": 556,
+  "train_seq_len": 278,
+  "test_seq_len": 278,
+  "intervals": 60,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "ErrorCount",
+  "metric_name": "dev-cluster##network_timeout_errors_total"
+}

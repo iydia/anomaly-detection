@@ -1,0 +1,12 @@
+{
+  "case_id": 431,
+  "case_name": "431_user-mgmt##cluster_resource_usage",
+  "seq_len": 276,
+  "train_seq_len": 138,
+  "test_seq_len": 138,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.028985507246376812,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "user-mgmt##cluster_resource_usage"
+}

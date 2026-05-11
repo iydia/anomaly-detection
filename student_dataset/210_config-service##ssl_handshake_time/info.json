@@ -1,0 +1,12 @@
+{
+  "case_id": 210,
+  "case_name": "210_config-service##ssl_handshake_time",
+  "seq_len": 746,
+  "train_seq_len": 373,
+  "test_seq_len": 373,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.2386058981233244,
+  "test set anomaly ratio": 0.1769436997319035,
+  "metric_type": "LatencySecond",
+  "metric_name": "config-service##ssl_handshake_time"
+}

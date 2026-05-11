@@ -1,0 +1,12 @@
+{
+  "case_id": 831,
+  "case_name": "831_logging-service##records_inserted_per_second",
+  "seq_len": 321,
+  "train_seq_len": 160,
+  "test_seq_len": 161,
+  "intervals": 3600,
+  "training set anomaly ratio": 0.01875,
+  "test set anomaly ratio": 0.09316770186335403,
+  "metric_type": "QPS",
+  "metric_name": "logging-service##records_inserted_per_second"
+}

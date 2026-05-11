@@ -1,0 +1,12 @@
+{
+  "case_id": 269,
+  "case_name": "269_mysql-primary##disk_read_latency",
+  "seq_len": 983,
+  "train_seq_len": 492,
+  "test_seq_len": 491,
+  "intervals": 600,
+  "training set anomaly ratio": 0.04065040650406504,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "LatencySecond",
+  "metric_name": "mysql-primary##disk_read_latency"
+}

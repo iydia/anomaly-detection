@@ -1,0 +1,12 @@
+{
+  "case_id": 492,
+  "case_name": "492_prod-cluster##token_generation_time",
+  "seq_len": 512,
+  "train_seq_len": 256,
+  "test_seq_len": 256,
+  "intervals": 60,
+  "training set anomaly ratio": 0.1953125,
+  "test set anomaly ratio": 0.09375,
+  "metric_type": "LatencySecond",
+  "metric_name": "prod-cluster##token_generation_time"
+}

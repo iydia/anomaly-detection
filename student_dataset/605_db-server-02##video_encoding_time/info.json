@@ -1,0 +1,12 @@
+{
+  "case_id": 605,
+  "case_name": "605_db-server-02##video_encoding_time",
+  "seq_len": 690,
+  "train_seq_len": 345,
+  "test_seq_len": 345,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.05217391304347826,
+  "test set anomaly ratio": 0.043478260869565216,
+  "metric_type": "LatencySecond",
+  "metric_name": "db-server-02##video_encoding_time"
+}

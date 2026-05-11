@@ -1,0 +1,12 @@
+{
+  "case_id": 206,
+  "case_name": "206_vault-server-1##registration_success_rate",
+  "seq_len": 365,
+  "train_seq_len": 182,
+  "test_seq_len": 183,
+  "intervals": 864,
+  "training set anomaly ratio": 0.16483516483516483,
+  "test set anomaly ratio": 0.08196721311475409,
+  "metric_type": "SuccessRate",
+  "metric_name": "vault-server-1##registration_success_rate"
+}

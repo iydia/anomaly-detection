@@ -1,0 +1,12 @@
+{
+  "case_id": 237,
+  "case_name": "237_monitoring-agent##database_availability_rate",
+  "seq_len": 680,
+  "train_seq_len": 340,
+  "test_seq_len": 340,
+  "intervals": 345,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.06470588235294118,
+  "metric_type": "SuccessRate",
+  "metric_name": "monitoring-agent##database_availability_rate"
+}

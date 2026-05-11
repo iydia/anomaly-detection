@@ -1,0 +1,12 @@
+{
+  "case_id": 653,
+  "case_name": "653_k8s-backend-2##http_success_rate",
+  "seq_len": 890,
+  "train_seq_len": 445,
+  "test_seq_len": 445,
+  "intervals": 864,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.18876404494382024,
+  "metric_type": "SuccessRate",
+  "metric_name": "k8s-backend-2##http_success_rate"
+}

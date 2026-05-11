@@ -1,0 +1,12 @@
+{
+  "case_id": 177,
+  "case_name": "177_postgres-read-1##database_connection_usage",
+  "seq_len": 512,
+  "train_seq_len": 256,
+  "test_seq_len": 256,
+  "intervals": 3600,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.2578125,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "postgres-read-1##database_connection_usage"
+}

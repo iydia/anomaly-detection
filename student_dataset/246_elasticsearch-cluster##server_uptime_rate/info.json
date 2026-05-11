@@ -1,0 +1,12 @@
+{
+  "case_id": 246,
+  "case_name": "246_elasticsearch-cluster##server_uptime_rate",
+  "seq_len": 375,
+  "train_seq_len": 188,
+  "test_seq_len": 187,
+  "intervals": 3600,
+  "training set anomaly ratio": 0.43617021276595747,
+  "test set anomaly ratio": 0.40106951871657753,
+  "metric_type": "SuccessRate",
+  "metric_name": "elasticsearch-cluster##server_uptime_rate"
+}

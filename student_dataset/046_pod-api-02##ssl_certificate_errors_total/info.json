@@ -1,0 +1,12 @@
+{
+  "case_id": 46,
+  "case_name": "046_pod-api-02##ssl_certificate_errors_total",
+  "seq_len": 818,
+  "train_seq_len": 409,
+  "test_seq_len": 409,
+  "intervals": 345,
+  "training set anomaly ratio": 0.02689486552567237,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "ErrorCount",
+  "metric_name": "pod-api-02##ssl_certificate_errors_total"
+}

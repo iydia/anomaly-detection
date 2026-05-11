@@ -1,0 +1,12 @@
+{
+  "case_id": 276,
+  "case_name": "276_prometheus-server##cache_hit_rate",
+  "seq_len": 777,
+  "train_seq_len": 388,
+  "test_seq_len": 389,
+  "intervals": 3600,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.08483290488431877,
+  "metric_type": "SuccessRate",
+  "metric_name": "prometheus-server##cache_hit_rate"
+}

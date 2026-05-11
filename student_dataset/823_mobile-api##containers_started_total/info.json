@@ -1,0 +1,12 @@
+{
+  "case_id": 823,
+  "case_name": "823_mobile-api##containers_started_total",
+  "seq_len": 729,
+  "train_seq_len": 364,
+  "test_seq_len": 365,
+  "intervals": 345,
+  "training set anomaly ratio": 0.024725274725274724,
+  "test set anomaly ratio": 0.024657534246575342,
+  "metric_type": "Count",
+  "metric_name": "mobile-api##containers_started_total"
+}

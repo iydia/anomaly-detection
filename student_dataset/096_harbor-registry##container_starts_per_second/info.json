@@ -1,0 +1,12 @@
+{
+  "case_id": 96,
+  "case_name": "096_harbor-registry##container_starts_per_second",
+  "seq_len": 701,
+  "train_seq_len": 350,
+  "test_seq_len": 351,
+  "intervals": 600,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.019943019943019943,
+  "metric_type": "QPS",
+  "metric_name": "harbor-registry##container_starts_per_second"
+}

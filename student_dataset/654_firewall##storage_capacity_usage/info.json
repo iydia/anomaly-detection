@@ -1,0 +1,12 @@
+{
+  "case_id": 654,
+  "case_name": "654_firewall##storage_capacity_usage",
+  "seq_len": 316,
+  "train_seq_len": 158,
+  "test_seq_len": 158,
+  "intervals": 345,
+  "training set anomaly ratio": 0.26582278481012656,
+  "test set anomaly ratio": 0.33544303797468356,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "firewall##storage_capacity_usage"
+}

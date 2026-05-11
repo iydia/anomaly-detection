@@ -1,0 +1,12 @@
+{
+  "case_id": 301,
+  "case_name": "301_prod-cluster##swap_usage_percent",
+  "seq_len": 269,
+  "train_seq_len": 134,
+  "test_seq_len": 135,
+  "intervals": 600,
+  "training set anomaly ratio": 0.04477611940298507,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "prod-cluster##swap_usage_percent"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 4,
+  "case_name": "004_nat-gateway##payment_gateway_errors_total",
+  "seq_len": 431,
+  "train_seq_len": 216,
+  "test_seq_len": 215,
+  "intervals": 345,
+  "training set anomaly ratio": 0.027777777777777776,
+  "test set anomaly ratio": 0.5069767441860465,
+  "metric_type": "ErrorCount",
+  "metric_name": "nat-gateway##payment_gateway_errors_total"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 195,
+  "case_name": "195_monitoring-dashboard##http_response_latency",
+  "seq_len": 929,
+  "train_seq_len": 464,
+  "test_seq_len": 465,
+  "intervals": 60,
+  "training set anomaly ratio": 0.16594827586206898,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "LatencySecond",
+  "metric_name": "monitoring-dashboard##http_response_latency"
+}

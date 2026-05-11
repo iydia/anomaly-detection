@@ -1,0 +1,12 @@
+{
+  "case_id": 402,
+  "case_name": "402_recommendation-service##gpu_utilization_percent_2",
+  "seq_len": 605,
+  "train_seq_len": 302,
+  "test_seq_len": 303,
+  "intervals": 864,
+  "training set anomaly ratio": 0.12251655629139073,
+  "test set anomaly ratio": 0.07920792079207921,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "recommendation-service##gpu_utilization_percent_2"
+}

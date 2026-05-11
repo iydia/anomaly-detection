@@ -1,0 +1,12 @@
+{
+  "case_id": 756,
+  "case_name": "756_mysql-primary##container_cpu_usage_percent",
+  "seq_len": 685,
+  "train_seq_len": 342,
+  "test_seq_len": 343,
+  "intervals": 345,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.05830903790087463,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "mysql-primary##container_cpu_usage_percent"
+}

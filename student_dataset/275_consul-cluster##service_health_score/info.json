@@ -1,0 +1,12 @@
+{
+  "case_id": 275,
+  "case_name": "275_consul-cluster##service_health_score",
+  "seq_len": 667,
+  "train_seq_len": 334,
+  "test_seq_len": 333,
+  "intervals": 3600,
+  "training set anomaly ratio": 0.20059880239520958,
+  "test set anomaly ratio": 0.06906906906906907,
+  "metric_type": "SuccessRate",
+  "metric_name": "consul-cluster##service_health_score"
+}

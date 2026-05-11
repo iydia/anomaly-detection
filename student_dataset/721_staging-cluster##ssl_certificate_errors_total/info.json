@@ -1,0 +1,12 @@
+{
+  "case_id": 721,
+  "case_name": "721_staging-cluster##ssl_certificate_errors_total",
+  "seq_len": 366,
+  "train_seq_len": 183,
+  "test_seq_len": 183,
+  "intervals": 300,
+  "training set anomaly ratio": 0.07650273224043716,
+  "test set anomaly ratio": 0.08196721311475409,
+  "metric_type": "ErrorCount",
+  "metric_name": "staging-cluster##ssl_certificate_errors_total"
+}

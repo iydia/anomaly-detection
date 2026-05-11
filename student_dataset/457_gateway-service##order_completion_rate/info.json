@@ -1,0 +1,12 @@
+{
+  "case_id": 457,
+  "case_name": "457_gateway-service##order_completion_rate",
+  "seq_len": 1004,
+  "train_seq_len": 502,
+  "test_seq_len": 502,
+  "intervals": 600,
+  "training set anomaly ratio": 0.11752988047808766,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "SuccessRate",
+  "metric_name": "gateway-service##order_completion_rate"
+}

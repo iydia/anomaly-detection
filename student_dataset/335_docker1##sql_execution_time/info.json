@@ -1,0 +1,12 @@
+{
+  "case_id": 335,
+  "case_name": "335_docker1##sql_execution_time",
+  "seq_len": 400,
+  "train_seq_len": 200,
+  "test_seq_len": 200,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "LatencySecond",
+  "metric_name": "docker1##sql_execution_time"
+}

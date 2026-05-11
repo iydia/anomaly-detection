@@ -1,0 +1,12 @@
+{
+  "case_id": 266,
+  "case_name": "266_admin-panel##database_queries_per_second",
+  "seq_len": 436,
+  "train_seq_len": 218,
+  "test_seq_len": 218,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "QPS",
+  "metric_name": "admin-panel##database_queries_per_second"
+}

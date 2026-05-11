@@ -1,0 +1,12 @@
+{
+  "case_id": 59,
+  "case_name": "059_social-platform##login_attempts_per_second",
+  "seq_len": 557,
+  "train_seq_len": 278,
+  "test_seq_len": 279,
+  "intervals": 60,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.1039426523297491,
+  "metric_type": "QPS",
+  "metric_name": "social-platform##login_attempts_per_second"
+}

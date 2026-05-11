@@ -1,0 +1,12 @@
+{
+  "case_id": 940,
+  "case_name": "940_backup-server##authentication_failures_total",
+  "seq_len": 940,
+  "train_seq_len": 470,
+  "test_seq_len": 470,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.002127659574468085,
+  "test set anomaly ratio": 0.09361702127659574,
+  "metric_type": "ErrorCount",
+  "metric_name": "backup-server##authentication_failures_total"
+}

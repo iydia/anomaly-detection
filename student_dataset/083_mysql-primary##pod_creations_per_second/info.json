@@ -1,0 +1,12 @@
+{
+  "case_id": 83,
+  "case_name": "083_mysql-primary##pod_creations_per_second",
+  "seq_len": 425,
+  "train_seq_len": 212,
+  "test_seq_len": 213,
+  "intervals": 345,
+  "training set anomaly ratio": 0.02358490566037736,
+  "test set anomaly ratio": 0.08450704225352113,
+  "metric_type": "QPS",
+  "metric_name": "mysql-primary##pod_creations_per_second"
+}

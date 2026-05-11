@@ -1,0 +1,12 @@
+{
+  "case_id": 209,
+  "case_name": "209_sms-service##files_processed_per_second",
+  "seq_len": 635,
+  "train_seq_len": 318,
+  "test_seq_len": 317,
+  "intervals": 60,
+  "training set anomaly ratio": 0.10377358490566038,
+  "test set anomaly ratio": 0.03785488958990536,
+  "metric_type": "QPS",
+  "metric_name": "sms-service##files_processed_per_second"
+}

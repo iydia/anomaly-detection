@@ -1,0 +1,12 @@
+{
+  "case_id": 288,
+  "case_name": "288_db-server-02##http_success_rate",
+  "seq_len": 780,
+  "train_seq_len": 390,
+  "test_seq_len": 390,
+  "intervals": 600,
+  "training set anomaly ratio": 0.17435897435897435,
+  "test set anomaly ratio": 0.33076923076923076,
+  "metric_type": "SuccessRate",
+  "metric_name": "db-server-02##http_success_rate"
+}

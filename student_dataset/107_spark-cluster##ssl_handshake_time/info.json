@@ -1,0 +1,12 @@
+{
+  "case_id": 107,
+  "case_name": "107_spark-cluster##ssl_handshake_time",
+  "seq_len": 258,
+  "train_seq_len": 129,
+  "test_seq_len": 129,
+  "intervals": 345,
+  "training set anomaly ratio": 0.7131782945736435,
+  "test set anomaly ratio": 0.35658914728682173,
+  "metric_type": "LatencySecond",
+  "metric_name": "spark-cluster##ssl_handshake_time"
+}

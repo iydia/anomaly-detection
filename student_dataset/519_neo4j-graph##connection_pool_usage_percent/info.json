@@ -1,0 +1,12 @@
+{
+  "case_id": 519,
+  "case_name": "519_neo4j-graph##connection_pool_usage_percent",
+  "seq_len": 407,
+  "train_seq_len": 204,
+  "test_seq_len": 203,
+  "intervals": 3600,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.43349753694581283,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "neo4j-graph##connection_pool_usage_percent"
+}

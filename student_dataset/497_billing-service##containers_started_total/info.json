@@ -1,0 +1,12 @@
+{
+  "case_id": 497,
+  "case_name": "497_billing-service##containers_started_total",
+  "seq_len": 480,
+  "train_seq_len": 240,
+  "test_seq_len": 240,
+  "intervals": 345,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.32083333333333336,
+  "metric_type": "Count",
+  "metric_name": "billing-service##containers_started_total"
+}

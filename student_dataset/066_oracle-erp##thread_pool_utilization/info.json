@@ -1,0 +1,12 @@
+{
+  "case_id": 66,
+  "case_name": "066_oracle-erp##thread_pool_utilization",
+  "seq_len": 357,
+  "train_seq_len": 178,
+  "test_seq_len": 179,
+  "intervals": 345,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.00558659217877095,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "oracle-erp##thread_pool_utilization"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 97,
+  "case_name": "097_user-portal##events_processed_per_second",
+  "seq_len": 705,
+  "train_seq_len": 352,
+  "test_seq_len": 353,
+  "intervals": 864,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.0453257790368272,
+  "metric_type": "QPS",
+  "metric_name": "user-portal##events_processed_per_second"
+}

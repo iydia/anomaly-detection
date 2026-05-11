@@ -1,0 +1,12 @@
+{
+  "case_id": 76,
+  "case_name": "076_backup-agent##cluster_resource_usage",
+  "seq_len": 678,
+  "train_seq_len": 339,
+  "test_seq_len": 339,
+  "intervals": 300,
+  "training set anomaly ratio": 0.06784660766961652,
+  "test set anomaly ratio": 0.14454277286135694,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "backup-agent##cluster_resource_usage"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 586,
+  "case_name": "586_cdn-node-01##order_completion_rate",
+  "seq_len": 618,
+  "train_seq_len": 309,
+  "test_seq_len": 309,
+  "intervals": 300,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.09385113268608414,
+  "metric_type": "SuccessRate",
+  "metric_name": "cdn-node-01##order_completion_rate"
+}

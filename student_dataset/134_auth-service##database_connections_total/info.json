@@ -1,0 +1,12 @@
+{
+  "case_id": 134,
+  "case_name": "134_auth-service##database_connections_total",
+  "seq_len": 687,
+  "train_seq_len": 344,
+  "test_seq_len": 343,
+  "intervals": 60,
+  "training set anomaly ratio": 0.07267441860465117,
+  "test set anomaly ratio": 0.11078717201166181,
+  "metric_type": "Count",
+  "metric_name": "auth-service##database_connections_total"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 682,
+  "case_name": "682_edge-server-01##records_inserted_per_second",
+  "seq_len": 273,
+  "train_seq_len": 136,
+  "test_seq_len": 137,
+  "intervals": 600,
+  "training set anomaly ratio": 0.2647058823529412,
+  "test set anomaly ratio": 0.08029197080291971,
+  "metric_type": "QPS",
+  "metric_name": "edge-server-01##records_inserted_per_second"
+}

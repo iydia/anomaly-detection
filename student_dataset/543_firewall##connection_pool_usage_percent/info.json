@@ -1,0 +1,12 @@
+{
+  "case_id": 543,
+  "case_name": "543_firewall##connection_pool_usage_percent",
+  "seq_len": 333,
+  "train_seq_len": 166,
+  "test_seq_len": 167,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.059880239520958084,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "firewall##connection_pool_usage_percent"
+}

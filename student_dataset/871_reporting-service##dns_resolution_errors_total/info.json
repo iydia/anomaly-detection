@@ -1,0 +1,12 @@
+{
+  "case_id": 871,
+  "case_name": "871_reporting-service##dns_resolution_errors_total",
+  "seq_len": 555,
+  "train_seq_len": 278,
+  "test_seq_len": 277,
+  "intervals": 864,
+  "training set anomaly ratio": 0.12949640287769784,
+  "test set anomaly ratio": 0.26353790613718414,
+  "metric_type": "ErrorCount",
+  "metric_name": "reporting-service##dns_resolution_errors_total"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 796,
+  "case_name": "796_k8s-cluster-east##endpoint_success_rate",
+  "seq_len": 830,
+  "train_seq_len": 415,
+  "test_seq_len": 415,
+  "intervals": 864,
+  "training set anomaly ratio": 0.22409638554216868,
+  "test set anomaly ratio": 0.007228915662650603,
+  "metric_type": "SuccessRate",
+  "metric_name": "k8s-cluster-east##endpoint_success_rate"
+}

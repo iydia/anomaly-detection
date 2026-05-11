@@ -1,0 +1,12 @@
+{
+  "case_id": 529,
+  "case_name": "529_mongodb-cluster##server_uptime_rate",
+  "seq_len": 480,
+  "train_seq_len": 240,
+  "test_seq_len": 240,
+  "intervals": 600,
+  "training set anomaly ratio": 0.2375,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "SuccessRate",
+  "metric_name": "mongodb-cluster##server_uptime_rate"
+}

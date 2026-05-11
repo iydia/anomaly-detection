@@ -1,0 +1,12 @@
+{
+  "case_id": 592,
+  "case_name": "592_user-mgmt##third_party_api_errors_total",
+  "seq_len": 917,
+  "train_seq_len": 458,
+  "test_seq_len": 459,
+  "intervals": 345,
+  "training set anomaly ratio": 0.0611353711790393,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "ErrorCount",
+  "metric_name": "user-mgmt##third_party_api_errors_total"
+}

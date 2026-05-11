@@ -1,0 +1,12 @@
+{
+  "case_id": 916,
+  "case_name": "916_order-processing##connection_timeout_errors_total",
+  "seq_len": 441,
+  "train_seq_len": 220,
+  "test_seq_len": 221,
+  "intervals": 600,
+  "training set anomaly ratio": 0.09545454545454546,
+  "test set anomaly ratio": 0.08597285067873303,
+  "metric_type": "ErrorCount",
+  "metric_name": "order-processing##connection_timeout_errors_total"
+}

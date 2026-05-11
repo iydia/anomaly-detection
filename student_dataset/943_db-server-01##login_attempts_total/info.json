@@ -1,0 +1,12 @@
+{
+  "case_id": 943,
+  "case_name": "943_db-server-01##login_attempts_total",
+  "seq_len": 748,
+  "train_seq_len": 374,
+  "test_seq_len": 374,
+  "intervals": 600,
+  "training set anomaly ratio": 0.14705882352941177,
+  "test set anomaly ratio": 0.05080213903743316,
+  "metric_type": "Count",
+  "metric_name": "db-server-01##login_attempts_total"
+}

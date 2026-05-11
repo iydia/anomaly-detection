@@ -1,0 +1,12 @@
+{
+  "case_id": 720,
+  "case_name": "720_vpn-gateway##orders_per_second",
+  "seq_len": 854,
+  "train_seq_len": 427,
+  "test_seq_len": 427,
+  "intervals": 3600,
+  "training set anomaly ratio": 0.27400468384074944,
+  "test set anomaly ratio": 0.1686182669789227,
+  "metric_type": "QPS",
+  "metric_name": "vpn-gateway##orders_per_second"
+}

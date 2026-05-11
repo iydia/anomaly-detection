@@ -1,0 +1,12 @@
+{
+  "case_id": 784,
+  "case_name": "784_docker3##http_5xx_errors_total",
+  "seq_len": 538,
+  "train_seq_len": 269,
+  "test_seq_len": 269,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.3680297397769517,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "ErrorCount",
+  "metric_name": "docker3##http_5xx_errors_total"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 816,
+  "case_name": "816_monitoring-dashboard##server_uptime_rate",
+  "seq_len": 268,
+  "train_seq_len": 134,
+  "test_seq_len": 134,
+  "intervals": 345,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.11940298507462686,
+  "metric_type": "SuccessRate",
+  "metric_name": "monitoring-dashboard##server_uptime_rate"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 923,
+  "case_name": "923_reporting-service##backup_restore_time",
+  "seq_len": 570,
+  "train_seq_len": 285,
+  "test_seq_len": 285,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.19298245614035087,
+  "test set anomaly ratio": 0.07017543859649122,
+  "metric_type": "LatencySecond",
+  "metric_name": "reporting-service##backup_restore_time"
+}

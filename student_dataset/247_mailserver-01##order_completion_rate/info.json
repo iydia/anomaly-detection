@@ -1,0 +1,12 @@
+{
+  "case_id": 247,
+  "case_name": "247_mailserver-01##order_completion_rate",
+  "seq_len": 923,
+  "train_seq_len": 462,
+  "test_seq_len": 461,
+  "intervals": 60,
+  "training set anomaly ratio": 0.010822510822510822,
+  "test set anomaly ratio": 0.13232104121475055,
+  "metric_type": "SuccessRate",
+  "metric_name": "mailserver-01##order_completion_rate"
+}

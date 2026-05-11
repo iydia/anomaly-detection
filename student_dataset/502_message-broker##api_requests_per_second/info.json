@@ -1,0 +1,12 @@
+{
+  "case_id": 502,
+  "case_name": "502_message-broker##api_requests_per_second",
+  "seq_len": 1010,
+  "train_seq_len": 505,
+  "test_seq_len": 505,
+  "intervals": 600,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.015841584158415842,
+  "metric_type": "QPS",
+  "metric_name": "message-broker##api_requests_per_second"
+}

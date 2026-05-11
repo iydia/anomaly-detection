@@ -1,0 +1,12 @@
+{
+  "case_id": 191,
+  "case_name": "191_bastion-host##database_availability_rate",
+  "seq_len": 783,
+  "train_seq_len": 392,
+  "test_seq_len": 391,
+  "intervals": 864,
+  "training set anomaly ratio": 0.02295918367346939,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "SuccessRate",
+  "metric_name": "bastion-host##database_availability_rate"
+}

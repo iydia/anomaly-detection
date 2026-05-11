@@ -1,0 +1,12 @@
+{
+  "case_id": 791,
+  "case_name": "791_docker1##api_response_time",
+  "seq_len": 523,
+  "train_seq_len": 262,
+  "test_seq_len": 261,
+  "intervals": 3600,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.2413793103448276,
+  "metric_type": "LatencySecond",
+  "metric_name": "docker1##api_response_time"
+}

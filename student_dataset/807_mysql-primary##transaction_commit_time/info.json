@@ -1,0 +1,12 @@
+{
+  "case_id": 807,
+  "case_name": "807_mysql-primary##transaction_commit_time",
+  "seq_len": 852,
+  "train_seq_len": 426,
+  "test_seq_len": 426,
+  "intervals": 300,
+  "training set anomaly ratio": 0.014084507042253521,
+  "test set anomaly ratio": 0.0892018779342723,
+  "metric_type": "LatencySecond",
+  "metric_name": "mysql-primary##transaction_commit_time"
+}

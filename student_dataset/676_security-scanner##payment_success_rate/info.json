@@ -1,0 +1,12 @@
+{
+  "case_id": 676,
+  "case_name": "676_security-scanner##payment_success_rate",
+  "seq_len": 548,
+  "train_seq_len": 274,
+  "test_seq_len": 274,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.15328467153284672,
+  "test set anomaly ratio": 0.12043795620437957,
+  "metric_type": "SuccessRate",
+  "metric_name": "security-scanner##payment_success_rate"
+}

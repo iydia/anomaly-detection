@@ -1,0 +1,12 @@
+{
+  "case_id": 946,
+  "case_name": "946_notification-hub##license_usage_percent",
+  "seq_len": 400,
+  "train_seq_len": 200,
+  "test_seq_len": 200,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.06,
+  "test set anomaly ratio": 0.125,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "notification-hub##license_usage_percent"
+}

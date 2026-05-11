@@ -1,0 +1,12 @@
+{
+  "case_id": 228,
+  "case_name": "228_config-manager##network_round_trip_time",
+  "seq_len": 793,
+  "train_seq_len": 396,
+  "test_seq_len": 397,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.045454545454545456,
+  "test set anomaly ratio": 0.1309823677581864,
+  "metric_type": "LatencySecond",
+  "metric_name": "config-manager##network_round_trip_time"
+}

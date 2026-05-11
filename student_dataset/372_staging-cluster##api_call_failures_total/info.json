@@ -1,0 +1,12 @@
+{
+  "case_id": 372,
+  "case_name": "372_staging-cluster##api_call_failures_total",
+  "seq_len": 846,
+  "train_seq_len": 423,
+  "test_seq_len": 423,
+  "intervals": 864,
+  "training set anomaly ratio": 0.009456264775413711,
+  "test set anomaly ratio": 0.05200945626477541,
+  "metric_type": "ErrorCount",
+  "metric_name": "staging-cluster##api_call_failures_total"
+}

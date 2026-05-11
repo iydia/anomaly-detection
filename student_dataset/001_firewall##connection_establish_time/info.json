@@ -1,0 +1,12 @@
+{
+  "case_id": 1,
+  "case_name": "001_firewall##connection_establish_time",
+  "seq_len": 324,
+  "train_seq_len": 162,
+  "test_seq_len": 162,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.25308641975308643,
+  "test set anomaly ratio": 0.46296296296296297,
+  "metric_type": "LatencySecond",
+  "metric_name": "firewall##connection_establish_time"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 125,
+  "case_name": "125_cdn-edge##image_processing_duration",
+  "seq_len": 578,
+  "train_seq_len": 289,
+  "test_seq_len": 289,
+  "intervals": 300,
+  "training set anomaly ratio": 0.020761245674740483,
+  "test set anomaly ratio": 0.05536332179930796,
+  "metric_type": "LatencySecond",
+  "metric_name": "cdn-edge##image_processing_duration"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 624,
+  "case_name": "624_message-broker##connection_pool_usage_percent",
+  "seq_len": 726,
+  "train_seq_len": 363,
+  "test_seq_len": 363,
+  "intervals": 345,
+  "training set anomaly ratio": 0.05234159779614325,
+  "test set anomaly ratio": 0.15702479338842976,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "message-broker##connection_pool_usage_percent"
+}

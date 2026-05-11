@@ -1,0 +1,12 @@
+{
+  "case_id": 353,
+  "case_name": "353_elasticsearch-search##orders_created_total",
+  "seq_len": 607,
+  "train_seq_len": 304,
+  "test_seq_len": 303,
+  "intervals": 3600,
+  "training set anomaly ratio": 0.04276315789473684,
+  "test set anomaly ratio": 0.12211221122112212,
+  "metric_type": "Count",
+  "metric_name": "elasticsearch-search##orders_created_total"
+}

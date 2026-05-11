@@ -1,0 +1,12 @@
+{
+  "case_id": 454,
+  "case_name": "454_app-server-02##business_logic_errors_total",
+  "seq_len": 383,
+  "train_seq_len": 192,
+  "test_seq_len": 191,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.010471204188481676,
+  "metric_type": "ErrorCount",
+  "metric_name": "app-server-02##business_logic_errors_total"
+}

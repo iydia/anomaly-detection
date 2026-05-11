@@ -1,0 +1,12 @@
+{
+  "case_id": 560,
+  "case_name": "560_api-proxy##deployments_total",
+  "seq_len": 389,
+  "train_seq_len": 194,
+  "test_seq_len": 195,
+  "intervals": 345,
+  "training set anomaly ratio": 0.010309278350515464,
+  "test set anomaly ratio": 0.2512820512820513,
+  "metric_type": "Count",
+  "metric_name": "api-proxy##deployments_total"
+}

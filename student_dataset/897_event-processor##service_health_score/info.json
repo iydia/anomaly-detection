@@ -1,0 +1,12 @@
+{
+  "case_id": 897,
+  "case_name": "897_event-processor##service_health_score",
+  "seq_len": 872,
+  "train_seq_len": 436,
+  "test_seq_len": 436,
+  "intervals": 60,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.006880733944954129,
+  "metric_type": "SuccessRate",
+  "metric_name": "event-processor##service_health_score"
+}

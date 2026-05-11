@@ -1,0 +1,12 @@
+{
+  "case_id": 975,
+  "case_name": "975_inventory-service##user_actions_per_second",
+  "seq_len": 350,
+  "train_seq_len": 175,
+  "test_seq_len": 175,
+  "intervals": 3600,
+  "training set anomaly ratio": 0.05142857142857143,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "QPS",
+  "metric_name": "inventory-service##user_actions_per_second"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 124,
+  "case_name": "124_hadoop-cluster##storage_capacity_usage",
+  "seq_len": 306,
+  "train_seq_len": 153,
+  "test_seq_len": 153,
+  "intervals": 864,
+  "training set anomaly ratio": 0.22875816993464052,
+  "test set anomaly ratio": 0.48366013071895425,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "hadoop-cluster##storage_capacity_usage"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 533,
+  "case_name": "533_dev-cluster##email_delivery_success_rate",
+  "seq_len": 710,
+  "train_seq_len": 355,
+  "test_seq_len": 355,
+  "intervals": 300,
+  "training set anomaly ratio": 0.21690140845070421,
+  "test set anomaly ratio": 0.2140845070422535,
+  "metric_type": "SuccessRate",
+  "metric_name": "dev-cluster##email_delivery_success_rate"
+}

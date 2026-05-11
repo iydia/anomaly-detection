@@ -1,0 +1,12 @@
+{
+  "case_id": 67,
+  "case_name": "067_circuit-breaker##page_renders_per_second",
+  "seq_len": 403,
+  "train_seq_len": 202,
+  "test_seq_len": 201,
+  "intervals": 300,
+  "training set anomaly ratio": 0.21782178217821782,
+  "test set anomaly ratio": 0.06965174129353234,
+  "metric_type": "QPS",
+  "metric_name": "circuit-breaker##page_renders_per_second"
+}

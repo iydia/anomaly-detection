@@ -1,0 +1,12 @@
+{
+  "case_id": 540,
+  "case_name": "540_notification-service##dns_resolution_errors_total",
+  "seq_len": 924,
+  "train_seq_len": 462,
+  "test_seq_len": 462,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.03463203463203463,
+  "test set anomaly ratio": 0.008658008658008658,
+  "metric_type": "ErrorCount",
+  "metric_name": "notification-service##dns_resolution_errors_total"
+}

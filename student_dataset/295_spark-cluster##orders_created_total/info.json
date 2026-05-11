@@ -1,0 +1,12 @@
+{
+  "case_id": 295,
+  "case_name": "295_spark-cluster##orders_created_total",
+  "seq_len": 926,
+  "train_seq_len": 463,
+  "test_seq_len": 463,
+  "intervals": 864,
+  "training set anomaly ratio": 0.15334773218142547,
+  "test set anomaly ratio": 0.16414686825053995,
+  "metric_type": "Count",
+  "metric_name": "spark-cluster##orders_created_total"
+}

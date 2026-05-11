@@ -1,0 +1,12 @@
+{
+  "case_id": 544,
+  "case_name": "544_pod-web-01##network_round_trip_time",
+  "seq_len": 630,
+  "train_seq_len": 315,
+  "test_seq_len": 315,
+  "intervals": 345,
+  "training set anomaly ratio": 0.044444444444444446,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "LatencySecond",
+  "metric_name": "pod-web-01##network_round_trip_time"
+}

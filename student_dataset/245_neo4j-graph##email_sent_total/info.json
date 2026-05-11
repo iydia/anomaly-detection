@@ -1,0 +1,12 @@
+{
+  "case_id": 245,
+  "case_name": "245_neo4j-graph##email_sent_total",
+  "seq_len": 753,
+  "train_seq_len": 376,
+  "test_seq_len": 377,
+  "intervals": 600,
+  "training set anomaly ratio": 0.07180851063829788,
+  "test set anomaly ratio": 0.005305039787798408,
+  "metric_type": "Count",
+  "metric_name": "neo4j-graph##email_sent_total"
+}

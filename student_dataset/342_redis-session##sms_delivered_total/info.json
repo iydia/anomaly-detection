@@ -1,0 +1,12 @@
+{
+  "case_id": 342,
+  "case_name": "342_redis-session##sms_delivered_total",
+  "seq_len": 754,
+  "train_seq_len": 377,
+  "test_seq_len": 377,
+  "intervals": 864,
+  "training set anomaly ratio": 0.18037135278514588,
+  "test set anomaly ratio": 0.013262599469496022,
+  "metric_type": "Count",
+  "metric_name": "redis-session##sms_delivered_total"
+}

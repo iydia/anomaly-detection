@@ -1,0 +1,12 @@
+{
+  "case_id": 716,
+  "case_name": "716_docker3##http_requests_total",
+  "seq_len": 935,
+  "train_seq_len": 468,
+  "test_seq_len": 467,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.05982905982905983,
+  "test set anomaly ratio": 0.019271948608137045,
+  "metric_type": "Count",
+  "metric_name": "docker3##http_requests_total"
+}

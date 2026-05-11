@@ -1,0 +1,12 @@
+{
+  "case_id": 708,
+  "case_name": "708_api-proxy##service_health_score",
+  "seq_len": 741,
+  "train_seq_len": 370,
+  "test_seq_len": 371,
+  "intervals": 3600,
+  "training set anomaly ratio": 0.008108108108108109,
+  "test set anomaly ratio": 0.02425876010781671,
+  "metric_type": "SuccessRate",
+  "metric_name": "api-proxy##service_health_score"
+}

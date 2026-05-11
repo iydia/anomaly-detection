@@ -1,0 +1,12 @@
+{
+  "case_id": 761,
+  "case_name": "761_order-processing##inode_usage_percent",
+  "seq_len": 334,
+  "train_seq_len": 167,
+  "test_seq_len": 167,
+  "intervals": 345,
+  "training set anomaly ratio": 0.40718562874251496,
+  "test set anomaly ratio": 0.31137724550898205,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "order-processing##inode_usage_percent"
+}

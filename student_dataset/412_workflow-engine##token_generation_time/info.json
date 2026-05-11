@@ -1,0 +1,12 @@
+{
+  "case_id": 412,
+  "case_name": "412_workflow-engine##token_generation_time",
+  "seq_len": 689,
+  "train_seq_len": 344,
+  "test_seq_len": 345,
+  "intervals": 864,
+  "training set anomaly ratio": 0.11337209302325581,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "LatencySecond",
+  "metric_name": "workflow-engine##token_generation_time"
+}

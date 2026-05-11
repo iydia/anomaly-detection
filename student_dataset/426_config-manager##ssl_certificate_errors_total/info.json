@@ -1,0 +1,12 @@
+{
+  "case_id": 426,
+  "case_name": "426_config-manager##ssl_certificate_errors_total",
+  "seq_len": 685,
+  "train_seq_len": 342,
+  "test_seq_len": 343,
+  "intervals": 60,
+  "training set anomaly ratio": 0.02046783625730994,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "ErrorCount",
+  "metric_name": "config-manager##ssl_certificate_errors_total"
+}

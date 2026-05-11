@@ -1,0 +1,12 @@
+{
+  "case_id": 765,
+  "case_name": "765_vpn-gateway##network_bandwidth_utilization",
+  "seq_len": 974,
+  "train_seq_len": 487,
+  "test_seq_len": 487,
+  "intervals": 600,
+  "training set anomaly ratio": 0.02053388090349076,
+  "test set anomaly ratio": 0.09034907597535935,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "vpn-gateway##network_bandwidth_utilization"
+}

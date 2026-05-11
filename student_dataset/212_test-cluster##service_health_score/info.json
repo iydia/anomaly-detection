@@ -1,0 +1,12 @@
+{
+  "case_id": 212,
+  "case_name": "212_test-cluster##service_health_score",
+  "seq_len": 304,
+  "train_seq_len": 152,
+  "test_seq_len": 152,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.07894736842105263,
+  "test set anomaly ratio": 0.4144736842105263,
+  "metric_type": "SuccessRate",
+  "metric_name": "test-cluster##service_health_score"
+}

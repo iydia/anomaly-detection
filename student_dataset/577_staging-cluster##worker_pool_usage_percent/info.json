@@ -1,0 +1,12 @@
+{
+  "case_id": 577,
+  "case_name": "577_staging-cluster##worker_pool_usage_percent",
+  "seq_len": 644,
+  "train_seq_len": 322,
+  "test_seq_len": 322,
+  "intervals": 60,
+  "training set anomaly ratio": 0.14285714285714285,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "staging-cluster##worker_pool_usage_percent"
+}

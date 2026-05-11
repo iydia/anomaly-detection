@@ -1,0 +1,12 @@
+{
+  "case_id": 810,
+  "case_name": "810_k8s-cluster-west##deployment_success_rate",
+  "seq_len": 296,
+  "train_seq_len": 148,
+  "test_seq_len": 148,
+  "intervals": 60,
+  "training set anomaly ratio": 0.08783783783783784,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "SuccessRate",
+  "metric_name": "k8s-cluster-west##deployment_success_rate"
+}

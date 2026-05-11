@@ -1,0 +1,12 @@
+{
+  "case_id": 852,
+  "case_name": "852_harbor-registry##cluster_resource_usage",
+  "seq_len": 713,
+  "train_seq_len": 356,
+  "test_seq_len": 357,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "harbor-registry##cluster_resource_usage"
+}

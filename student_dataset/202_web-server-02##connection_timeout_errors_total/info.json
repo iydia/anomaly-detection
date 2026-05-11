@@ -1,0 +1,12 @@
+{
+  "case_id": 202,
+  "case_name": "202_web-server-02##connection_timeout_errors_total",
+  "seq_len": 816,
+  "train_seq_len": 408,
+  "test_seq_len": 408,
+  "intervals": 345,
+  "training set anomaly ratio": 0.041666666666666664,
+  "test set anomaly ratio": 0.0024509803921568627,
+  "metric_type": "ErrorCount",
+  "metric_name": "web-server-02##connection_timeout_errors_total"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 888,
+  "case_name": "888_docker1##container_starts_per_second",
+  "seq_len": 512,
+  "train_seq_len": 256,
+  "test_seq_len": 256,
+  "intervals": 864,
+  "training set anomaly ratio": 0.22265625,
+  "test set anomaly ratio": 0.09375,
+  "metric_type": "QPS",
+  "metric_name": "docker1##container_starts_per_second"
+}

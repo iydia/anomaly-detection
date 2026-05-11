@@ -1,0 +1,12 @@
+{
+  "case_id": 963,
+  "case_name": "963_billing-service##image_uploads_per_second",
+  "seq_len": 663,
+  "train_seq_len": 332,
+  "test_seq_len": 331,
+  "intervals": 300,
+  "training set anomaly ratio": 0.16265060240963855,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "QPS",
+  "metric_name": "billing-service##image_uploads_per_second"
+}

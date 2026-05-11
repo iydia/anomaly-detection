@@ -1,0 +1,12 @@
+{
+  "case_id": 994,
+  "case_name": "994_cassandra-cluster##queue_capacity_usage",
+  "seq_len": 379,
+  "train_seq_len": 190,
+  "test_seq_len": 189,
+  "intervals": 300,
+  "training set anomaly ratio": 0.13157894736842105,
+  "test set anomaly ratio": 0.031746031746031744,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "cassandra-cluster##queue_capacity_usage"
+}

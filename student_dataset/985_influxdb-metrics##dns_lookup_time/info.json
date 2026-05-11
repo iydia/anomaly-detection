@@ -1,0 +1,12 @@
+{
+  "case_id": 985,
+  "case_name": "985_influxdb-metrics##dns_lookup_time",
+  "seq_len": 658,
+  "train_seq_len": 329,
+  "test_seq_len": 329,
+  "intervals": 300,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.030395136778115502,
+  "metric_type": "LatencySecond",
+  "metric_name": "influxdb-metrics##dns_lookup_time"
+}

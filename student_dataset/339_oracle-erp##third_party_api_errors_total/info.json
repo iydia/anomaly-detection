@@ -1,0 +1,12 @@
+{
+  "case_id": 339,
+  "case_name": "339_oracle-erp##third_party_api_errors_total",
+  "seq_len": 819,
+  "train_seq_len": 410,
+  "test_seq_len": 409,
+  "intervals": 345,
+  "training set anomaly ratio": 0.01951219512195122,
+  "test set anomaly ratio": 0.022004889975550123,
+  "metric_type": "ErrorCount",
+  "metric_name": "oracle-erp##third_party_api_errors_total"
+}

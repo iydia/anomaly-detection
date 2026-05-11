@@ -1,0 +1,12 @@
+{
+  "case_id": 517,
+  "case_name": "517_user-mgmt##server_uptime_rate",
+  "seq_len": 512,
+  "train_seq_len": 256,
+  "test_seq_len": 256,
+  "intervals": 600,
+  "training set anomaly ratio": 0.08984375,
+  "test set anomaly ratio": 0.0390625,
+  "metric_type": "SuccessRate",
+  "metric_name": "user-mgmt##server_uptime_rate"
+}

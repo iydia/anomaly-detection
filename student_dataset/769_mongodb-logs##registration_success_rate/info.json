@@ -1,0 +1,12 @@
+{
+  "case_id": 769,
+  "case_name": "769_mongodb-logs##registration_success_rate",
+  "seq_len": 695,
+  "train_seq_len": 348,
+  "test_seq_len": 347,
+  "intervals": 3600,
+  "training set anomaly ratio": 0.05172413793103448,
+  "test set anomaly ratio": 0.023054755043227664,
+  "metric_type": "SuccessRate",
+  "metric_name": "mongodb-logs##registration_success_rate"
+}

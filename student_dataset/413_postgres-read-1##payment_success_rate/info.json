@@ -1,0 +1,12 @@
+{
+  "case_id": 413,
+  "case_name": "413_postgres-read-1##payment_success_rate",
+  "seq_len": 980,
+  "train_seq_len": 490,
+  "test_seq_len": 490,
+  "intervals": 3600,
+  "training set anomaly ratio": 0.13673469387755102,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "SuccessRate",
+  "metric_name": "postgres-read-1##payment_success_rate"
+}

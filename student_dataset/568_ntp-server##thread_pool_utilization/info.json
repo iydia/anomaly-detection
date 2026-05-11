@@ -1,0 +1,12 @@
+{
+  "case_id": 568,
+  "case_name": "568_ntp-server##thread_pool_utilization",
+  "seq_len": 961,
+  "train_seq_len": 480,
+  "test_seq_len": 481,
+  "intervals": 345,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "ntp-server##thread_pool_utilization"
+}

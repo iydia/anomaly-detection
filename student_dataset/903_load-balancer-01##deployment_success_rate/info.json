@@ -1,0 +1,12 @@
+{
+  "case_id": 903,
+  "case_name": "903_load-balancer-01##deployment_success_rate",
+  "seq_len": 687,
+  "train_seq_len": 344,
+  "test_seq_len": 343,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.282798833819242,
+  "metric_type": "SuccessRate",
+  "metric_name": "load-balancer-01##deployment_success_rate"
+}

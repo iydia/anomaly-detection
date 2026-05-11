@@ -1,0 +1,12 @@
+{
+  "case_id": 157,
+  "case_name": "157_consul-cluster##api_success_rate",
+  "seq_len": 333,
+  "train_seq_len": 166,
+  "test_seq_len": 167,
+  "intervals": 300,
+  "training set anomaly ratio": 0.10843373493975904,
+  "test set anomaly ratio": 0.46107784431137727,
+  "metric_type": "SuccessRate",
+  "metric_name": "consul-cluster##api_success_rate"
+}

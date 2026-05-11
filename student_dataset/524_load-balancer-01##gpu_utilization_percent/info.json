@@ -1,0 +1,12 @@
+{
+  "case_id": 524,
+  "case_name": "524_load-balancer-01##gpu_utilization_percent",
+  "seq_len": 578,
+  "train_seq_len": 289,
+  "test_seq_len": 289,
+  "intervals": 300,
+  "training set anomaly ratio": 0.0657439446366782,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "load-balancer-01##gpu_utilization_percent"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 879,
+  "case_name": "879_monitoring-agent##service_calls_per_second",
+  "seq_len": 471,
+  "train_seq_len": 236,
+  "test_seq_len": 235,
+  "intervals": 60,
+  "training set anomaly ratio": 0.05508474576271186,
+  "test set anomaly ratio": 0.3702127659574468,
+  "metric_type": "QPS",
+  "metric_name": "monitoring-agent##service_calls_per_second"
+}

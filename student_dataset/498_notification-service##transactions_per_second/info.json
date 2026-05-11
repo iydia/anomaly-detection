@@ -1,0 +1,12 @@
+{
+  "case_id": 498,
+  "case_name": "498_notification-service##transactions_per_second",
+  "seq_len": 736,
+  "train_seq_len": 368,
+  "test_seq_len": 368,
+  "intervals": 3600,
+  "training set anomaly ratio": 0.07065217391304347,
+  "test set anomaly ratio": 0.051630434782608696,
+  "metric_type": "QPS",
+  "metric_name": "notification-service##transactions_per_second"
+}

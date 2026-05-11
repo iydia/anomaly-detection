@@ -1,0 +1,12 @@
+{
+  "case_id": 573,
+  "case_name": "573_postgres-main##business_logic_errors_total",
+  "seq_len": 591,
+  "train_seq_len": 296,
+  "test_seq_len": 295,
+  "intervals": 864,
+  "training set anomaly ratio": 0.14189189189189189,
+  "test set anomaly ratio": 0.006779661016949152,
+  "metric_type": "ErrorCount",
+  "metric_name": "postgres-main##business_logic_errors_total"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 729,
+  "case_name": "729_elasticsearch-cluster##login_attempts_per_second",
+  "seq_len": 900,
+  "train_seq_len": 450,
+  "test_seq_len": 450,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.02,
+  "test set anomaly ratio": 0.03333333333333333,
+  "metric_type": "QPS",
+  "metric_name": "elasticsearch-cluster##login_attempts_per_second"
+}

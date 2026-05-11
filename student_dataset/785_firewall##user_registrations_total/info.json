@@ -1,0 +1,12 @@
+{
+  "case_id": 785,
+  "case_name": "785_firewall##user_registrations_total",
+  "seq_len": 1024,
+  "train_seq_len": 512,
+  "test_seq_len": 512,
+  "intervals": 3600,
+  "training set anomaly ratio": 0.056640625,
+  "test set anomaly ratio": 0.041015625,
+  "metric_type": "Count",
+  "metric_name": "firewall##user_registrations_total"
+}

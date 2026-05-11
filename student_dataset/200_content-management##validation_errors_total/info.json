@@ -1,0 +1,12 @@
+{
+  "case_id": 200,
+  "case_name": "200_content-management##validation_errors_total",
+  "seq_len": 476,
+  "train_seq_len": 238,
+  "test_seq_len": 238,
+  "intervals": 60,
+  "training set anomaly ratio": 0.14705882352941177,
+  "test set anomaly ratio": 0.22268907563025211,
+  "metric_type": "ErrorCount",
+  "metric_name": "content-management##validation_errors_total"
+}

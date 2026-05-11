@@ -1,0 +1,12 @@
+{
+  "case_id": 313,
+  "case_name": "313_monitoring-agent##sms_delivery_success_rate",
+  "seq_len": 412,
+  "train_seq_len": 206,
+  "test_seq_len": 206,
+  "intervals": 300,
+  "training set anomaly ratio": 0.5388349514563107,
+  "test set anomaly ratio": 0.014563106796116505,
+  "metric_type": "SuccessRate",
+  "metric_name": "monitoring-agent##sms_delivery_success_rate"
+}

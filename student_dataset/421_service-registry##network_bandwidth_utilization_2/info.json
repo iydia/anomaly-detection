@@ -1,0 +1,12 @@
+{
+  "case_id": 421,
+  "case_name": "421_service-registry##network_bandwidth_utilization_2",
+  "seq_len": 968,
+  "train_seq_len": 484,
+  "test_seq_len": 484,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "service-registry##network_bandwidth_utilization_2"
+}

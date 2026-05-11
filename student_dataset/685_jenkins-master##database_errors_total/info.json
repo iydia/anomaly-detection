@@ -1,0 +1,12 @@
+{
+  "case_id": 685,
+  "case_name": "685_jenkins-master##database_errors_total",
+  "seq_len": 460,
+  "train_seq_len": 230,
+  "test_seq_len": 230,
+  "intervals": 345,
+  "training set anomaly ratio": 0.17391304347826086,
+  "test set anomaly ratio": 0.1782608695652174,
+  "metric_type": "ErrorCount",
+  "metric_name": "jenkins-master##database_errors_total"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 774,
+  "case_name": "774_message-broker##dns_lookup_time",
+  "seq_len": 599,
+  "train_seq_len": 300,
+  "test_seq_len": 299,
+  "intervals": 3600,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.3879598662207358,
+  "metric_type": "LatencySecond",
+  "metric_name": "message-broker##dns_lookup_time"
+}

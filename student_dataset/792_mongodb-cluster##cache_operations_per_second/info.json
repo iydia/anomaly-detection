@@ -1,0 +1,12 @@
+{
+  "case_id": 792,
+  "case_name": "792_mongodb-cluster##cache_operations_per_second",
+  "seq_len": 393,
+  "train_seq_len": 196,
+  "test_seq_len": 197,
+  "intervals": 864,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.1319796954314721,
+  "metric_type": "QPS",
+  "metric_name": "mongodb-cluster##cache_operations_per_second"
+}

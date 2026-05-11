@@ -1,0 +1,12 @@
+{
+  "case_id": 929,
+  "case_name": "929_monitoring-dashboard##image_processing_duration",
+  "seq_len": 788,
+  "train_seq_len": 394,
+  "test_seq_len": 394,
+  "intervals": 3600,
+  "training set anomaly ratio": 0.0025380710659898475,
+  "test set anomaly ratio": 0.007614213197969543,
+  "metric_type": "LatencySecond",
+  "metric_name": "monitoring-dashboard##image_processing_duration"
+}

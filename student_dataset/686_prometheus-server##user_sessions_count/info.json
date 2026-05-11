@@ -1,0 +1,12 @@
+{
+  "case_id": 686,
+  "case_name": "686_prometheus-server##user_sessions_count",
+  "seq_len": 592,
+  "train_seq_len": 296,
+  "test_seq_len": 296,
+  "intervals": 345,
+  "training set anomaly ratio": 0.13175675675675674,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "Count",
+  "metric_name": "prometheus-server##user_sessions_count"
+}

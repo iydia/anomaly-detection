@@ -1,0 +1,12 @@
+{
+  "case_id": 764,
+  "case_name": "764_master-node-01##memory_usage_percent",
+  "seq_len": 980,
+  "train_seq_len": 490,
+  "test_seq_len": 490,
+  "intervals": 600,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.014285714285714285,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "master-node-01##memory_usage_percent"
+}

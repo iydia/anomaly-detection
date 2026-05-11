@@ -1,0 +1,12 @@
+{
+  "case_id": 737,
+  "case_name": "737_payment-processor##login_attempts_per_second",
+  "seq_len": 482,
+  "train_seq_len": 241,
+  "test_seq_len": 241,
+  "intervals": 345,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "QPS",
+  "metric_name": "payment-processor##login_attempts_per_second"
+}

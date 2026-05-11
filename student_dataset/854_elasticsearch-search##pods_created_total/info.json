@@ -1,0 +1,12 @@
+{
+  "case_id": 854,
+  "case_name": "854_elasticsearch-search##pods_created_total",
+  "seq_len": 401,
+  "train_seq_len": 200,
+  "test_seq_len": 201,
+  "intervals": 300,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.24875621890547264,
+  "metric_type": "Count",
+  "metric_name": "elasticsearch-search##pods_created_total"
+}

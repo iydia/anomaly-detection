@@ -1,0 +1,12 @@
+{
+  "case_id": 37,
+  "case_name": "037_clickhouse-events##orders_per_second",
+  "seq_len": 866,
+  "train_seq_len": 433,
+  "test_seq_len": 433,
+  "intervals": 60,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "QPS",
+  "metric_name": "clickhouse-events##orders_per_second"
+}

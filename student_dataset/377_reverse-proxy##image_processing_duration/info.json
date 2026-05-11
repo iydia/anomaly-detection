@@ -1,0 +1,12 @@
+{
+  "case_id": 377,
+  "case_name": "377_reverse-proxy##image_processing_duration",
+  "seq_len": 494,
+  "train_seq_len": 247,
+  "test_seq_len": 247,
+  "intervals": 600,
+  "training set anomaly ratio": 0.19433198380566802,
+  "test set anomaly ratio": 0.024291497975708502,
+  "metric_type": "LatencySecond",
+  "metric_name": "reverse-proxy##image_processing_duration"
+}

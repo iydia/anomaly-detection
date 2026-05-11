@@ -1,0 +1,12 @@
+{
+  "case_id": 323,
+  "case_name": "323_docker2##http_response_latency",
+  "seq_len": 351,
+  "train_seq_len": 176,
+  "test_seq_len": 175,
+  "intervals": 864,
+  "training set anomaly ratio": 0.1590909090909091,
+  "test set anomaly ratio": 0.09714285714285714,
+  "metric_type": "LatencySecond",
+  "metric_name": "docker2##http_response_latency"
+}

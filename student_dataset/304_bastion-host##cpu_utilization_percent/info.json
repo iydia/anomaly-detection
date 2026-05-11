@@ -1,0 +1,12 @@
+{
+  "case_id": 304,
+  "case_name": "304_bastion-host##cpu_utilization_percent",
+  "seq_len": 725,
+  "train_seq_len": 362,
+  "test_seq_len": 363,
+  "intervals": 864,
+  "training set anomaly ratio": 0.1132596685082873,
+  "test set anomaly ratio": 0.08264462809917356,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "bastion-host##cpu_utilization_percent"
+}

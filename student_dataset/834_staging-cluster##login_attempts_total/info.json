@@ -1,0 +1,12 @@
+{
+  "case_id": 834,
+  "case_name": "834_staging-cluster##login_attempts_total",
+  "seq_len": 328,
+  "train_seq_len": 164,
+  "test_seq_len": 164,
+  "intervals": 300,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "Count",
+  "metric_name": "staging-cluster##login_attempts_total"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 405,
+  "case_name": "405_payment-processor##health_checks_per_second",
+  "seq_len": 577,
+  "train_seq_len": 288,
+  "test_seq_len": 289,
+  "intervals": 345,
+  "training set anomaly ratio": 0.003472222222222222,
+  "test set anomaly ratio": 0.24567474048442905,
+  "metric_type": "QPS",
+  "metric_name": "payment-processor##health_checks_per_second"
+}

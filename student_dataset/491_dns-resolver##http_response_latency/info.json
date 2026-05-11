@@ -1,0 +1,12 @@
+{
+  "case_id": 491,
+  "case_name": "491_dns-resolver##http_response_latency",
+  "seq_len": 505,
+  "train_seq_len": 252,
+  "test_seq_len": 253,
+  "intervals": 3600,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.16205533596837945,
+  "metric_type": "LatencySecond",
+  "metric_name": "dns-resolver##http_response_latency"
+}

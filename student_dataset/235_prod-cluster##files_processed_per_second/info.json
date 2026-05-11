@@ -1,0 +1,12 @@
+{
+  "case_id": 235,
+  "case_name": "235_prod-cluster##files_processed_per_second",
+  "seq_len": 721,
+  "train_seq_len": 360,
+  "test_seq_len": 361,
+  "intervals": 345,
+  "training set anomaly ratio": 0.03611111111111111,
+  "test set anomaly ratio": 0.16066481994459833,
+  "metric_type": "QPS",
+  "metric_name": "prod-cluster##files_processed_per_second"
+}

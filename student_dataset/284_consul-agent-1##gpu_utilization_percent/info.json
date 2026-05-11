@@ -1,0 +1,12 @@
+{
+  "case_id": 284,
+  "case_name": "284_consul-agent-1##gpu_utilization_percent",
+  "seq_len": 479,
+  "train_seq_len": 240,
+  "test_seq_len": 239,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.041666666666666664,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "consul-agent-1##gpu_utilization_percent"
+}

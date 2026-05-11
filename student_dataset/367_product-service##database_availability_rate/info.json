@@ -1,0 +1,12 @@
+{
+  "case_id": 367,
+  "case_name": "367_product-service##database_availability_rate",
+  "seq_len": 902,
+  "train_seq_len": 451,
+  "test_seq_len": 451,
+  "intervals": 864,
+  "training set anomaly ratio": 0.0598669623059867,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "SuccessRate",
+  "metric_name": "product-service##database_availability_rate"
+}

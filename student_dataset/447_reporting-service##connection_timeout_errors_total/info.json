@@ -1,0 +1,12 @@
+{
+  "case_id": 447,
+  "case_name": "447_reporting-service##connection_timeout_errors_total",
+  "seq_len": 356,
+  "train_seq_len": 178,
+  "test_seq_len": 178,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.06179775280898876,
+  "test set anomaly ratio": 0.3202247191011236,
+  "metric_type": "ErrorCount",
+  "metric_name": "reporting-service##connection_timeout_errors_total"
+}

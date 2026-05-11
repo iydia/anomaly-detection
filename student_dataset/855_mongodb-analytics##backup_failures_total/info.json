@@ -1,0 +1,12 @@
+{
+  "case_id": 855,
+  "case_name": "855_mongodb-analytics##backup_failures_total",
+  "seq_len": 794,
+  "train_seq_len": 397,
+  "test_seq_len": 397,
+  "intervals": 300,
+  "training set anomaly ratio": 0.055415617128463476,
+  "test set anomaly ratio": 0.04534005037783375,
+  "metric_type": "ErrorCount",
+  "metric_name": "mongodb-analytics##backup_failures_total"
+}

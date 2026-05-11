@@ -1,0 +1,12 @@
+{
+  "case_id": 672,
+  "case_name": "672_prod-cluster##tcp_handshake_duration",
+  "seq_len": 557,
+  "train_seq_len": 278,
+  "test_seq_len": 279,
+  "intervals": 600,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.13620071684587814,
+  "metric_type": "LatencySecond",
+  "metric_name": "prod-cluster##tcp_handshake_duration"
+}

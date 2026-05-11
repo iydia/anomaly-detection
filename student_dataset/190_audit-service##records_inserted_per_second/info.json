@@ -1,0 +1,12 @@
+{
+  "case_id": 190,
+  "case_name": "190_audit-service##records_inserted_per_second",
+  "seq_len": 383,
+  "train_seq_len": 192,
+  "test_seq_len": 191,
+  "intervals": 60,
+  "training set anomaly ratio": 0.10416666666666667,
+  "test set anomaly ratio": 0.24607329842931938,
+  "metric_type": "QPS",
+  "metric_name": "audit-service##records_inserted_per_second"
+}

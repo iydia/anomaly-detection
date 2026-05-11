@@ -1,0 +1,12 @@
+{
+  "case_id": 669,
+  "case_name": "669_user-portal##orders_per_second",
+  "seq_len": 641,
+  "train_seq_len": 320,
+  "test_seq_len": 321,
+  "intervals": 864,
+  "training set anomaly ratio": 0.021875,
+  "test set anomaly ratio": 0.021806853582554516,
+  "metric_type": "QPS",
+  "metric_name": "user-portal##orders_per_second"
+}

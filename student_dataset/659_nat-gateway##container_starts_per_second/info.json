@@ -1,0 +1,12 @@
+{
+  "case_id": 659,
+  "case_name": "659_nat-gateway##container_starts_per_second",
+  "seq_len": 630,
+  "train_seq_len": 315,
+  "test_seq_len": 315,
+  "intervals": 345,
+  "training set anomaly ratio": 0.015873015873015872,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "QPS",
+  "metric_name": "nat-gateway##container_starts_per_second"
+}

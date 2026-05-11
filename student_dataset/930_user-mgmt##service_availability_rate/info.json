@@ -1,0 +1,12 @@
+{
+  "case_id": 930,
+  "case_name": "930_user-mgmt##service_availability_rate",
+  "seq_len": 421,
+  "train_seq_len": 210,
+  "test_seq_len": 211,
+  "intervals": 600,
+  "training set anomaly ratio": 0.29523809523809524,
+  "test set anomaly ratio": 0.09004739336492891,
+  "metric_type": "SuccessRate",
+  "metric_name": "user-mgmt##service_availability_rate"
+}

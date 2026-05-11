@@ -1,0 +1,12 @@
+{
+  "case_id": 610,
+  "case_name": "610_cassandra-cluster##database_queries_per_second",
+  "seq_len": 634,
+  "train_seq_len": 317,
+  "test_seq_len": 317,
+  "intervals": 345,
+  "training set anomaly ratio": 0.031545741324921134,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "QPS",
+  "metric_name": "cassandra-cluster##database_queries_per_second"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 770,
+  "case_name": "770_config-service##orders_per_second",
+  "seq_len": 805,
+  "train_seq_len": 402,
+  "test_seq_len": 403,
+  "intervals": 864,
+  "training set anomaly ratio": 0.03233830845771144,
+  "test set anomaly ratio": 0.019851116625310174,
+  "metric_type": "QPS",
+  "metric_name": "config-service##orders_per_second"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 291,
+  "case_name": "291_redis-cache-1##notification_success_rate",
+  "seq_len": 616,
+  "train_seq_len": 308,
+  "test_seq_len": 308,
+  "intervals": 864,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.2987012987012987,
+  "metric_type": "SuccessRate",
+  "metric_name": "redis-cache-1##notification_success_rate"
+}

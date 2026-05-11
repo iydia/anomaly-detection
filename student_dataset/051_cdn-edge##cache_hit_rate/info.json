@@ -1,0 +1,12 @@
+{
+  "case_id": 51,
+  "case_name": "051_cdn-edge##cache_hit_rate",
+  "seq_len": 691,
+  "train_seq_len": 346,
+  "test_seq_len": 345,
+  "intervals": 345,
+  "training set anomaly ratio": 0.12716763005780346,
+  "test set anomaly ratio": 0.10144927536231885,
+  "metric_type": "SuccessRate",
+  "metric_name": "cdn-edge##cache_hit_rate"
+}

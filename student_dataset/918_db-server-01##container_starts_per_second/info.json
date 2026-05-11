@@ -1,0 +1,12 @@
+{
+  "case_id": 918,
+  "case_name": "918_db-server-01##container_starts_per_second",
+  "seq_len": 256,
+  "train_seq_len": 128,
+  "test_seq_len": 128,
+  "intervals": 345,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.1328125,
+  "metric_type": "QPS",
+  "metric_name": "db-server-01##container_starts_per_second"
+}

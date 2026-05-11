@@ -1,0 +1,12 @@
+{
+  "case_id": 915,
+  "case_name": "915_consul-cluster##connection_establish_time",
+  "seq_len": 376,
+  "train_seq_len": 188,
+  "test_seq_len": 188,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.05851063829787234,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "LatencySecond",
+  "metric_name": "consul-cluster##connection_establish_time"
+}

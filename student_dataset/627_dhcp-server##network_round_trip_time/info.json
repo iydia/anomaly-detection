@@ -1,0 +1,12 @@
+{
+  "case_id": 627,
+  "case_name": "627_dhcp-server##network_round_trip_time",
+  "seq_len": 348,
+  "train_seq_len": 174,
+  "test_seq_len": 174,
+  "intervals": 3600,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.011494252873563218,
+  "metric_type": "LatencySecond",
+  "metric_name": "dhcp-server##network_round_trip_time"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 687,
+  "case_name": "687_product-service##records_inserted_per_second",
+  "seq_len": 473,
+  "train_seq_len": 236,
+  "test_seq_len": 237,
+  "intervals": 60,
+  "training set anomaly ratio": 0.025423728813559324,
+  "test set anomaly ratio": 0.04219409282700422,
+  "metric_type": "QPS",
+  "metric_name": "product-service##records_inserted_per_second"
+}

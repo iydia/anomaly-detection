@@ -1,0 +1,12 @@
+{
+  "case_id": 948,
+  "case_name": "948_notification-hub##file_write_duration_2",
+  "seq_len": 563,
+  "train_seq_len": 282,
+  "test_seq_len": 281,
+  "intervals": 600,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "LatencySecond",
+  "metric_name": "notification-hub##file_write_duration_2"
+}

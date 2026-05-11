@@ -1,0 +1,12 @@
+{
+  "case_id": 690,
+  "case_name": "690_proxy-server-01##user_sessions_count",
+  "seq_len": 595,
+  "train_seq_len": 298,
+  "test_seq_len": 297,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.07046979865771812,
+  "test set anomaly ratio": 0.03367003367003367,
+  "metric_type": "Count",
+  "metric_name": "proxy-server-01##user_sessions_count"
+}

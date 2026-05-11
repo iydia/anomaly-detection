@@ -1,0 +1,12 @@
+{
+  "case_id": 992,
+  "case_name": "992_reverse-proxy##transactions_per_second",
+  "seq_len": 512,
+  "train_seq_len": 256,
+  "test_seq_len": 256,
+  "intervals": 345,
+  "training set anomaly ratio": 0.1640625,
+  "test set anomaly ratio": 0.07421875,
+  "metric_type": "QPS",
+  "metric_name": "reverse-proxy##transactions_per_second"
+}

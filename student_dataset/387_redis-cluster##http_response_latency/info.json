@@ -1,0 +1,12 @@
+{
+  "case_id": 387,
+  "case_name": "387_redis-cluster##http_response_latency",
+  "seq_len": 559,
+  "train_seq_len": 280,
+  "test_seq_len": 279,
+  "intervals": 60,
+  "training set anomaly ratio": 0.22142857142857142,
+  "test set anomaly ratio": 0.03225806451612903,
+  "metric_type": "LatencySecond",
+  "metric_name": "redis-cluster##http_response_latency"
+}

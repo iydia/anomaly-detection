@@ -1,0 +1,12 @@
+{
+  "case_id": 493,
+  "case_name": "493_mobile-api##http_requests_total",
+  "seq_len": 858,
+  "train_seq_len": 429,
+  "test_seq_len": 429,
+  "intervals": 300,
+  "training set anomaly ratio": 0.013986013986013986,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "Count",
+  "metric_name": "mobile-api##http_requests_total"
+}

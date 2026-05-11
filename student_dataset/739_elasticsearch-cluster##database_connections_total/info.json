@@ -1,0 +1,12 @@
+{
+  "case_id": 739,
+  "case_name": "739_elasticsearch-cluster##database_connections_total",
+  "seq_len": 571,
+  "train_seq_len": 286,
+  "test_seq_len": 285,
+  "intervals": 3600,
+  "training set anomaly ratio": 0.13986013986013987,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "Count",
+  "metric_name": "elasticsearch-cluster##database_connections_total"
+}

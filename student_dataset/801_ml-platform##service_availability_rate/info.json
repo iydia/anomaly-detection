@@ -1,0 +1,12 @@
+{
+  "case_id": 801,
+  "case_name": "801_ml-platform##service_availability_rate",
+  "seq_len": 850,
+  "train_seq_len": 425,
+  "test_seq_len": 425,
+  "intervals": 600,
+  "training set anomaly ratio": 0.18588235294117647,
+  "test set anomaly ratio": 0.002352941176470588,
+  "metric_type": "SuccessRate",
+  "metric_name": "ml-platform##service_availability_rate"
+}

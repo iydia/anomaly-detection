@@ -1,0 +1,12 @@
+{
+  "case_id": 496,
+  "case_name": "496_backup-server##events_processed_total",
+  "seq_len": 506,
+  "train_seq_len": 253,
+  "test_seq_len": 253,
+  "intervals": 60,
+  "training set anomaly ratio": 0.09486166007905138,
+  "test set anomaly ratio": 0.466403162055336,
+  "metric_type": "Count",
+  "metric_name": "backup-server##events_processed_total"
+}

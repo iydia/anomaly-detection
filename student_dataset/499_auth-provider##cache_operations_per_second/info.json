@@ -1,0 +1,12 @@
+{
+  "case_id": 499,
+  "case_name": "499_auth-provider##cache_operations_per_second",
+  "seq_len": 559,
+  "train_seq_len": 280,
+  "test_seq_len": 279,
+  "intervals": 3600,
+  "training set anomaly ratio": 0.125,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "QPS",
+  "metric_name": "auth-provider##cache_operations_per_second"
+}

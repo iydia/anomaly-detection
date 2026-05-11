@@ -1,0 +1,12 @@
+{
+  "case_id": 186,
+  "case_name": "186_mysql-replica-1##health_checks_per_second",
+  "seq_len": 1019,
+  "train_seq_len": 510,
+  "test_seq_len": 509,
+  "intervals": 600,
+  "training set anomaly ratio": 0.18823529411764706,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "QPS",
+  "metric_name": "mysql-replica-1##health_checks_per_second"
+}

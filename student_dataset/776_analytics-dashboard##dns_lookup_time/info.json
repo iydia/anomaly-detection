@@ -1,0 +1,12 @@
+{
+  "case_id": 776,
+  "case_name": "776_analytics-dashboard##dns_lookup_time",
+  "seq_len": 512,
+  "train_seq_len": 256,
+  "test_seq_len": 256,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.21484375,
+  "test set anomaly ratio": 0.078125,
+  "metric_type": "LatencySecond",
+  "metric_name": "analytics-dashboard##dns_lookup_time"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 599,
+  "case_name": "599_master-node-01##http_requests_per_second",
+  "seq_len": 527,
+  "train_seq_len": 264,
+  "test_seq_len": 263,
+  "intervals": 60,
+  "training set anomaly ratio": 0.44696969696969696,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "QPS",
+  "metric_name": "master-node-01##http_requests_per_second"
+}

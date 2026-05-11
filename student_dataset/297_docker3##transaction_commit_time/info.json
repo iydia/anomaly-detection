@@ -1,0 +1,12 @@
+{
+  "case_id": 297,
+  "case_name": "297_docker3##transaction_commit_time",
+  "seq_len": 960,
+  "train_seq_len": 480,
+  "test_seq_len": 480,
+  "intervals": 345,
+  "training set anomaly ratio": 0.10208333333333333,
+  "test set anomaly ratio": 0.010416666666666666,
+  "metric_type": "LatencySecond",
+  "metric_name": "docker3##transaction_commit_time"
+}

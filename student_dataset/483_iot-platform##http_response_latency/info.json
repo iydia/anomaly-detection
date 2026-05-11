@@ -1,0 +1,12 @@
+{
+  "case_id": 483,
+  "case_name": "483_iot-platform##http_response_latency",
+  "seq_len": 957,
+  "train_seq_len": 478,
+  "test_seq_len": 479,
+  "intervals": 345,
+  "training set anomaly ratio": 0.02510460251046025,
+  "test set anomaly ratio": 0.020876826722338204,
+  "metric_type": "LatencySecond",
+  "metric_name": "iot-platform##http_response_latency"
+}

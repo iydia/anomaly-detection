@@ -1,0 +1,12 @@
+{
+  "case_id": 546,
+  "case_name": "546_elasticsearch-node1##notification_success_rate",
+  "seq_len": 564,
+  "train_seq_len": 282,
+  "test_seq_len": 282,
+  "intervals": 600,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.08865248226950355,
+  "metric_type": "SuccessRate",
+  "metric_name": "elasticsearch-node1##notification_success_rate"
+}

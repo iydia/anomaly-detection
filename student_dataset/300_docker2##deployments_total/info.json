@@ -1,0 +1,12 @@
+{
+  "case_id": 300,
+  "case_name": "300_docker2##deployments_total",
+  "seq_len": 369,
+  "train_seq_len": 184,
+  "test_seq_len": 185,
+  "intervals": 864,
+  "training set anomaly ratio": 0.29347826086956524,
+  "test set anomaly ratio": 0.02702702702702703,
+  "metric_type": "Count",
+  "metric_name": "docker2##deployments_total"
+}

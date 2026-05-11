@@ -1,0 +1,12 @@
+{
+  "case_id": 403,
+  "case_name": "403_cdn-node-01##memory_usage_percent",
+  "seq_len": 764,
+  "train_seq_len": 382,
+  "test_seq_len": 382,
+  "intervals": 864,
+  "training set anomaly ratio": 0.28272251308900526,
+  "test set anomaly ratio": 0.193717277486911,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "cdn-node-01##memory_usage_percent"
+}

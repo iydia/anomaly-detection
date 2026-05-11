@@ -1,0 +1,12 @@
+{
+  "case_id": 401,
+  "case_name": "401_discovery-service##dns_lookup_time",
+  "seq_len": 460,
+  "train_seq_len": 230,
+  "test_seq_len": 230,
+  "intervals": 300,
+  "training set anomaly ratio": 0.09130434782608696,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "LatencySecond",
+  "metric_name": "discovery-service##dns_lookup_time"
+}

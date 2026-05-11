@@ -1,0 +1,12 @@
+{
+  "case_id": 730,
+  "case_name": "730_mysql-replica-1##connection_timeout_errors_total",
+  "seq_len": 1024,
+  "train_seq_len": 512,
+  "test_seq_len": 512,
+  "intervals": 60,
+  "training set anomaly ratio": 0.00390625,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "ErrorCount",
+  "metric_name": "mysql-replica-1##connection_timeout_errors_total"
+}

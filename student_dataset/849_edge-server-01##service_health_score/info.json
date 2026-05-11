@@ -1,0 +1,12 @@
+{
+  "case_id": 849,
+  "case_name": "849_edge-server-01##service_health_score",
+  "seq_len": 695,
+  "train_seq_len": 348,
+  "test_seq_len": 347,
+  "intervals": 3600,
+  "training set anomaly ratio": 0.06609195402298851,
+  "test set anomaly ratio": 0.15561959654178675,
+  "metric_type": "SuccessRate",
+  "metric_name": "edge-server-01##service_health_score"
+}

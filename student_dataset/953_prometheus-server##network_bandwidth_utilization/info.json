@@ -1,0 +1,12 @@
+{
+  "case_id": 953,
+  "case_name": "953_prometheus-server##network_bandwidth_utilization",
+  "seq_len": 560,
+  "train_seq_len": 280,
+  "test_seq_len": 280,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "prometheus-server##network_bandwidth_utilization"
+}

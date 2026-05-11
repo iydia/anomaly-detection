@@ -1,0 +1,12 @@
+{
+  "case_id": 175,
+  "case_name": "175_cache-server-01##user_actions_per_second",
+  "seq_len": 834,
+  "train_seq_len": 417,
+  "test_seq_len": 417,
+  "intervals": 864,
+  "training set anomaly ratio": 0.15347721822541965,
+  "test set anomaly ratio": 0.07434052757793765,
+  "metric_type": "QPS",
+  "metric_name": "cache-server-01##user_actions_per_second"
+}

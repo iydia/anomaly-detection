@@ -1,0 +1,12 @@
+{
+  "case_id": 616,
+  "case_name": "616_cassandra-timeseries##rest_api_latency",
+  "seq_len": 656,
+  "train_seq_len": 328,
+  "test_seq_len": 328,
+  "intervals": 60,
+  "training set anomaly ratio": 0.1951219512195122,
+  "test set anomaly ratio": 0.024390243902439025,
+  "metric_type": "LatencySecond",
+  "metric_name": "cassandra-timeseries##rest_api_latency"
+}

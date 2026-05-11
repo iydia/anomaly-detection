@@ -1,0 +1,12 @@
+{
+  "case_id": 880,
+  "case_name": "880_security-scanner##auth_validation_time",
+  "seq_len": 823,
+  "train_seq_len": 412,
+  "test_seq_len": 411,
+  "intervals": 300,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.021897810218978103,
+  "metric_type": "LatencySecond",
+  "metric_name": "security-scanner##auth_validation_time"
+}

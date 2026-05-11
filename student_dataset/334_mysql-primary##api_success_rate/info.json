@@ -1,0 +1,12 @@
+{
+  "case_id": 334,
+  "case_name": "334_mysql-primary##api_success_rate",
+  "seq_len": 512,
+  "train_seq_len": 256,
+  "test_seq_len": 256,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.16796875,
+  "test set anomaly ratio": 0.26171875,
+  "metric_type": "SuccessRate",
+  "metric_name": "mysql-primary##api_success_rate"
+}

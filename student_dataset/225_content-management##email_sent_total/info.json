@@ -1,0 +1,12 @@
+{
+  "case_id": 225,
+  "case_name": "225_content-management##email_sent_total",
+  "seq_len": 409,
+  "train_seq_len": 204,
+  "test_seq_len": 205,
+  "intervals": 300,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.06341463414634146,
+  "metric_type": "Count",
+  "metric_name": "content-management##email_sent_total"
+}

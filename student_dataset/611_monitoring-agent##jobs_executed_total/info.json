@@ -1,0 +1,12 @@
+{
+  "case_id": 611,
+  "case_name": "611_monitoring-agent##jobs_executed_total",
+  "seq_len": 635,
+  "train_seq_len": 318,
+  "test_seq_len": 317,
+  "intervals": 3600,
+  "training set anomaly ratio": 0.12578616352201258,
+  "test set anomaly ratio": 0.11356466876971609,
+  "metric_type": "Count",
+  "metric_name": "monitoring-agent##jobs_executed_total"
+}

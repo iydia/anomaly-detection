@@ -1,0 +1,12 @@
+{
+  "case_id": 161,
+  "case_name": "161_postgres-main##user_sessions_count",
+  "seq_len": 512,
+  "train_seq_len": 256,
+  "test_seq_len": 256,
+  "intervals": 60,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.03125,
+  "metric_type": "Count",
+  "metric_name": "postgres-main##user_sessions_count"
+}

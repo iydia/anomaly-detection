@@ -1,0 +1,12 @@
+{
+  "case_id": 317,
+  "case_name": "317_api-gateway##orders_created_total",
+  "seq_len": 494,
+  "train_seq_len": 247,
+  "test_seq_len": 247,
+  "intervals": 600,
+  "training set anomaly ratio": 0.044534412955465584,
+  "test set anomaly ratio": 0.05668016194331984,
+  "metric_type": "Count",
+  "metric_name": "api-gateway##orders_created_total"
+}

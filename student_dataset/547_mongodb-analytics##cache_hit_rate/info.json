@@ -1,0 +1,12 @@
+{
+  "case_id": 547,
+  "case_name": "547_mongodb-analytics##cache_hit_rate",
+  "seq_len": 413,
+  "train_seq_len": 206,
+  "test_seq_len": 207,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.18446601941747573,
+  "test set anomaly ratio": 0.2318840579710145,
+  "metric_type": "SuccessRate",
+  "metric_name": "mongodb-analytics##cache_hit_rate"
+}

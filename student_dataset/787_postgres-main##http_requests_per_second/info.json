@@ -1,0 +1,12 @@
+{
+  "case_id": 787,
+  "case_name": "787_postgres-main##http_requests_per_second",
+  "seq_len": 633,
+  "train_seq_len": 316,
+  "test_seq_len": 317,
+  "intervals": 60,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.04416403785488959,
+  "metric_type": "QPS",
+  "metric_name": "postgres-main##http_requests_per_second"
+}

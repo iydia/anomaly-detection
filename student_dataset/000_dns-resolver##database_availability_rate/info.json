@@ -1,0 +1,12 @@
+{
+  "case_id": 0,
+  "case_name": "000_dns-resolver##database_availability_rate",
+  "seq_len": 717,
+  "train_seq_len": 358,
+  "test_seq_len": 359,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.06406685236768803,
+  "metric_type": "SuccessRate",
+  "metric_name": "dns-resolver##database_availability_rate"
+}

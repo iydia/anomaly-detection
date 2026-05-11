@@ -1,0 +1,12 @@
+{
+  "case_id": 262,
+  "case_name": "262_load-balancer-01##user_registrations_total",
+  "seq_len": 967,
+  "train_seq_len": 484,
+  "test_seq_len": 483,
+  "intervals": 345,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.022774327122153208,
+  "metric_type": "Count",
+  "metric_name": "load-balancer-01##user_registrations_total"
+}

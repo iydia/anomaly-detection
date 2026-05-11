@@ -1,0 +1,12 @@
+{
+  "case_id": 52,
+  "case_name": "052_user-service##dns_lookup_time",
+  "seq_len": 972,
+  "train_seq_len": 486,
+  "test_seq_len": 486,
+  "intervals": 600,
+  "training set anomaly ratio": 0.12962962962962962,
+  "test set anomaly ratio": 0.02880658436213992,
+  "metric_type": "LatencySecond",
+  "metric_name": "user-service##dns_lookup_time"
+}

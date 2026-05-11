@@ -1,0 +1,12 @@
+{
+  "case_id": 748,
+  "case_name": "748_api-gateway##dns_resolution_errors_total",
+  "seq_len": 318,
+  "train_seq_len": 159,
+  "test_seq_len": 159,
+  "intervals": 60,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.1761006289308176,
+  "metric_type": "ErrorCount",
+  "metric_name": "api-gateway##dns_resolution_errors_total"
+}

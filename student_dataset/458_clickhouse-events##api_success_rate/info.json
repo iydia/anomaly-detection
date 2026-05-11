@@ -1,0 +1,12 @@
+{
+  "case_id": 458,
+  "case_name": "458_clickhouse-events##api_success_rate",
+  "seq_len": 830,
+  "train_seq_len": 415,
+  "test_seq_len": 415,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.024096385542168676,
+  "test set anomaly ratio": 0.09879518072289156,
+  "metric_type": "SuccessRate",
+  "metric_name": "clickhouse-events##api_success_rate"
+}

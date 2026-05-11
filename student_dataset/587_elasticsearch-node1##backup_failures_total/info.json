@@ -1,0 +1,12 @@
+{
+  "case_id": 587,
+  "case_name": "587_elasticsearch-node1##backup_failures_total",
+  "seq_len": 413,
+  "train_seq_len": 206,
+  "test_seq_len": 207,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.6038647342995169,
+  "metric_type": "ErrorCount",
+  "metric_name": "elasticsearch-node1##backup_failures_total"
+}

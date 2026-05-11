@@ -1,0 +1,12 @@
+{
+  "case_id": 43,
+  "case_name": "043_clickhouse-events##pods_created_total",
+  "seq_len": 513,
+  "train_seq_len": 256,
+  "test_seq_len": 257,
+  "intervals": 345,
+  "training set anomaly ratio": 0.15234375,
+  "test set anomaly ratio": 0.47470817120622566,
+  "metric_type": "Count",
+  "metric_name": "clickhouse-events##pods_created_total"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 486,
+  "case_name": "486_dns-server-01##orders_per_second",
+  "seq_len": 306,
+  "train_seq_len": 153,
+  "test_seq_len": 153,
+  "intervals": 864,
+  "training set anomaly ratio": 0.11764705882352941,
+  "test set anomaly ratio": 0.06535947712418301,
+  "metric_type": "QPS",
+  "metric_name": "dns-server-01##orders_per_second"
+}

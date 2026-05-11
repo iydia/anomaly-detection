@@ -1,0 +1,12 @@
+{
+  "case_id": 805,
+  "case_name": "805_cassandra-timeseries##login_attempts_per_second",
+  "seq_len": 734,
+  "train_seq_len": 367,
+  "test_seq_len": 367,
+  "intervals": 300,
+  "training set anomaly ratio": 0.20708446866485014,
+  "test set anomaly ratio": 0.1335149863760218,
+  "metric_type": "QPS",
+  "metric_name": "cassandra-timeseries##login_attempts_per_second"
+}

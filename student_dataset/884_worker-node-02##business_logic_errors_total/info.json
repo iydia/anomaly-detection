@@ -1,0 +1,12 @@
+{
+  "case_id": 884,
+  "case_name": "884_worker-node-02##business_logic_errors_total",
+  "seq_len": 826,
+  "train_seq_len": 413,
+  "test_seq_len": 413,
+  "intervals": 345,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.01694915254237288,
+  "metric_type": "ErrorCount",
+  "metric_name": "worker-node-02##business_logic_errors_total"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 146,
+  "case_name": "146_nfs-server-01##container_cpu_usage_percent",
+  "seq_len": 445,
+  "train_seq_len": 222,
+  "test_seq_len": 223,
+  "intervals": 300,
+  "training set anomaly ratio": 0.33783783783783783,
+  "test set anomaly ratio": 0.08968609865470852,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "nfs-server-01##container_cpu_usage_percent"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 121,
+  "case_name": "121_mongodb-analytics##storage_capacity_usage",
+  "seq_len": 1020,
+  "train_seq_len": 510,
+  "test_seq_len": 510,
+  "intervals": 345,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.01568627450980392,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "mongodb-analytics##storage_capacity_usage"
+}

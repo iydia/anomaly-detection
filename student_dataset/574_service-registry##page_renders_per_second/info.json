@@ -1,0 +1,12 @@
+{
+  "case_id": 574,
+  "case_name": "574_service-registry##page_renders_per_second",
+  "seq_len": 971,
+  "train_seq_len": 486,
+  "test_seq_len": 485,
+  "intervals": 300,
+  "training set anomaly ratio": 0.012345679012345678,
+  "test set anomaly ratio": 0.030927835051546393,
+  "metric_type": "QPS",
+  "metric_name": "service-registry##page_renders_per_second"
+}

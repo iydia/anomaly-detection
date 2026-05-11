@@ -1,0 +1,12 @@
+{
+  "case_id": 33,
+  "case_name": "033_hadoop-cluster##payments_processed_total",
+  "seq_len": 626,
+  "train_seq_len": 313,
+  "test_seq_len": 313,
+  "intervals": 60,
+  "training set anomaly ratio": 0.025559105431309903,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "Count",
+  "metric_name": "hadoop-cluster##payments_processed_total"
+}

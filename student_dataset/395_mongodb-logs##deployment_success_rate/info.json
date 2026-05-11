@@ -1,0 +1,12 @@
+{
+  "case_id": 395,
+  "case_name": "395_mongodb-logs##deployment_success_rate",
+  "seq_len": 1010,
+  "train_seq_len": 505,
+  "test_seq_len": 505,
+  "intervals": 864,
+  "training set anomaly ratio": 0.02574257425742574,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "SuccessRate",
+  "metric_name": "mongodb-logs##deployment_success_rate"
+}

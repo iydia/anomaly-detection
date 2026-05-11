@@ -1,0 +1,12 @@
+{
+  "case_id": 278,
+  "case_name": "278_docker2##db_query_latency",
+  "seq_len": 865,
+  "train_seq_len": 432,
+  "test_seq_len": 433,
+  "intervals": 60,
+  "training set anomaly ratio": 0.02546296296296296,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "LatencySecond",
+  "metric_name": "docker2##db_query_latency"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 794,
+  "case_name": "794_k8s-cluster-west##memory_allocation_errors_total",
+  "seq_len": 737,
+  "train_seq_len": 368,
+  "test_seq_len": 369,
+  "intervals": 3600,
+  "training set anomaly ratio": 0.07065217391304347,
+  "test set anomaly ratio": 0.06775067750677506,
+  "metric_type": "ErrorCount",
+  "metric_name": "k8s-cluster-west##memory_allocation_errors_total"
+}

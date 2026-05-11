@@ -1,0 +1,12 @@
+{
+  "case_id": 827,
+  "case_name": "827_iot-platform##cpu_utilization_percent",
+  "seq_len": 788,
+  "train_seq_len": 394,
+  "test_seq_len": 394,
+  "intervals": 300,
+  "training set anomaly ratio": 0.19796954314720813,
+  "test set anomaly ratio": 0.08375634517766498,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "iot-platform##cpu_utilization_percent"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 704,
+  "case_name": "704_user-service##cpu_utilization_percent",
+  "seq_len": 893,
+  "train_seq_len": 446,
+  "test_seq_len": 447,
+  "intervals": 864,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.06487695749440715,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "user-service##cpu_utilization_percent"
+}

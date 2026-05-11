@@ -1,0 +1,12 @@
+{
+  "case_id": 55,
+  "case_name": "055_message-broker##disk_usage_percent",
+  "seq_len": 506,
+  "train_seq_len": 253,
+  "test_seq_len": 253,
+  "intervals": 3600,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.233201581027668,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "message-broker##disk_usage_percent"
+}

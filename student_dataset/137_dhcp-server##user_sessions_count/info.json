@@ -1,0 +1,12 @@
+{
+  "case_id": 137,
+  "case_name": "137_dhcp-server##user_sessions_count",
+  "seq_len": 655,
+  "train_seq_len": 328,
+  "test_seq_len": 327,
+  "intervals": 60,
+  "training set anomaly ratio": 0.13719512195121952,
+  "test set anomaly ratio": 0.17737003058103976,
+  "metric_type": "Count",
+  "metric_name": "dhcp-server##user_sessions_count"
+}

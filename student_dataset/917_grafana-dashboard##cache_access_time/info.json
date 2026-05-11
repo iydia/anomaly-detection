@@ -1,0 +1,12 @@
+{
+  "case_id": 917,
+  "case_name": "917_grafana-dashboard##cache_access_time",
+  "seq_len": 369,
+  "train_seq_len": 184,
+  "test_seq_len": 185,
+  "intervals": 600,
+  "training set anomaly ratio": 0.28804347826086957,
+  "test set anomaly ratio": 0.14594594594594595,
+  "metric_type": "LatencySecond",
+  "metric_name": "grafana-dashboard##cache_access_time"
+}

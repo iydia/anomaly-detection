@@ -1,0 +1,12 @@
+{
+  "case_id": 596,
+  "case_name": "596_order-processing##database_connection_usage",
+  "seq_len": 276,
+  "train_seq_len": 138,
+  "test_seq_len": 138,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.043478260869565216,
+  "test set anomaly ratio": 0.2608695652173913,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "order-processing##database_connection_usage"
+}

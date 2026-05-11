@@ -1,0 +1,12 @@
+{
+  "case_id": 692,
+  "case_name": "692_api-gateway##business_logic_errors_total",
+  "seq_len": 509,
+  "train_seq_len": 254,
+  "test_seq_len": 255,
+  "intervals": 60,
+  "training set anomaly ratio": 0.1062992125984252,
+  "test set anomaly ratio": 0.06666666666666667,
+  "metric_type": "ErrorCount",
+  "metric_name": "api-gateway##business_logic_errors_total"
+}

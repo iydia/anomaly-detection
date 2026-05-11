@@ -1,0 +1,12 @@
+{
+  "case_id": 136,
+  "case_name": "136_reverse-proxy##connection_establish_time",
+  "seq_len": 825,
+  "train_seq_len": 412,
+  "test_seq_len": 413,
+  "intervals": 864,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.007263922518159807,
+  "metric_type": "LatencySecond",
+  "metric_name": "reverse-proxy##connection_establish_time"
+}

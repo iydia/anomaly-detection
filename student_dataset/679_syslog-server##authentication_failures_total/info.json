@@ -1,0 +1,12 @@
+{
+  "case_id": 679,
+  "case_name": "679_syslog-server##authentication_failures_total",
+  "seq_len": 359,
+  "train_seq_len": 180,
+  "test_seq_len": 179,
+  "intervals": 300,
+  "training set anomaly ratio": 0.2611111111111111,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "ErrorCount",
+  "metric_name": "syslog-server##authentication_failures_total"
+}

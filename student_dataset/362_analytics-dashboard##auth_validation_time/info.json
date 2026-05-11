@@ -1,0 +1,12 @@
+{
+  "case_id": 362,
+  "case_name": "362_analytics-dashboard##auth_validation_time",
+  "seq_len": 871,
+  "train_seq_len": 436,
+  "test_seq_len": 435,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.0481651376146789,
+  "test set anomaly ratio": 0.01839080459770115,
+  "metric_type": "LatencySecond",
+  "metric_name": "analytics-dashboard##auth_validation_time"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 949,
+  "case_name": "949_recommendation-service##notifications_sent_total",
+  "seq_len": 868,
+  "train_seq_len": 434,
+  "test_seq_len": 434,
+  "intervals": 60,
+  "training set anomaly ratio": 0.15898617511520738,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "Count",
+  "metric_name": "recommendation-service##notifications_sent_total"
+}

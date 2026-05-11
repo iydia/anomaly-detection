@@ -1,0 +1,12 @@
+{
+  "case_id": 424,
+  "case_name": "424_redis-cluster##connection_establish_time",
+  "seq_len": 405,
+  "train_seq_len": 202,
+  "test_seq_len": 203,
+  "intervals": 864,
+  "training set anomaly ratio": 0.15841584158415842,
+  "test set anomaly ratio": 0.12315270935960591,
+  "metric_type": "LatencySecond",
+  "metric_name": "redis-cluster##connection_establish_time"
+}

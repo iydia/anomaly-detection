@@ -1,0 +1,12 @@
+{
+  "case_id": 783,
+  "case_name": "783_reporting-engine##cache_access_time",
+  "seq_len": 291,
+  "train_seq_len": 146,
+  "test_seq_len": 145,
+  "intervals": 345,
+  "training set anomaly ratio": 0.0136986301369863,
+  "test set anomaly ratio": 0.30344827586206896,
+  "metric_type": "LatencySecond",
+  "metric_name": "reporting-engine##cache_access_time"
+}

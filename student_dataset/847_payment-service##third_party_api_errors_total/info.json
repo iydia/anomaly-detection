@@ -1,0 +1,12 @@
+{
+  "case_id": 847,
+  "case_name": "847_payment-service##third_party_api_errors_total",
+  "seq_len": 692,
+  "train_seq_len": 346,
+  "test_seq_len": 346,
+  "intervals": 345,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "ErrorCount",
+  "metric_name": "payment-service##third_party_api_errors_total"
+}

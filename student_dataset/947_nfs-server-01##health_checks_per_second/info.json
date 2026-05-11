@@ -1,0 +1,12 @@
+{
+  "case_id": 947,
+  "case_name": "947_nfs-server-01##health_checks_per_second",
+  "seq_len": 256,
+  "train_seq_len": 128,
+  "test_seq_len": 128,
+  "intervals": 600,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.0078125,
+  "metric_type": "QPS",
+  "metric_name": "nfs-server-01##health_checks_per_second"
+}

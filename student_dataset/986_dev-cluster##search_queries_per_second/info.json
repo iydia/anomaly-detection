@@ -1,0 +1,12 @@
+{
+  "case_id": 986,
+  "case_name": "986_dev-cluster##search_queries_per_second",
+  "seq_len": 414,
+  "train_seq_len": 207,
+  "test_seq_len": 207,
+  "intervals": 600,
+  "training set anomaly ratio": 0.5265700483091788,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "QPS",
+  "metric_name": "dev-cluster##search_queries_per_second"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 179,
+  "case_name": "179_consul-cluster##business_logic_errors_total",
+  "seq_len": 816,
+  "train_seq_len": 408,
+  "test_seq_len": 408,
+  "intervals": 300,
+  "training set anomaly ratio": 0.051470588235294115,
+  "test set anomaly ratio": 0.30637254901960786,
+  "metric_type": "ErrorCount",
+  "metric_name": "consul-cluster##business_logic_errors_total"
+}

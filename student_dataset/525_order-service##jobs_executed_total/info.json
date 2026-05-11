@@ -1,0 +1,12 @@
+{
+  "case_id": 525,
+  "case_name": "525_order-service##jobs_executed_total",
+  "seq_len": 463,
+  "train_seq_len": 232,
+  "test_seq_len": 231,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.10344827586206896,
+  "test set anomaly ratio": 0.19047619047619047,
+  "metric_type": "Count",
+  "metric_name": "order-service##jobs_executed_total"
+}

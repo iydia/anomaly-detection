@@ -1,0 +1,12 @@
+{
+  "case_id": 70,
+  "case_name": "070_dns-resolver##server_uptime_rate",
+  "seq_len": 763,
+  "train_seq_len": 382,
+  "test_seq_len": 381,
+  "intervals": 600,
+  "training set anomaly ratio": 0.06806282722513089,
+  "test set anomaly ratio": 0.19160104986876642,
+  "metric_type": "SuccessRate",
+  "metric_name": "dns-resolver##server_uptime_rate"
+}

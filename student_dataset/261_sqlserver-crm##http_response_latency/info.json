@@ -1,0 +1,12 @@
+{
+  "case_id": 261,
+  "case_name": "261_sqlserver-crm##http_response_latency",
+  "seq_len": 610,
+  "train_seq_len": 305,
+  "test_seq_len": 305,
+  "intervals": 3600,
+  "training set anomaly ratio": 0.12131147540983607,
+  "test set anomaly ratio": 0.14098360655737704,
+  "metric_type": "LatencySecond",
+  "metric_name": "sqlserver-crm##http_response_latency"
+}

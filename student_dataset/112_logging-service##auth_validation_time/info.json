@@ -1,0 +1,12 @@
+{
+  "case_id": 112,
+  "case_name": "112_logging-service##auth_validation_time",
+  "seq_len": 471,
+  "train_seq_len": 236,
+  "test_seq_len": 235,
+  "intervals": 864,
+  "training set anomaly ratio": 0.1864406779661017,
+  "test set anomaly ratio": 0.0851063829787234,
+  "metric_type": "LatencySecond",
+  "metric_name": "logging-service##auth_validation_time"
+}

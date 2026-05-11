@@ -1,0 +1,12 @@
+{
+  "case_id": 165,
+  "case_name": "165_hadoop-cluster##messages_published_total",
+  "seq_len": 468,
+  "train_seq_len": 234,
+  "test_seq_len": 234,
+  "intervals": 600,
+  "training set anomaly ratio": 0.05982905982905983,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "Count",
+  "metric_name": "hadoop-cluster##messages_published_total"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 552,
+  "case_name": "552_sqlserver-crm##records_inserted_per_second",
+  "seq_len": 950,
+  "train_seq_len": 475,
+  "test_seq_len": 475,
+  "intervals": 864,
+  "training set anomaly ratio": 0.016842105263157894,
+  "test set anomaly ratio": 0.09052631578947369,
+  "metric_type": "QPS",
+  "metric_name": "sqlserver-crm##records_inserted_per_second"
+}

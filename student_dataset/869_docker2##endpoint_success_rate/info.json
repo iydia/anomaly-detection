@@ -1,0 +1,12 @@
+{
+  "case_id": 869,
+  "case_name": "869_docker2##endpoint_success_rate",
+  "seq_len": 782,
+  "train_seq_len": 391,
+  "test_seq_len": 391,
+  "intervals": 600,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.0025575447570332483,
+  "metric_type": "SuccessRate",
+  "metric_name": "docker2##endpoint_success_rate"
+}

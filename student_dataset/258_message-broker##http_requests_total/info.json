@@ -1,0 +1,12 @@
+{
+  "case_id": 258,
+  "case_name": "258_message-broker##http_requests_total",
+  "seq_len": 915,
+  "train_seq_len": 458,
+  "test_seq_len": 457,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.04814004376367615,
+  "metric_type": "Count",
+  "metric_name": "message-broker##http_requests_total"
+}

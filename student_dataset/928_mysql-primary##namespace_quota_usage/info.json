@@ -1,0 +1,12 @@
+{
+  "case_id": 928,
+  "case_name": "928_mysql-primary##namespace_quota_usage",
+  "seq_len": 704,
+  "train_seq_len": 352,
+  "test_seq_len": 352,
+  "intervals": 3600,
+  "training set anomaly ratio": 0.002840909090909091,
+  "test set anomaly ratio": 0.11931818181818182,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "mysql-primary##namespace_quota_usage"
+}

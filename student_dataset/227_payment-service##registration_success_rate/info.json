@@ -1,0 +1,12 @@
+{
+  "case_id": 227,
+  "case_name": "227_payment-service##registration_success_rate",
+  "seq_len": 899,
+  "train_seq_len": 450,
+  "test_seq_len": 449,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.18888888888888888,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "SuccessRate",
+  "metric_name": "payment-service##registration_success_rate"
+}

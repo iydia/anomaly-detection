@@ -1,0 +1,12 @@
+{
+  "case_id": 105,
+  "case_name": "105_clickhouse-events##login_attempts_per_second",
+  "seq_len": 300,
+  "train_seq_len": 150,
+  "test_seq_len": 150,
+  "intervals": 600,
+  "training set anomaly ratio": 0.02,
+  "test set anomaly ratio": 0.08666666666666667,
+  "metric_type": "QPS",
+  "metric_name": "clickhouse-events##login_attempts_per_second"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 815,
+  "case_name": "815_user-mgmt##message_delivery_rate",
+  "seq_len": 342,
+  "train_seq_len": 171,
+  "test_seq_len": 171,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.11695906432748537,
+  "test set anomaly ratio": 0.543859649122807,
+  "metric_type": "SuccessRate",
+  "metric_name": "user-mgmt##message_delivery_rate"
+}

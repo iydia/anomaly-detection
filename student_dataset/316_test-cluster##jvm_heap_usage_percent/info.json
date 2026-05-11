@@ -1,0 +1,12 @@
+{
+  "case_id": 316,
+  "case_name": "316_test-cluster##jvm_heap_usage_percent",
+  "seq_len": 832,
+  "train_seq_len": 416,
+  "test_seq_len": 416,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.026442307692307692,
+  "test set anomaly ratio": 0.007211538461538462,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "test-cluster##jvm_heap_usage_percent"
+}

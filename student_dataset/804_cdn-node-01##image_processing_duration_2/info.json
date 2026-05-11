@@ -1,0 +1,12 @@
+{
+  "case_id": 804,
+  "case_name": "804_cdn-node-01##image_processing_duration_2",
+  "seq_len": 765,
+  "train_seq_len": 382,
+  "test_seq_len": 383,
+  "intervals": 300,
+  "training set anomaly ratio": 0.034031413612565446,
+  "test set anomaly ratio": 0.0026109660574412533,
+  "metric_type": "LatencySecond",
+  "metric_name": "cdn-node-01##image_processing_duration_2"
+}

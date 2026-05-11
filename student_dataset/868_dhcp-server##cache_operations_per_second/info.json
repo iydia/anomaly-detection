@@ -1,0 +1,12 @@
+{
+  "case_id": 868,
+  "case_name": "868_dhcp-server##cache_operations_per_second",
+  "seq_len": 582,
+  "train_seq_len": 291,
+  "test_seq_len": 291,
+  "intervals": 3600,
+  "training set anomaly ratio": 0.19243986254295534,
+  "test set anomaly ratio": 0.006872852233676976,
+  "metric_type": "QPS",
+  "metric_name": "dhcp-server##cache_operations_per_second"
+}

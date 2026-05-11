@@ -1,0 +1,12 @@
+{
+  "case_id": 539,
+  "case_name": "539_service-registry##thread_pool_utilization",
+  "seq_len": 635,
+  "train_seq_len": 318,
+  "test_seq_len": 317,
+  "intervals": 60,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.031545741324921134,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "service-registry##thread_pool_utilization"
+}

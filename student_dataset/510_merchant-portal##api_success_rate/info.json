@@ -1,0 +1,12 @@
+{
+  "case_id": 510,
+  "case_name": "510_merchant-portal##api_success_rate",
+  "seq_len": 1014,
+  "train_seq_len": 507,
+  "test_seq_len": 507,
+  "intervals": 345,
+  "training set anomaly ratio": 0.1913214990138067,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "SuccessRate",
+  "metric_name": "merchant-portal##api_success_rate"
+}

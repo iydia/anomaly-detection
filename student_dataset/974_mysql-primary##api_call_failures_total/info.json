@@ -1,0 +1,12 @@
+{
+  "case_id": 974,
+  "case_name": "974_mysql-primary##api_call_failures_total",
+  "seq_len": 325,
+  "train_seq_len": 162,
+  "test_seq_len": 163,
+  "intervals": 345,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.2883435582822086,
+  "metric_type": "ErrorCount",
+  "metric_name": "mysql-primary##api_call_failures_total"
+}

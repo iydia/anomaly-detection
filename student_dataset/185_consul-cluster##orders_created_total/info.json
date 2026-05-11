@@ -1,0 +1,12 @@
+{
+  "case_id": 185,
+  "case_name": "185_consul-cluster##orders_created_total",
+  "seq_len": 793,
+  "train_seq_len": 396,
+  "test_seq_len": 397,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.06060606060606061,
+  "test set anomaly ratio": 0.060453400503778336,
+  "metric_type": "Count",
+  "metric_name": "consul-cluster##orders_created_total"
+}

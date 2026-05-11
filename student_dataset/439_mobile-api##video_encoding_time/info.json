@@ -1,0 +1,12 @@
+{
+  "case_id": 439,
+  "case_name": "439_mobile-api##video_encoding_time",
+  "seq_len": 802,
+  "train_seq_len": 401,
+  "test_seq_len": 401,
+  "intervals": 345,
+  "training set anomaly ratio": 0.0199501246882793,
+  "test set anomaly ratio": 0.1970074812967581,
+  "metric_type": "LatencySecond",
+  "metric_name": "mobile-api##video_encoding_time"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 698,
+  "case_name": "698_discovery-service##user_login_success_rate",
+  "seq_len": 540,
+  "train_seq_len": 270,
+  "test_seq_len": 270,
+  "intervals": 300,
+  "training set anomaly ratio": 0.018518518518518517,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "SuccessRate",
+  "metric_name": "discovery-service##user_login_success_rate"
+}

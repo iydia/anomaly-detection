@@ -1,0 +1,12 @@
+{
+  "case_id": 416,
+  "case_name": "416_postgres-read-1##image_uploads_per_second",
+  "seq_len": 910,
+  "train_seq_len": 455,
+  "test_seq_len": 455,
+  "intervals": 60,
+  "training set anomaly ratio": 0.026373626373626374,
+  "test set anomaly ratio": 0.1010989010989011,
+  "metric_type": "QPS",
+  "metric_name": "postgres-read-1##image_uploads_per_second"
+}

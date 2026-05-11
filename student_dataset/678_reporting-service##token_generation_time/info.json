@@ -1,0 +1,12 @@
+{
+  "case_id": 678,
+  "case_name": "678_reporting-service##token_generation_time",
+  "seq_len": 555,
+  "train_seq_len": 278,
+  "test_seq_len": 277,
+  "intervals": 345,
+  "training set anomaly ratio": 0.21942446043165467,
+  "test set anomaly ratio": 0.10830324909747292,
+  "metric_type": "LatencySecond",
+  "metric_name": "reporting-service##token_generation_time"
+}

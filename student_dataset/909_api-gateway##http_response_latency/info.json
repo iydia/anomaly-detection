@@ -1,0 +1,12 @@
+{
+  "case_id": 909,
+  "case_name": "909_api-gateway##http_response_latency",
+  "seq_len": 1024,
+  "train_seq_len": 512,
+  "test_seq_len": 512,
+  "intervals": 300,
+  "training set anomaly ratio": 0.033203125,
+  "test set anomaly ratio": 0.01953125,
+  "metric_type": "LatencySecond",
+  "metric_name": "api-gateway##http_response_latency"
+}

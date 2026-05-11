@@ -1,0 +1,12 @@
+{
+  "case_id": 392,
+  "case_name": "392_redis-cluster##worker_pool_usage_percent",
+  "seq_len": 866,
+  "train_seq_len": 433,
+  "test_seq_len": 433,
+  "intervals": 345,
+  "training set anomaly ratio": 0.17551963048498845,
+  "test set anomaly ratio": 0.05542725173210162,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "redis-cluster##worker_pool_usage_percent"
+}

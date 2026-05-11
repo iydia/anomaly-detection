@@ -1,0 +1,12 @@
+{
+  "case_id": 344,
+  "case_name": "344_cdn-edge##server_uptime_rate",
+  "seq_len": 985,
+  "train_seq_len": 492,
+  "test_seq_len": 493,
+  "intervals": 864,
+  "training set anomaly ratio": 0.022357723577235773,
+  "test set anomaly ratio": 0.016227180527383367,
+  "metric_type": "SuccessRate",
+  "metric_name": "cdn-edge##server_uptime_rate"
+}

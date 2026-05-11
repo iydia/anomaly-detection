@@ -1,0 +1,12 @@
+{
+  "case_id": 270,
+  "case_name": "270_k8s-cluster-east##rest_api_latency",
+  "seq_len": 355,
+  "train_seq_len": 178,
+  "test_seq_len": 177,
+  "intervals": 600,
+  "training set anomaly ratio": 0.05056179775280899,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "LatencySecond",
+  "metric_name": "k8s-cluster-east##rest_api_latency"
+}

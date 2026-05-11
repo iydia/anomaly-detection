@@ -1,0 +1,12 @@
+{
+  "case_id": 701,
+  "case_name": "701_prod-cluster##disk_read_latency",
+  "seq_len": 596,
+  "train_seq_len": 298,
+  "test_seq_len": 298,
+  "intervals": 300,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.09395973154362416,
+  "metric_type": "LatencySecond",
+  "metric_name": "prod-cluster##disk_read_latency"
+}

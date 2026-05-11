@@ -1,0 +1,12 @@
+{
+  "case_id": 208,
+  "case_name": "208_monitoring-agent##file_write_duration",
+  "seq_len": 425,
+  "train_seq_len": 212,
+  "test_seq_len": 213,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.1179245283018868,
+  "test set anomaly ratio": 0.009389671361502348,
+  "metric_type": "LatencySecond",
+  "metric_name": "monitoring-agent##file_write_duration"
+}

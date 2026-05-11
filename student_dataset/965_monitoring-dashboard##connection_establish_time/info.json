@@ -1,0 +1,12 @@
+{
+  "case_id": 965,
+  "case_name": "965_monitoring-dashboard##connection_establish_time",
+  "seq_len": 672,
+  "train_seq_len": 336,
+  "test_seq_len": 336,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.13690476190476192,
+  "test set anomaly ratio": 0.08630952380952381,
+  "metric_type": "LatencySecond",
+  "metric_name": "monitoring-dashboard##connection_establish_time"
+}

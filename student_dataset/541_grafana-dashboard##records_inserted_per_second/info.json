@@ -1,0 +1,12 @@
+{
+  "case_id": 541,
+  "case_name": "541_grafana-dashboard##records_inserted_per_second",
+  "seq_len": 803,
+  "train_seq_len": 402,
+  "test_seq_len": 401,
+  "intervals": 60,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "QPS",
+  "metric_name": "grafana-dashboard##records_inserted_per_second"
+}

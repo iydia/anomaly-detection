@@ -1,0 +1,12 @@
+{
+  "case_id": 727,
+  "case_name": "727_cdn-node-01##payment_success_rate",
+  "seq_len": 784,
+  "train_seq_len": 392,
+  "test_seq_len": 392,
+  "intervals": 864,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "SuccessRate",
+  "metric_name": "cdn-node-01##payment_success_rate"
+}

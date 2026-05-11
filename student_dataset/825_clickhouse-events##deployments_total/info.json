@@ -1,0 +1,12 @@
+{
+  "case_id": 825,
+  "case_name": "825_clickhouse-events##deployments_total",
+  "seq_len": 475,
+  "train_seq_len": 238,
+  "test_seq_len": 237,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.04201680672268908,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "Count",
+  "metric_name": "clickhouse-events##deployments_total"
+}

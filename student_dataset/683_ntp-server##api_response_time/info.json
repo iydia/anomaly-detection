@@ -1,0 +1,12 @@
+{
+  "case_id": 683,
+  "case_name": "683_ntp-server##api_response_time",
+  "seq_len": 940,
+  "train_seq_len": 470,
+  "test_seq_len": 470,
+  "intervals": 864,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.036170212765957444,
+  "metric_type": "LatencySecond",
+  "metric_name": "ntp-server##api_response_time"
+}

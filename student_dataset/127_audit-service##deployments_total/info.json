@@ -1,0 +1,12 @@
+{
+  "case_id": 127,
+  "case_name": "127_audit-service##deployments_total",
+  "seq_len": 257,
+  "train_seq_len": 128,
+  "test_seq_len": 129,
+  "intervals": 864,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.3643410852713178,
+  "metric_type": "Count",
+  "metric_name": "audit-service##deployments_total"
+}

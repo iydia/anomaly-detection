@@ -1,0 +1,12 @@
+{
+  "case_id": 283,
+  "case_name": "283_consul-agent-1##cache_operations_per_second",
+  "seq_len": 948,
+  "train_seq_len": 474,
+  "test_seq_len": 474,
+  "intervals": 60,
+  "training set anomaly ratio": 0.016877637130801686,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "QPS",
+  "metric_name": "consul-agent-1##cache_operations_per_second"
+}

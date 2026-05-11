@@ -1,0 +1,12 @@
+{
+  "case_id": 957,
+  "case_name": "957_load-balancer-01##network_bandwidth_utilization_2",
+  "seq_len": 405,
+  "train_seq_len": 202,
+  "test_seq_len": 203,
+  "intervals": 600,
+  "training set anomaly ratio": 0.23267326732673269,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "load-balancer-01##network_bandwidth_utilization_2"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 600,
+  "case_name": "600_mysql-primary##login_attempts_per_second",
+  "seq_len": 448,
+  "train_seq_len": 224,
+  "test_seq_len": 224,
+  "intervals": 345,
+  "training set anomaly ratio": 0.07142857142857142,
+  "test set anomaly ratio": 0.26339285714285715,
+  "metric_type": "QPS",
+  "metric_name": "mysql-primary##login_attempts_per_second"
+}

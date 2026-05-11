@@ -1,0 +1,12 @@
+{
+  "case_id": 294,
+  "case_name": "294_redis-cluster##api_success_rate",
+  "seq_len": 302,
+  "train_seq_len": 151,
+  "test_seq_len": 151,
+  "intervals": 60,
+  "training set anomaly ratio": 0.013245033112582781,
+  "test set anomaly ratio": 0.16556291390728478,
+  "metric_type": "SuccessRate",
+  "metric_name": "redis-cluster##api_success_rate"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 151,
+  "case_name": "151_cache-server-01##api_requests_per_second",
+  "seq_len": 796,
+  "train_seq_len": 398,
+  "test_seq_len": 398,
+  "intervals": 60,
+  "training set anomaly ratio": 0.1984924623115578,
+  "test set anomaly ratio": 0.032663316582914576,
+  "metric_type": "QPS",
+  "metric_name": "cache-server-01##api_requests_per_second"
+}

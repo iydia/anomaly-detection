@@ -1,0 +1,12 @@
+{
+  "case_id": 460,
+  "case_name": "460_kafka-cluster##grpc_call_duration",
+  "seq_len": 843,
+  "train_seq_len": 422,
+  "test_seq_len": 421,
+  "intervals": 3600,
+  "training set anomaly ratio": 0.035545023696682464,
+  "test set anomaly ratio": 0.07363420427553444,
+  "metric_type": "LatencySecond",
+  "metric_name": "kafka-cluster##grpc_call_duration"
+}

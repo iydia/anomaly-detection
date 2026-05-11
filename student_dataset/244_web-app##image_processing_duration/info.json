@@ -1,0 +1,12 @@
+{
+  "case_id": 244,
+  "case_name": "244_web-app##image_processing_duration",
+  "seq_len": 1024,
+  "train_seq_len": 512,
+  "test_seq_len": 512,
+  "intervals": 600,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.119140625,
+  "metric_type": "LatencySecond",
+  "metric_name": "web-app##image_processing_duration"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 267,
+  "case_name": "267_data-pipeline##database_errors_total",
+  "seq_len": 584,
+  "train_seq_len": 292,
+  "test_seq_len": 292,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.1643835616438356,
+  "test set anomaly ratio": 0.030821917808219176,
+  "metric_type": "ErrorCount",
+  "metric_name": "data-pipeline##database_errors_total"
+}

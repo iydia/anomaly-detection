@@ -1,0 +1,12 @@
+{
+  "case_id": 782,
+  "case_name": "782_nat-gateway##database_availability_rate",
+  "seq_len": 832,
+  "train_seq_len": 416,
+  "test_seq_len": 416,
+  "intervals": 300,
+  "training set anomaly ratio": 0.08653846153846154,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "SuccessRate",
+  "metric_name": "nat-gateway##database_availability_rate"
+}

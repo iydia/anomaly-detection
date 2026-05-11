@@ -1,0 +1,12 @@
+{
+  "case_id": 886,
+  "case_name": "886_discovery-service##user_registrations_total",
+  "seq_len": 635,
+  "train_seq_len": 318,
+  "test_seq_len": 317,
+  "intervals": 864,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.03470031545741325,
+  "metric_type": "Count",
+  "metric_name": "discovery-service##user_registrations_total"
+}

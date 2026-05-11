@@ -1,0 +1,12 @@
+{
+  "case_id": 400,
+  "case_name": "400_prometheus-server##cache_hits_total",
+  "seq_len": 848,
+  "train_seq_len": 424,
+  "test_seq_len": 424,
+  "intervals": 864,
+  "training set anomaly ratio": 0.02122641509433962,
+  "test set anomaly ratio": 0.02358490566037736,
+  "metric_type": "Count",
+  "metric_name": "prometheus-server##cache_hits_total"
+}

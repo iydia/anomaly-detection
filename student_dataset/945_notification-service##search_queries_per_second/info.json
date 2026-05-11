@@ -1,0 +1,12 @@
+{
+  "case_id": 945,
+  "case_name": "945_notification-service##search_queries_per_second",
+  "seq_len": 853,
+  "train_seq_len": 426,
+  "test_seq_len": 427,
+  "intervals": 864,
+  "training set anomaly ratio": 0.15023474178403756,
+  "test set anomaly ratio": 0.03044496487119438,
+  "metric_type": "QPS",
+  "metric_name": "notification-service##search_queries_per_second"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 366,
+  "case_name": "366_iot-platform##database_connections_total",
+  "seq_len": 948,
+  "train_seq_len": 474,
+  "test_seq_len": 474,
+  "intervals": 864,
+  "training set anomaly ratio": 0.03375527426160337,
+  "test set anomaly ratio": 0.04219409282700422,
+  "metric_type": "Count",
+  "metric_name": "iot-platform##database_connections_total"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 180,
+  "case_name": "180_api-proxy##user_login_success_rate",
+  "seq_len": 400,
+  "train_seq_len": 200,
+  "test_seq_len": 200,
+  "intervals": 345,
+  "training set anomaly ratio": 0.05,
+  "test set anomaly ratio": 0.035,
+  "metric_type": "SuccessRate",
+  "metric_name": "api-proxy##user_login_success_rate"
+}

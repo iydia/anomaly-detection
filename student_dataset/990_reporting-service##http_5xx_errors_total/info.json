@@ -1,0 +1,12 @@
+{
+  "case_id": 990,
+  "case_name": "990_reporting-service##http_5xx_errors_total",
+  "seq_len": 737,
+  "train_seq_len": 368,
+  "test_seq_len": 369,
+  "intervals": 300,
+  "training set anomaly ratio": 0.04619565217391304,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "ErrorCount",
+  "metric_name": "reporting-service##http_5xx_errors_total"
+}

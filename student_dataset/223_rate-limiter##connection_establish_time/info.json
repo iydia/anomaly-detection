@@ -1,0 +1,12 @@
+{
+  "case_id": 223,
+  "case_name": "223_rate-limiter##connection_establish_time",
+  "seq_len": 464,
+  "train_seq_len": 232,
+  "test_seq_len": 232,
+  "intervals": 300,
+  "training set anomaly ratio": 0.09051724137931035,
+  "test set anomaly ratio": 0.03879310344827586,
+  "metric_type": "LatencySecond",
+  "metric_name": "rate-limiter##connection_establish_time"
+}

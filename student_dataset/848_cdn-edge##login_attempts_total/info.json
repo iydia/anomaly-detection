@@ -1,0 +1,12 @@
+{
+  "case_id": 848,
+  "case_name": "848_cdn-edge##login_attempts_total",
+  "seq_len": 711,
+  "train_seq_len": 356,
+  "test_seq_len": 355,
+  "intervals": 864,
+  "training set anomaly ratio": 0.028089887640449437,
+  "test set anomaly ratio": 0.022535211267605635,
+  "metric_type": "Count",
+  "metric_name": "cdn-edge##login_attempts_total"
+}

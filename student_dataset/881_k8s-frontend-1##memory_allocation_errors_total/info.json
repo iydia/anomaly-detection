@@ -1,0 +1,12 @@
+{
+  "case_id": 881,
+  "case_name": "881_k8s-frontend-1##memory_allocation_errors_total",
+  "seq_len": 877,
+  "train_seq_len": 438,
+  "test_seq_len": 439,
+  "intervals": 60,
+  "training set anomaly ratio": 0.1278538812785388,
+  "test set anomaly ratio": 0.23006833712984054,
+  "metric_type": "ErrorCount",
+  "metric_name": "k8s-frontend-1##memory_allocation_errors_total"
+}

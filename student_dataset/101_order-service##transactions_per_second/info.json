@@ -1,0 +1,12 @@
+{
+  "case_id": 101,
+  "case_name": "101_order-service##transactions_per_second",
+  "seq_len": 568,
+  "train_seq_len": 284,
+  "test_seq_len": 284,
+  "intervals": 60,
+  "training set anomaly ratio": 0.15140845070422534,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "QPS",
+  "metric_name": "order-service##transactions_per_second"
+}

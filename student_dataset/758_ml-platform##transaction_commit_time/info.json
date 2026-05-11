@@ -1,0 +1,12 @@
+{
+  "case_id": 758,
+  "case_name": "758_ml-platform##transaction_commit_time",
+  "seq_len": 256,
+  "train_seq_len": 128,
+  "test_seq_len": 128,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.34375,
+  "test set anomaly ratio": 0.4609375,
+  "metric_type": "LatencySecond",
+  "metric_name": "ml-platform##transaction_commit_time"
+}

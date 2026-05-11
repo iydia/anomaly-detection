@@ -1,0 +1,12 @@
+{
+  "case_id": 158,
+  "case_name": "158_postgres-read-1##http_response_latency",
+  "seq_len": 830,
+  "train_seq_len": 415,
+  "test_seq_len": 415,
+  "intervals": 864,
+  "training set anomaly ratio": 0.01927710843373494,
+  "test set anomaly ratio": 0.10843373493975904,
+  "metric_type": "LatencySecond",
+  "metric_name": "postgres-read-1##http_response_latency"
+}

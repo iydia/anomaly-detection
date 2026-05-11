@@ -1,0 +1,12 @@
+{
+  "case_id": 850,
+  "case_name": "850_service-registry##jvm_heap_usage_percent",
+  "seq_len": 476,
+  "train_seq_len": 238,
+  "test_seq_len": 238,
+  "intervals": 345,
+  "training set anomaly ratio": 0.3025210084033613,
+  "test set anomaly ratio": 0.28991596638655465,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "service-registry##jvm_heap_usage_percent"
+}

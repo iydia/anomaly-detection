@@ -1,0 +1,12 @@
+{
+  "case_id": 920,
+  "case_name": "920_k8s-cluster-east##message_delivery_rate",
+  "seq_len": 716,
+  "train_seq_len": 358,
+  "test_seq_len": 358,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.027932960893854747,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "SuccessRate",
+  "metric_name": "k8s-cluster-east##message_delivery_rate"
+}

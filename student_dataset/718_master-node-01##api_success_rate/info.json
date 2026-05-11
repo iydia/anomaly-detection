@@ -1,0 +1,12 @@
+{
+  "case_id": 718,
+  "case_name": "718_master-node-01##api_success_rate",
+  "seq_len": 723,
+  "train_seq_len": 362,
+  "test_seq_len": 361,
+  "intervals": 60,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.06371191135734072,
+  "metric_type": "SuccessRate",
+  "metric_name": "master-node-01##api_success_rate"
+}

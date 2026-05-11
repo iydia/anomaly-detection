@@ -1,0 +1,12 @@
+{
+  "case_id": 762,
+  "case_name": "762_content-management##container_starts_per_second",
+  "seq_len": 499,
+  "train_seq_len": 250,
+  "test_seq_len": 249,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.14,
+  "test set anomaly ratio": 0.14457831325301204,
+  "metric_type": "QPS",
+  "metric_name": "content-management##container_starts_per_second"
+}

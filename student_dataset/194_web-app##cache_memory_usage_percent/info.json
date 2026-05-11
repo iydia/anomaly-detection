@@ -1,0 +1,12 @@
+{
+  "case_id": 194,
+  "case_name": "194_web-app##cache_memory_usage_percent",
+  "seq_len": 256,
+  "train_seq_len": 128,
+  "test_seq_len": 128,
+  "intervals": 600,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.0703125,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "web-app##cache_memory_usage_percent"
+}

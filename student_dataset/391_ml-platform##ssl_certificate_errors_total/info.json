@@ -1,0 +1,12 @@
+{
+  "case_id": 391,
+  "case_name": "391_ml-platform##ssl_certificate_errors_total",
+  "seq_len": 395,
+  "train_seq_len": 198,
+  "test_seq_len": 197,
+  "intervals": 60,
+  "training set anomaly ratio": 0.26262626262626265,
+  "test set anomaly ratio": 0.2131979695431472,
+  "metric_type": "ErrorCount",
+  "metric_name": "ml-platform##ssl_certificate_errors_total"
+}

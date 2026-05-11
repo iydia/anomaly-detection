@@ -1,0 +1,12 @@
+{
+  "case_id": 598,
+  "case_name": "598_backup-server##payments_per_second",
+  "seq_len": 937,
+  "train_seq_len": 468,
+  "test_seq_len": 469,
+  "intervals": 300,
+  "training set anomaly ratio": 0.0811965811965812,
+  "test set anomaly ratio": 0.031982942430703626,
+  "metric_type": "QPS",
+  "metric_name": "backup-server##payments_per_second"
+}

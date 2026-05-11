@@ -1,0 +1,12 @@
+{
+  "case_id": 657,
+  "case_name": "657_redis-cluster##grpc_call_duration",
+  "seq_len": 512,
+  "train_seq_len": 256,
+  "test_seq_len": 256,
+  "intervals": 345,
+  "training set anomaly ratio": 0.19140625,
+  "test set anomaly ratio": 0.09765625,
+  "metric_type": "LatencySecond",
+  "metric_name": "redis-cluster##grpc_call_duration"
+}

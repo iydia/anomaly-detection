@@ -1,0 +1,12 @@
+{
+  "case_id": 961,
+  "case_name": "961_k8s-backend-2##auth_validation_time",
+  "seq_len": 373,
+  "train_seq_len": 186,
+  "test_seq_len": 187,
+  "intervals": 60,
+  "training set anomaly ratio": 0.053763440860215055,
+  "test set anomaly ratio": 0.2192513368983957,
+  "metric_type": "LatencySecond",
+  "metric_name": "k8s-backend-2##auth_validation_time"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 198,
+  "case_name": "198_mongodb-analytics##user_registrations_total",
+  "seq_len": 256,
+  "train_seq_len": 128,
+  "test_seq_len": 128,
+  "intervals": 3600,
+  "training set anomaly ratio": 0.1328125,
+  "test set anomaly ratio": 0.0,
+  "metric_type": "Count",
+  "metric_name": "mongodb-analytics##user_registrations_total"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 661,
+  "case_name": "661_api-proxy##database_errors_total",
+  "seq_len": 457,
+  "train_seq_len": 228,
+  "test_seq_len": 229,
+  "intervals": 600,
+  "training set anomaly ratio": 0.38596491228070173,
+  "test set anomaly ratio": 0.31877729257641924,
+  "metric_type": "ErrorCount",
+  "metric_name": "api-proxy##database_errors_total"
+}

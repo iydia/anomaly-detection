@@ -1,0 +1,12 @@
+{
+  "case_id": 386,
+  "case_name": "386_elasticsearch-cluster##page_renders_per_second",
+  "seq_len": 490,
+  "train_seq_len": 245,
+  "test_seq_len": 245,
+  "intervals": 864,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.04081632653061224,
+  "metric_type": "QPS",
+  "metric_name": "elasticsearch-cluster##page_renders_per_second"
+}

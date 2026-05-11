@@ -1,0 +1,12 @@
+{
+  "case_id": 839,
+  "case_name": "839_syslog-server##login_attempts_per_second",
+  "seq_len": 586,
+  "train_seq_len": 293,
+  "test_seq_len": 293,
+  "intervals": 600,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.04436860068259386,
+  "metric_type": "QPS",
+  "metric_name": "syslog-server##login_attempts_per_second"
+}

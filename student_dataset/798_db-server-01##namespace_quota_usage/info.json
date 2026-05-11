@@ -1,0 +1,12 @@
+{
+  "case_id": 798,
+  "case_name": "798_db-server-01##namespace_quota_usage",
+  "seq_len": 835,
+  "train_seq_len": 418,
+  "test_seq_len": 417,
+  "intervals": 300,
+  "training set anomaly ratio": 0.02631578947368421,
+  "test set anomaly ratio": 0.11270983213429256,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "db-server-01##namespace_quota_usage"
+}

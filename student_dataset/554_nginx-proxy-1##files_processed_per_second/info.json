@@ -1,0 +1,12 @@
+{
+  "case_id": 554,
+  "case_name": "554_nginx-proxy-1##files_processed_per_second",
+  "seq_len": 746,
+  "train_seq_len": 373,
+  "test_seq_len": 373,
+  "intervals": 300,
+  "training set anomaly ratio": 0.21179624664879357,
+  "test set anomaly ratio": 0.1260053619302949,
+  "metric_type": "QPS",
+  "metric_name": "nginx-proxy-1##files_processed_per_second"
+}

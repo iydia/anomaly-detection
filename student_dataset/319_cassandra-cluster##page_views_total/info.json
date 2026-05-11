@@ -1,0 +1,12 @@
+{
+  "case_id": 319,
+  "case_name": "319_cassandra-cluster##page_views_total",
+  "seq_len": 509,
+  "train_seq_len": 254,
+  "test_seq_len": 255,
+  "intervals": 864,
+  "training set anomaly ratio": 0.2755905511811024,
+  "test set anomaly ratio": 0.08627450980392157,
+  "metric_type": "Count",
+  "metric_name": "cassandra-cluster##page_views_total"
+}

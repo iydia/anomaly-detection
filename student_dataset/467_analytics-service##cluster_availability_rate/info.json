@@ -1,0 +1,12 @@
+{
+  "case_id": 467,
+  "case_name": "467_analytics-service##cluster_availability_rate",
+  "seq_len": 498,
+  "train_seq_len": 249,
+  "test_seq_len": 249,
+  "intervals": 345,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.03614457831325301,
+  "metric_type": "SuccessRate",
+  "metric_name": "analytics-service##cluster_availability_rate"
+}

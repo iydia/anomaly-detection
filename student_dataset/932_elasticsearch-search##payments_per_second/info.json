@@ -1,0 +1,12 @@
+{
+  "case_id": 932,
+  "case_name": "932_elasticsearch-search##payments_per_second",
+  "seq_len": 347,
+  "train_seq_len": 174,
+  "test_seq_len": 173,
+  "intervals": 600,
+  "training set anomaly ratio": 0.040229885057471264,
+  "test set anomaly ratio": 0.2543352601156069,
+  "metric_type": "QPS",
+  "metric_name": "elasticsearch-search##payments_per_second"
+}

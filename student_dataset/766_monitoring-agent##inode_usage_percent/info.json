@@ -1,0 +1,12 @@
+{
+  "case_id": 766,
+  "case_name": "766_monitoring-agent##inode_usage_percent",
+  "seq_len": 625,
+  "train_seq_len": 312,
+  "test_seq_len": 313,
+  "intervals": 300,
+  "training set anomaly ratio": 0.125,
+  "test set anomaly ratio": 0.03194888178913738,
+  "metric_type": "ResourceUtilizationRate",
+  "metric_name": "monitoring-agent##inode_usage_percent"
+}

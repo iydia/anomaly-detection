@@ -1,0 +1,12 @@
+{
+  "case_id": 414,
+  "case_name": "414_mongodb-logs##login_attempts_per_second",
+  "seq_len": 617,
+  "train_seq_len": 308,
+  "test_seq_len": 309,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.11003236245954692,
+  "metric_type": "QPS",
+  "metric_name": "mongodb-logs##login_attempts_per_second"
+}

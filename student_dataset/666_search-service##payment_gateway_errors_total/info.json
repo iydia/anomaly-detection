@@ -1,0 +1,12 @@
+{
+  "case_id": 666,
+  "case_name": "666_search-service##payment_gateway_errors_total",
+  "seq_len": 498,
+  "train_seq_len": 249,
+  "test_seq_len": 249,
+  "intervals": 864,
+  "training set anomaly ratio": 0.020080321285140562,
+  "test set anomaly ratio": 0.008032128514056224,
+  "metric_type": "ErrorCount",
+  "metric_name": "search-service##payment_gateway_errors_total"
+}

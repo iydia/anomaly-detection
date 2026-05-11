@@ -1,0 +1,12 @@
+{
+  "case_id": 778,
+  "case_name": "778_elasticsearch-node1##file_write_duration",
+  "seq_len": 558,
+  "train_seq_len": 279,
+  "test_seq_len": 279,
+  "intervals": 300,
+  "training set anomaly ratio": 0.13261648745519714,
+  "test set anomaly ratio": 0.05734767025089606,
+  "metric_type": "LatencySecond",
+  "metric_name": "elasticsearch-node1##file_write_duration"
+}

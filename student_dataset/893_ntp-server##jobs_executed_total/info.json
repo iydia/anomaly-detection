@@ -1,0 +1,12 @@
+{
+  "case_id": 893,
+  "case_name": "893_ntp-server##jobs_executed_total",
+  "seq_len": 787,
+  "train_seq_len": 394,
+  "test_seq_len": 393,
+  "intervals": 1200,
+  "training set anomaly ratio": 0.04060913705583756,
+  "test set anomaly ratio": 0.043256997455470736,
+  "metric_type": "Count",
+  "metric_name": "ntp-server##jobs_executed_total"
+}

@@ -1,0 +1,12 @@
+{
+  "case_id": 649,
+  "case_name": "649_pod-api-02##page_views_total",
+  "seq_len": 660,
+  "train_seq_len": 330,
+  "test_seq_len": 330,
+  "intervals": 345,
+  "training set anomaly ratio": 0.0,
+  "test set anomaly ratio": 0.01818181818181818,
+  "metric_type": "Count",
+  "metric_name": "pod-api-02##page_views_total"
+}
