@@ -28,7 +28,7 @@ from pathlib import Path
 import numpy as np
 
 DATASET_ROOT = Path("student_dataset")
-OUTPUT_JSON = Path("submission.json")
+OUTPUT_JSON = Path("submission_simple.json")
 
 
 def predict_window(test_npy_path: Path, threshold: float = 2.0) -> list[int]:
