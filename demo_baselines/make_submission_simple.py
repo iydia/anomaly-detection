@@ -13,7 +13,14 @@ DATASET_ROOT = Path("student_dataset")
 OUTPUT_JSON = Path("submission.json")
 Set DATASET_ROOT to the folder where you extracted the dataset. For example, if your dataset folder is named student, change it to Path("student").
 OUTPUT_JSON is the output file name. You can keep it as submission.json.
+
+To generate submission.json:
+
+pip install numpy
+python3 demo_baselines/make_submission_simple.py
+
 """
+
 import json
 from pathlib import Path
 
