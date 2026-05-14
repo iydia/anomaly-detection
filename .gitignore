@@ -1,3 +1,6 @@
+# Submission.json because it keeps changing iteratively throughout the process
+submission.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
