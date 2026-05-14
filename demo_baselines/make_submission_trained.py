@@ -1,3 +1,11 @@
+"""
+To compile .venv:
+pip install numpy
+
+To generate submission.json:
+source /Users/lydiahe/anomaly-detection/.venv/bin/activate
+python3 demo_baselines/make_submission_trained.py
+"""
 import json
 from pathlib import Path
 
