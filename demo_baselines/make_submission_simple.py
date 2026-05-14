@@ -23,7 +23,6 @@ python3 demo_baselines/make_submission_simple.py
 
 import json
 from pathlib import Path
-
 import numpy as np
 
 DATASET_ROOT = Path("student_dataset")
@@ -31,7 +30,7 @@ OUTPUT_JSON = Path("submission.json")
 
 
 def predict_window(test_npy_path: Path, threshold: float = 2.0) -> list[int]:
-    x = np.asarray(np.load(test_npy_path), dtype=np.float64).ravel()
+    x = np.asarray(np.load(test_npy_path), dtype=np.float64).ravel() # load test.npy file, ensure it's a 1D array of floats
 
     if x.size == 0:
         return []
@@ -39,28 +38,26 @@ def predict_window(test_npy_path: Path, threshold: float = 2.0) -> list[int]:
     mean = float(np.mean(x))
     std = float(np.std(x))
 
-    if std < 1e-9:
-        return [0] * int(x.size)
+    if std < 1e-9: # atdev very small, cannot compute z-scores reliably
+        return [0] * int(x.size) # mark points as normal
 
-    z = (x - mean) / (std + 1e-9)
-    pred = (np.abs(z) > threshold).astype(np.int64)
+    z = (x - mean) / (std + 1e-9) # compute z-scores, add small epsilon to avoid division by zero
+    pred = (np.abs(z) > threshold).astype(np.int64) # mark abs(z-score) > threshold as anomalies (1), else normal (0)
     return [int(v) for v in pred.tolist()]
 
 
 def main() -> None:
     predictions = {}
-
     window_dirs = sorted(
         p for p in DATASET_ROOT.iterdir()
-        if p.is_dir() and (p / "test.npy").is_file()
+        if p.is_dir() and (p / "test.npy").is_file() # only consider directories that contain test.npy
     )
-
     if not window_dirs:
         raise RuntimeError(f"No test windows found under {DATASET_ROOT}")
 
-    for window_dir in window_dirs:
-        window_id = window_dir.name.split("_", 1)[0]
-        predictions[window_id] = predict_window(window_dir / "test.npy")
+    for window_dir in window_dirs: # each window_dir is expected to be a directory containing test.npy
+        window_id = window_dir.name.split("_", 1)[0] # extract window_id from the directory name
+        predictions[window_id] = predict_window(window_dir / "test.npy") # generate predictions for the test.npy file in the window_dir
 
     payload = {"predictions": predictions}
 
@@ -68,7 +65,6 @@ def main() -> None:
         json.dumps(payload, ensure_ascii=False, separators=(",", ":")),
         encoding="utf-8",
     )
-
     print(f"Wrote {OUTPUT_JSON}")
     print(f"Number of windows: {len(predictions)}")
 
