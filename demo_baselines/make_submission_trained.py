@@ -12,7 +12,7 @@ from pathlib import Path
 import numpy as np
 
 DATASET_ROOT = Path("student_dataset")
-OUTPUT_JSON = Path("submission.json")
+OUTPUT_JSON = Path("submission_trained.json")
 
 
 def binary_f1(y_true: np.ndarray, y_pred: np.ndarray) -> float:
