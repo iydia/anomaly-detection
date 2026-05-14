@@ -14,9 +14,11 @@ OUTPUT_JSON = Path("submission.json")
 Set DATASET_ROOT to the folder where you extracted the dataset. For example, if your dataset folder is named student, change it to Path("student").
 OUTPUT_JSON is the output file name. You can keep it as submission.json.
 
-To generate submission.json:
-
+To compile .venv:
 pip install numpy
+
+To generate submission.json:
+source /Users/lydiahe/anomaly-detection/.venv/bin/activate
 python3 demo_baselines/make_submission_simple.py
 
 """
